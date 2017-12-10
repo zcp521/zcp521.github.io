@@ -4,7 +4,7 @@ title: "Publications"
 tagline: "My publication list"
 ---
 
-## Pee-reviewed journal papers ([ADS Link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Jinghua+Yuan&libid=4f88e404d4), [arXiv](http://arxiv.org/find/all/1/OR+au:+Yuan_Jinghua+au:+Yuan_Jing_Hua/0/1/0/all/0/1)). 
+## Pee-reviewed journal papers ([ADS Link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](http://arxiv.org/find/all/1/OR+au:+Zhang_Chuanpeng+au:+Zhang_Chuan-Peng/0/1/0/all/0/1)). 
 
 13. Zhang, Chuan-Peng; ***Yuan, Jinghua***; Xu Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping, Yu; Li, Nan; He, Li-Ping; Zhang, Guo-Yin; Wang, Jun-Jie, "Searching for initial stage of massive star formation around the H II region G18.2-0.3", [RAA, 17, 057](http://adsabs.harvard.edu/abs/2017RAA....17..057Z), (2017)
 12. Zhang, Chuan-Peng; ***Yuan, Jing-Hua***; Li, Guang-Xing; Zhou, Jian-Jun; Wang, Jun-Jie, “*A multi-wavelength observation and investigation towards six infrared dark clouds*”, [A&A, 598, A76](http://adsabs.harvard.edu/abs/2017A%26A...598A..76Z) (2017).
