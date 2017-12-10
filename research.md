@@ -15,12 +15,18 @@ On the basis of GLIMPSE data we discovered a proto-stellar system driving a bipo
 ![]({{ site.baseurl }}/img/Bipolar.png)
 -->
 
+My previous research is in early high-mass star formation including Giant Molecular Cloud,
+Infrared Dust Bubble, Hyper-Compact H II Region, Infrared Dark Cloud, Large Scale Survey,
+Fragmentation and Deuteration in High-mass Star Formation. With my collaborators, so far
+we have published eleven refereed papers, submitted two manuscripts, and been awarded many
+observational times on different projects and telescopes.
+
 
 ## 1. Giant Molecular Clouds
 
-There are relatively few H 2 CO mappings of large-area giant molecular cloud (GMCs). H 2 CO
+There are relatively few H 2 CO mappings of large-area giant molecular cloud (GMCs). H2CO
 absorption lines are good tracers for low-temperature molecular clouds towards star formation
-regions. The aim of the study was to identify H 2 CO distributions in ambient molecular clouds.
+regions. The aim of the study was to identify H2CO distributions in ambient molecular clouds.
 We reported simultaneous 6-cm H 2 CO absorption lines and H110α radio recombination line
 observations and several large-area mappings at 4.8 GHz on GMCs W49, W3, DR21/W75, and
 NGC2024/NGC2023. (Zhang et al., 2012)
@@ -33,8 +39,8 @@ The formation of hypercompact (HC) H II regions is an important stage in massive
 mation. Spectral line and continuum observations can explore its dynamic conditions. We
 presented high angular resolution observations carried out with the SMA and VLA toward the
 HC H II region G35.58-0.03. With the 1.3 mm SMA and 1.3 cm VLA, we detected a total of
-about 25 transitions of 8 different species and their isotopologues (CO, CH 3 CN, SO 2 , CH 3 CCH,
-OCS, CS, H30α H38β, and NH 3 ). (Zhang et al., 2014)
+about 25 transitions of 8 different species and their isotopologues (CO, CH3CN, SO2 , CH3CCH,
+OCS, CS, H30α H38β, and NH3 ). (Zhang et al., 2014)
 
 
 ## 3. Infrared Dust Bubbles
@@ -58,7 +64,7 @@ istry, and evolution of IRDCs, we performed new observations with the IRAM 30 m 
 CSO10.4 m telescopes, with tracers HCO+ , HCN, N2H+ , C18O, DCO+ , SiO, and DCN toward
 six IRDCs G031.97+00.07, G033.69-00.01, G034.43+00.24, G035.39-00.33, G038.95-00.47, and
 G053.11+00.05. We observed many blueshifted and redshifted profiles, respectively, with HCO +
-and C 18 O toward the same core. This case can be well explained by model “envelope expansion
+and C18O toward the same core. This case can be well explained by model “envelope expansion
 with core collapse (EECC)”. (Xu et al., 2016; Zhang et al., 2016b)
 
 
@@ -85,7 +91,7 @@ G18.21, G23.97N, G23.98, G23.44, G23.97S, G25.38, G25.71) were selected from the
 Massive Pre/Protocluster core Survey at 850 and 450 μm. VLA at 1.3 cm, PdBI at 3.5 & 1.3
 mm, APEX at 870 μm observations were followed up, and archival infrared data at 4.5, 8.0, 24,
 and 70 μm are combined to study the fragmentation and evolution of these eight clumps. The
-spectral data including NH 3 (1, 1) and (2, 2) lines NH 2 D, C 18 O (2-1), H 13 CN, HC 15 N, and SO
+spectral data including NH3 (1, 1) and (2, 2) lines NH2D, C18O (2-1), H 13 CN, HC15N, and SO
 line data will be used to study the dynamics, stability, and chemistry of these samples. Finally,
 we want to further unveil the initial conditions of high-mass star formation.
 
