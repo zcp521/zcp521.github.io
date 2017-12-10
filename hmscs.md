@@ -3,7 +3,7 @@ layout: hmsc
 title: "HMSCs"
 tagline: "High-mass starless clumps in the inner Galactic plane."
 ---
-
+<!--
 {:.center}
 ![irIM]({{ site.baseurl }}/img/G332.7393-0.6211_mulPlot.png)
 
