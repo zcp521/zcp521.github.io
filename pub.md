@@ -61,7 +61,6 @@ First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
 
 15. 张传朋, 2017年, 天文学报, 博士学位论文摘要选登（邀请）
 	大质量恒星形成及其初始条件
-{: reversed="reversed"}
 
 
 ## Proceedings 
