@@ -68,7 +68,7 @@ First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
 
 1. Zhang, C. P., & Wang, J. J. 2013, IAUS, 292, 65 
       Triggered Star Formation from Bubbles S51, N68, and N131
-{: reversed="reversed"}
+<!--{: reversed="reversed"}-->
 
 
 ## Observations
@@ -104,4 +104,3 @@ First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
 	
 11. PI and AoD of Urumqi 25m, Sep. 2009 - June 2011 in Xinjiang China
 	A H2CO and H110α survey of H II regions with the 25m radio telescope 
-{: reversed="reversed"}
