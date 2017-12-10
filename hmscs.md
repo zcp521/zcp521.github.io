@@ -6,7 +6,7 @@ tagline: "High-mass starless clumps in the inner Galactic plane."
 <!--
 {:.center}
 ![irIM]({{ site.baseurl }}/img/G332.7393-0.6211_mulPlot.png)
-
+-->
 # Project Introduction
 <!--
 From 10861 ATLASGAL clump, we identified 463 high-mass starless clump 
@@ -35,9 +35,9 @@ very early stages of high-mass star formation. Twenty sources with equivalent ra
 could be possible high-mass starless cores. Further investigations 
 toward these HMSCs would undoubtedly shed light on comprehensively 
 understanding the birth of high-mass stars.
-
+-->
 # Related Publications
 <!--
 1. *High-mass Starless Clumps in the Inner Galactic Plane: The Sample and Dust Properties*, [Yuan et al., 2017, ApJS, 231, 11](http://iopscience.iop.org/article/10.3847/1538-4365/aa7204/meta)
-
+-->
 
