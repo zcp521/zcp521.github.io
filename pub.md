@@ -61,7 +61,6 @@ First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
 
 17. Zhang, C.-P., & Li, G.-X. 2017, MNRAS, 469, 2286 
  	Mass–size scaling M ~ r^1.67 of massive star-forming clumps – evidences of turbulence-regulated gravitational collapse
-{: reversed="reversed"}
 
 
 ## Proceedings 
