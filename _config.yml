@@ -5,7 +5,7 @@ baseurl:      ""
 paginate:     1
 
 # secondary settings
-header-img: img/hiGAL.jpg
+header-img: img/telescope.jpg
 hmsc-title:    HMSCs--High-mass star starless clumps in the inner Galactic Plane
 
 
