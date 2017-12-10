@@ -6,15 +6,15 @@ tagline: "My publication list"
 
 ## PhD thesis (in Chinese with an English abstract)
 
-[1] [High-Mass Star Formation and Its Initial Conditions]({{ site.baseurl }}/pub/thesis_cpzhang.pdf), 2015, University of Chinese Academy of Sciences (supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/))
+1. [High-Mass Star Formation and Its Initial Conditions]({{ site.baseurl }}/pub/thesis_cpzhang.pdf), 2015, University of Chinese Academy of Sciences (supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/))
 
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
-[1] Zhang, C.-P., & Li, G.-X. 2017, MNRAS, 469, 2286 
- 	Mass–size scaling M ~ r1.67 of massive star-forming clumps – evidences of turbulence-regulated gravitational collapse
+1. Zhang, C.-P., & Li, G.-X. 2017, MNRAS, 469, 2286 
+ 	Mass–size scaling M ~ r^1.67 of massive star-forming clumps – evidences of turbulence-regulated gravitational collapse
 
-[2] ZHANG ChuanPeng, WANG JunJie. 2017, Sci Sin-Phys Mech Astron, 47:00 
+2. ZHANG ChuanPeng, WANG JunJie. 2017, Sci Sin-Phys Mech Astron, 47:00 
 	Progresses and methods in research of infrared dust bubble (in Chinese)
 
 [3] 张传朋, 2017年, 天文学报, 博士学位论文摘要选登（邀请）
@@ -69,6 +69,6 @@ First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
 
 ## Proceedings 
 
-[1] Zhang, C. P., & Wang, J. J. 2013, IAUS, 292, 65 
+1. Zhang, C. P., & Wang, J. J. 2013, IAUS, 292, 65 
       Triggered Star Formation from Bubbles S51, N68, and N131
 {: reversed="reversed"}
