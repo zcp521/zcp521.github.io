@@ -6,7 +6,7 @@ tagline: "My publication list"
 
 ## PhD thesis (in Chinese with an English abstract)
 
-1. [High-Mass Star Formation and Its Initial Conditions]({{ site.baseurl }}/pub/thesis_cpzhang.pdf), 2015, University of Chinese Academy of Sciences (supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/))
+[1] [High-Mass Star Formation and Its Initial Conditions]({{ site.baseurl }}/pub/thesis_cpzhang.pdf), 2015, University of Chinese Academy of Sciences (supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/))
 
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
