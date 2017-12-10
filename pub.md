@@ -4,7 +4,7 @@ title: "Publications"
 tagline: "My publication list"
 ---
 
-## Pee-reviewed journal papers ([ADS Link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](http://arxiv.org/find/all/1/OR+au:+Zhang_Chuanpeng+au:+Zhang_Chuan-Peng/0/1/0/all/0/1)). 
+## Peer-reviewed journal papers ([ADS Link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](http://arxiv.org/find/all/1/OR+au:+Zhang_Chuanpeng+au:+Zhang_Chuan-Peng/0/1/0/all/0/1)). 
 
 13. Zhang, Chuan-Peng; ***Yuan, Jinghua***; Xu Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping, Yu; Li, Nan; He, Li-Ping; Zhang, Guo-Yin; Wang, Jun-Jie, "Searching for initial stage of massive star formation around the H II region G18.2-0.3", [RAA, 17, 057](http://adsabs.harvard.edu/abs/2017RAA....17..057Z), (2017)
 12. Zhang, Chuan-Peng; ***Yuan, Jing-Hua***; Li, Guang-Xing; Zhou, Jian-Jun; Wang, Jun-Jie, “*A multi-wavelength observation and investigation towards six infrared dark clouds*”, [A&A, 598, A76](http://adsabs.harvard.edu/abs/2017A%26A...598A..76Z) (2017).
@@ -27,4 +27,4 @@ stars*”, [Proceedings of the International Astronomical Union, Volume 11, Issu
 
 ## PhD thesis (in Chinese with an English abstract)
 
-1. [Multi-wavelength investigations on feedback of massive star formation]({{ site.baseurl }}/pub/thesis-yjh_Final.pdf), 2014, University of Chinese Academy of Sciences (supervised by [Prof. Jinzeng Li](http://people.ucas.ac.cn/~ljz?language=en) and [Prof. Yuefang Wu](http://www.ifa.hawaii.edu/~reipurth/newsletter/newsletter254.pdf))
+1. [High-Mass Star Formation and Its Initial Conditions]({{ site.baseurl }}/pub/thesis_cpzhang.pdf), 2015, University of Chinese Academy of Sciences (supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/))
