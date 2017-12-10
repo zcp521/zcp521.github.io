@@ -11,12 +11,6 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
-17. Zhang, C.-P., & Li, G.-X. 2017, MNRAS, 469, 2286 
- 	Mass–size scaling M ~ r^1.67 of massive star-forming clumps – evidences of turbulence-regulated gravitational collapse
-
-16. ZHANG ChuanPeng, WANG JunJie. 2017, Sci Sin-Phys Mech Astron, 47:00 
-	Progresses and methods in research of infrared dust bubble (in Chinese)
-
 1. Du, Z. M., Zhou, J. J., Esimbek, J., Han, X. H., & Zhang, C. P. 2011, A&A, 532, A127 
       A H2CO and H110α survey of H II regions with the 25-m radio telescope of Nanshan Station
 
@@ -62,11 +56,18 @@ First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
 15. 张传朋, 2017年, 天文学报, 博士学位论文摘要选登（邀请）
 	大质量恒星形成及其初始条件
 
+16. ZHANG ChuanPeng, WANG JunJie. 2017, Sci Sin-Phys Mech Astron, 47:00 
+	Progresses and methods in research of infrared dust bubble (in Chinese)
+
+17. Zhang, C.-P., & Li, G.-X. 2017, MNRAS, 469, 2286 
+ 	Mass–size scaling M ~ r^1.67 of massive star-forming clumps – evidences of turbulence-regulated gravitational collapse
+{: reversed="reversed"}
+
+
 ## Proceedings 
 
 1. Zhang, C. P., & Wang, J. J. 2013, IAUS, 292, 65 
       Triggered Star Formation from Bubbles S51, N68, and N131
-{: reversed="reversed"}
 
 
 ## Observations
@@ -102,4 +103,3 @@ First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
 	
 11. PI and AoD of Urumqi 25m, Sep. 2009 - June 2011 in Xinjiang China
 	A H2CO and H110α survey of H II regions with the 25m radio telescope 
-{: reversed="reversed"}
