@@ -24,6 +24,8 @@ observational times on different projects and telescopes.
 
 ## 1. Giant Molecular Clouds
 
+![]({{ site.baseurl }}/img/gmc.png)
+
 There are relatively few H<sub>2</sub>CO mappings of large-area giant molecular cloud (GMCs). H<sub>2</sub>CO
 absorption lines are good tracers for low-temperature molecular clouds towards star formation
 regions. The aim of the study was to identify H<sub>2</sub>CO distributions in ambient molecular clouds.
@@ -34,6 +36,7 @@ NGC2024/NGC2023. (Zhang et al., 2012)
 
 ## 2. Hyper-Compact HII Regions
 
+![]({{ site.baseurl }}/img/hchii.png)
 
 The formation of hypercompact (HC) H II regions is an important stage in massive star for-
 mation. Spectral line and continuum observations can explore its dynamic conditions. We
@@ -45,6 +48,7 @@ OCS, CS, H30α H38β, and NH<sub>3</sub>). (Zhang et al., 2014)
 
 ## 3. Infrared Dust Bubbles
 
+![]({{ site.baseurl }}/img/bubble.png)
 
 OB type stars have strong ionizing radiation, and drive energetic winds. The ultraviolet (UV)
 radiation from ionizing stars may heat dust and ionize gas to sweep up an expanding bubble
@@ -57,6 +61,7 @@ from the disruption of a gas filament by strong stellar winds, and fragments und
 
 ## 4. Infrared Dark Cloud
 
+![]({{ site.baseurl }}/img/irdc.png)
 
 Infrared dark clouds (IRDCs) are ubiquitous in the Milky Way, yet they play a crucial role
 in breeding newly-formed stars. With the aim of further understanding the dynamics, chem-
@@ -70,6 +75,7 @@ with core collapse (EECC)”. (Xu et al., 2016; Zhang et al., 2016b)
 
 # 5. Large Scale Survey
 
+![]({{ site.baseurl }}/img/milkyway.png)
 
 TOP-SCOPE are joint survey programs targeting at Planck Cold Clumps. TOP, standing
 for “TRAO Observations of Planck cold clumps”, aims at an unbiased CO survey of 2000
@@ -82,6 +88,7 @@ Second Quadrant of the Milky Way.
 
 ## 6. Fragmentation, Deuteration, and Evolution
 
+![]({{ site.baseurl }}/img/fragmentation.png)
 
 The fragmentation at the earliest phases is an important process of massive star formation.
 Investigations of starless cores and prestellar cores are crucial for understanding the origin of
