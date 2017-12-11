@@ -1,6 +1,6 @@
 ---
 layout: hmsc
-title: "HMSCs"
+title: "Projects"
 tagline: "High-mass starless clumps in the inner Galactic plane."
 ---
 <!--
