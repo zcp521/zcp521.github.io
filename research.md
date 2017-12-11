@@ -4,7 +4,7 @@ title: "Research"
 tagline: "My research highlights"
 ---
 
-
+![]({{ site.baseurl }}/img/rainbow.jpg)
 <!--
 ## 1. [The discovery of an infrared bipolar outflow](http://adsabs.harvard.edu/abs/2012A%26A...540A..95)
 -->
