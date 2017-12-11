@@ -61,7 +61,7 @@ from the disruption of a gas filament by strong stellar winds, and fragments und
 Infrared dark clouds (IRDCs) are ubiquitous in the Milky Way, yet they play a crucial role
 in breeding newly-formed stars. With the aim of further understanding the dynamics, chem-
 istry, and evolution of IRDCs, we performed new observations with the IRAM 30 m and 
-CSO10.4 m telescopes, with tracers HCO<sup>+</sup>, HCN, N2H<sup>+</sup> , C<sup>18</sup>O, DCO<sup>+</sup>, SiO, and DCN toward
+CSO10.4 m telescopes, with tracers HCO<sup>+</sup>, HCN, N<sub>2</sub>H<sup>+</sup> , C<sup>18</sup>O, DCO<sup>+</sup>, SiO, and DCN toward
 six IRDCs G031.97+00.07, G033.69-00.01, G034.43+00.24, G035.39-00.33, G038.95-00.47, and
 G053.11+00.05. We observed many blueshifted and redshifted profiles, respectively, with HCO<sup>+</sup>
 and C<sup>18</sup>O toward the same core. This case can be well explained by model “envelope expansion
