@@ -24,8 +24,6 @@ observational times on different projects and telescopes.
 
 ## 1. Giant Molecular Clouds
 
-![]({{ site.baseurl }}/img/gmc.png)
-
 There are relatively few H<sub>2</sub>CO mappings of large-area giant molecular cloud (GMCs). H<sub>2</sub>CO
 absorption lines are good tracers for low-temperature molecular clouds towards star formation
 regions. The aim of the study was to identify H<sub>2</sub>CO distributions in ambient molecular clouds.
@@ -33,10 +31,10 @@ We reported simultaneous 6-cm H<sub>2</sub>CO absorption lines and H110α radio 
 observations and several large-area mappings at 4.8 GHz on GMCs W49, W3, DR21/W75, and
 NGC2024/NGC2023. (Zhang et al., 2012)
 
+![]({{ site.baseurl }}/img/gmc.png)
+
 
 ## 2. Hyper-Compact HII Regions
-
-![]({{ site.baseurl }}/img/hchii.png)
 
 The formation of hypercompact (HC) H II regions is an important stage in massive star for-
 mation. Spectral line and continuum observations can explore its dynamic conditions. We
@@ -45,10 +43,10 @@ HC H II region G35.58-0.03. With the 1.3 mm SMA and 1.3 cm VLA, we detected a to
 about 25 transitions of 8 different species and their isotopologues (CO, CH<sub>3</sub>CN, S<sub>2</sub>O , CH<sub>3</sub>CCH,
 OCS, CS, H30α H38β, and NH<sub>3</sub>). (Zhang et al., 2014)
 
+![]({{ site.baseurl }}/img/hchii.png)
+
 
 ## 3. Infrared Dust Bubbles
-
-![]({{ site.baseurl }}/img/bubble.png)
 
 OB type stars have strong ionizing radiation, and drive energetic winds. The ultraviolet (UV)
 radiation from ionizing stars may heat dust and ionize gas to sweep up an expanding bubble
@@ -58,10 +56,10 @@ dust and gas observations. Particularly, we propose a scenario in which the bubb
 from the disruption of a gas filament by strong stellar winds, and fragments under self-gravity.
 (Zhang & Wang, 2012, 2013; Zhang et al., 2013; Xu et al., 2014; Zhang et al., 2016a)
 
+![]({{ site.baseurl }}/img/bubble.png)
+
 
 ## 4. Infrared Dark Cloud
-
-![]({{ site.baseurl }}/img/irdc.png)
 
 Infrared dark clouds (IRDCs) are ubiquitous in the Milky Way, yet they play a crucial role
 in breeding newly-formed stars. With the aim of further understanding the dynamics, chem-
@@ -72,10 +70,10 @@ G053.11+00.05. We observed many blueshifted and redshifted profiles, respectivel
 and C<sup>18</sup>O toward the same core. This case can be well explained by model “envelope expansion
 with core collapse (EECC)”. (Xu et al., 2016; Zhang et al., 2016b)
 
+![]({{ site.baseurl }}/img/irdc.png)
+
 
 # 5. Large Scale Survey
-
-![]({{ site.baseurl }}/img/milkyway.png)
 
 TOP-SCOPE are joint survey programs targeting at Planck Cold Clumps. TOP, standing
 for “TRAO Observations of Planck cold clumps”, aims at an unbiased CO survey of 2000
@@ -85,10 +83,10 @@ onboard of the JCMT at East Asia Observatory to survey 1000 Planck galactic cold
 850 μm. I am leading a subproject to study the gas and dust of 64 Planck Cold Cores in the
 Second Quadrant of the Milky Way.
 
+![]({{ site.baseurl }}/img/milkyway.png)
+
 
 ## 6. Fragmentation, Deuteration, and Evolution
-
-![]({{ site.baseurl }}/img/fragmentation.png)
 
 The fragmentation at the earliest phases is an important process of massive star formation.
 Investigations of starless cores and prestellar cores are crucial for understanding the origin of
@@ -101,6 +99,9 @@ and 70 μm are combined to study the fragmentation and evolution of these eight 
 spectral data including NH<sub>3</sub> (1, 1) and (2, 2) lines NH<sub>2</sub>D, C<sup>18</sup>O (2-1), H<sup>13</sup>CN, HC<sup>15</sup>N, and SO
 line data will be used to study the dynamics, stability, and chemistry of these samples. Finally,
 we want to further unveil the initial conditions of high-mass star formation.
+
+![]({{ site.baseurl }}/img/fragmentation.png)
+
 
 ## References
 
