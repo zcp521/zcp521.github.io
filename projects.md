@@ -3,10 +3,10 @@ layout: projects
 title: "Projects"
 tagline: "Probing the initial conditions of high-mass star formation"
 ---
-<!--
+
 {:.center}
-![irIM]({{ site.baseurl }}/img/G332.7393-0.6211_mulPlot.png)
--->
+![irIM]({{ site.baseurl }}/img/house.jpg)
+
 # Project Introduction
 <!--
 From 10861 ATLASGAL clump, we identified 463 high-mass starless clump 
