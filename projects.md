@@ -4,10 +4,12 @@ title: "Projects"
 tagline: "Probing the initial conditions of high-mass star formation"
 ---
 
+
+
+# Project Introduction
 {:.center}
 ![irIM]({{ site.baseurl }}/img/house.jpg)
 
-# Project Introduction
 <!--
 From 10861 ATLASGAL clump, we identified 463 high-mass starless clump 
 (HMSC) candidates with −60 < l < 60 degree and −1 < b < 1 degree. 
@@ -37,6 +39,9 @@ toward these HMSCs would undoubtedly shed light on comprehensively
 understanding the birth of high-mass stars.
 -->
 # Related Publications
+{:.center}
+![irIM]({{ site.baseurl }}/img/house1.jpg)
+
 <!--
 1. *High-mass Starless Clumps in the Inner Galactic Plane: The Sample and Dust Properties*, [Yuan et al., 2017, ApJS, 231, 11](http://iopscience.iop.org/article/10.3847/1538-4365/aa7204/meta)
 -->
