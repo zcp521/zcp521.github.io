@@ -70,12 +70,13 @@ tagline: "My publication list"
 
 ## Proceedings 
 
-2. Zhang, C. P., & Wang, J. J. 2013, IAUS, 292, 65 
-      Triggered Star Formation from Bubbles S51, N68, and N131
-
-1. 	Esimbek, J.; Zhou, J.; Zhang, C.	
+2. Du, Z. M.; Zhou, J. J.; Esimbek, J.; Han, X. H.; Zhang, C. P.	
+	A H<sub>2</sub>CO and H110α survey of H ii regions with the 25-m radio telescope of Nanshan Station
+	[2011A&A...532A.127D](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...532A.127D&db_key=AST&link_type=ABSTRACT)
+	
+1. Esimbek, J.; Zhou, J.; Zhang, C.	
 	Large Area Mappings of Formaldehyde at 6-cm toward Giant Molecular Clouds
-	[2011IAUS..280P.154E](2011IAUS..280P.154E)
+	[2011IAUS..280P.154E](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011IAUS..280P.154E&db_key=AST&link_type=ABSTRACT)
 
 
 ## Observations
