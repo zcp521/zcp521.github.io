@@ -57,9 +57,10 @@ tagline: "My publication list"
 4. Zhang, C. P., & Wang, J. J. 2013, RAA, 13, 47, 
       Star formation associated with the infrared dust bubble N68,
 
-3. Zhang, C. P., & Wang, J. J. 2012, A&A, 522, A11, 
-      The multiwavelength study of the infrared dust bubble S51
-
+3. Zhang, C. P.; Wang, J. J.	
+	Multiwavelength study of the infrared dust bubble S51
+	[2012A&A...544A..11Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...544A..11Z&db_key=AST&link_type=ABSTRACT)
+	
 2. Zhang, Chuan Peng; Esimbek, Jarken; Zhou, Jian Jun; Wu, Gang; Du, Zhi Mao	
 	"Exploring morphological correlations among H<sub>2</sub>CO, <sup>12</sup>CO, MSX and continuum mappings"
     [2012Ap&SS.337..283Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012Ap%26SS.337..283Z&db_key=AST&link_type=ABSTRACT)
