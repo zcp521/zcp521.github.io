@@ -60,22 +60,24 @@ tagline: "My publication list"
 3. Zhang, C. P., & Wang, J. J. 2012, A&A, 522, A11, 
       The multiwavelength study of the infrared dust bubble S51
 
-2. Zhang, C. P., Esimbek, J., Zhou, J. J., Wu, G., & Du, Z. M. 2012, Ap&SS, 337, 283, 
-      Exploring morphological correlations among H2CO, 12CO, MSX, and continuum mappings
-
-1. Du, Z. M., Zhou, J. J., Esimbek, J., Han, X. H., & Zhang, C. P. 2011, A&A, 532, A127, 
-      A H<sub>2</sub>CO and H110α survey of H II regions with the 25-m radio telescope of Nanshan Station
+2. Zhang, Chuan Peng; Esimbek, Jarken; Zhou, Jian Jun; Wu, Gang; Du, Zhi Mao	
+	"Exploring morphological correlations among H<sub>2</sub>CO, <sup>12</sup>CO, MSX and continuum mappings"
+    [2012Ap&SS.337..283Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012Ap%26SS.337..283Z&db_key=AST&link_type=ABSTRACT)
+	
+1. Du, Z. M.; Zhou, J. J.; Esimbek, J.; Han, X. H.; Zhang, C. P.	
+	A H<sub>2</sub>CO and H110α survey of H ii regions with the 25-m radio telescope of Nanshan Station
+	[2011A&A...532A.127D](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...532A.127D&db_key=AST&link_type=ABSTRACT)
 
 
 
 ## Proceedings 
 
 2. Du, Z. M.; Zhou, J. J.; Esimbek, J.; Han, X. H.; Zhang, C. P.	
-	A H<sub>2</sub>CO and H110α survey of H ii regions with the 25-m radio telescope of Nanshan Station
+	"A H<sub>2</sub>CO and H110α survey of H ii regions with the 25-m radio telescope of Nanshan Station"
 	[2011A&A...532A.127D](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...532A.127D&db_key=AST&link_type=ABSTRACT)
 	
 1. Esimbek, J.; Zhou, J.; Zhang, C.	
-	Large Area Mappings of Formaldehyde at 6-cm toward Giant Molecular Clouds
+	"Large Area Mappings of Formaldehyde at 6-cm toward Giant Molecular Clouds"
 	[2011IAUS..280P.154E](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011IAUS..280P.154E&db_key=AST&link_type=ABSTRACT)
 
 
