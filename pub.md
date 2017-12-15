@@ -11,16 +11,13 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
-17. Zhang, C.-P., & Li, G.-X. 2017, MNRAS, 469, 2286 
-
+17. Zhang, C.-P., & Li, G.-X. 2017, MNRAS, 469, 2286;
  	Mass–size scaling M ~ r^1.67 of massive star-forming clumps – evidences of turbulence-regulated gravitational collapse
 
-16. ZHANG ChuanPeng, WANG JunJie. 2017, Sci Sin-Phys Mech Astron, 47:00
-
+16. ZHANG ChuanPeng, WANG JunJie. 2017, Sci Sin-Phys Mech Astron, 47: 099501
 	Progresses and methods in research of infrared dust bubble (in Chinese)
 
 15. 张传朋, 2017年, 天文学报, 博士学位论文摘要选登（邀请）
-
 	大质量恒星形成及其初始条件
 
 14. Zhang, C.-P., Yuan, J.-H., Xu, J.-L., et al. 2017, RAA, 17, 057 
