@@ -70,8 +70,12 @@ tagline: "My publication list"
 
 ## Proceedings 
 
-1. Zhang, C. P., & Wang, J. J. 2013, IAUS, 292, 65 
+2. Zhang, C. P., & Wang, J. J. 2013, IAUS, 292, 65 
       Triggered Star Formation from Bubbles S51, N68, and N131
+
+1. 	Esimbek, J.; Zhou, J.; Zhang, C.	
+	Large Area Mappings of Formaldehyde at 6-cm toward Giant Molecular Clouds
+	[2011IAUS..280P.154E](2011IAUS..280P.154E)
 
 
 ## Observations
