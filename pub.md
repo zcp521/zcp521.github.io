@@ -47,11 +47,12 @@ tagline: "My publication list"
 7. Zhang, C. P., Wang, J. J., Xu, J. L., Wyrowski, F., & Menten, K. M. 2014, ApJ, 784, 107,
     Submillimeter Array and Very Large Array Observations in the Hypercompact H II Region G35.58-0.03
 
-6. Xu, J. L., Wang, J. J., Ning, C. C., & Zhang, C. P. 2014, RAA, 14, 47, 
-      Multi-wavelength study of triggered star formation around 25 H II regions
+6. Xu, Jin-Long; Wang, Jun-Jie; Ning, Chang-Chun; ***Zhang, Chuan-Peng***	
+	"Multi-wavelength study of triggered star formation around 25 H II regions"
+	[2014RAA....14...47X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014RAA....14...47X&db_key=AST&link_type=ABSTRACT)
 
 
-5. 	Zhang, C.-P.; Wang, J.-J.; Xu, J.-L.	
+5. 	**Zhang, C.-P.**; Wang, J.-J.; Xu, J.-L.	
 	"Molecular clumps and star formation associated with the infrared dust bubble N131"
 	[2013A&A...550A.117Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013A%26A...550A.117Z&db_key=AST&link_type=ABSTRACT)
 
@@ -59,7 +60,7 @@ tagline: "My publication list"
 	"Star formation associated with the infrared dust bubble N68"
 	[2013RAA....13...47Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RAA....13...47Z&db_key=AST&link_type=ABSTRACT)
 	
-3. Zhang, C. P.; Wang, J. J.	
+3. *Zhang, C. P.*; Wang, J. J.	
 	Multiwavelength study of the infrared dust bubble S51
 	[2012A&A...544A..11Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...544A..11Z&db_key=AST&link_type=ABSTRACT)
 	
@@ -75,9 +76,9 @@ tagline: "My publication list"
 
 ## Proceedings 
 
-2. Du, Z. M.; Zhou, J. J.; Esimbek, J.; Han, X. H.; Zhang, C. P.	
-	"A H<sub>2</sub>CO and H110α survey of H ii regions with the 25-m radio telescope of Nanshan Station"
-	[2011A&A...532A.127D](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...532A.127D&db_key=AST&link_type=ABSTRACT)
+2. 	Zhang, C. P.; Wang, J. J.	
+	Triggered Star Formation from Bubbles S51, N68, and N131
+	[2013IAUS..292...65Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013IAUS..292...65Z&db_key=AST&link_type=ABSTRACT)
 	
 1. Esimbek, J.; Zhou, J.; Zhang, C.	
 	"Large Area Mappings of Formaldehyde at 6-cm toward Giant Molecular Clouds"
