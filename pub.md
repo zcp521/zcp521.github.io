@@ -23,7 +23,7 @@ tagline: "My publication list"
 	[2017arXiv170809098X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017arXiv170809098X&db_key=PRE&link_type=ABSTRACT&high=59b7dda2b218648)
 
 
-19. Xu, Jin-Long; Xu, Ye; Yu, Naiping; ***Zhang, Chuan-peng***; Liu, Xiao-Lan; Wang, Jun-Jie; Ning, Chang-chun; Ju, Bing-Gang; Zhang, Guo-Yin	
+19. Xu, Jin-Long; Xu, Ye; Yu, Naiping; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Wang, Jun-Jie; Ning, Chang-chun; Ju, Bing-Gang; Zhang, Guo-Yin	
 	"Two-dimensional Molecular Gas and Ongoing Star Formation around H II Region Sh2-104"
 	[2017ApJ...849..140X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017ApJ...849..140X&db_key=AST&link_type=ABSTRACT)
 
