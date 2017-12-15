@@ -9,7 +9,7 @@ tagline: "My publication list"
 2. ***Zhang, Chuan-Peng*** ["High-Mass Star Formation and Its Initial Conditions"]({{ site.baseurl }}/pub/thesis_phd.pdf), 2015, University of Chinese Academy of Sciences, supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/)
 
 
-1. ***Zhang, Chuan-Peng*** ["The Formaldehyde Observations and Studies of W49, W3, DR21 and NGC2024 GMCs"]({{ site.baseurl }}/pub/thesis_phd.pdf), 2011, Graduate University of Chinese Academy of Sciences, supervised by [Prof. Jarken Esimbek](http://www.xao.cas.cn/yjsjy/dsgl/dsxx/201203/t20120315_3510750.html)
+1. ***Zhang, Chuan-Peng*** ["The Formaldehyde Observations and Studies of W49, W3, DR21 and NGC2024 GMCs"]({{ site.baseurl }}/pub/thesis_master.pdf), 2011, Graduate University of Chinese Academy of Sciences, supervised by [Prof. Jarken Esimbek](http://www.xao.cas.cn/yjsjy/dsgl/dsxx/201203/t20120315_3510750.html)
 
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
