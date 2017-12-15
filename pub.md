@@ -20,17 +20,17 @@ tagline: "My publication list"
 15. 张传朋, 2017年, 天文学报, 博士学位论文摘要选登（邀请）,
 	大质量恒星形成及其初始条件
 
-14. Zhang, C.-P., Yuan, J.-H., Xu, J.-L., et al. 2017, RAA, 17, 057, 
+14. Ward-Thompson, Derek; Pattle, Kate; ..., ***Zhang, Chuan-Peng***, ...	
+	First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
+	[2017ApJ...842...66W](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017ApJ...842...66W&db_key=AST&link_type=ABSTRACT)
+
+13. Zhang, Chuan-Peng; Yuan, Jing-Hua; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Li, Nan; He, Li-Ping; Zhang, Guo-Yin; Wang, Jun-Jie	
 	Searching for initial stage of massive star formation around the H II region G18.2-0.3
+	[2017RAA....17...57Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017RAA....17...57Z&db_key=AST&link_type=ABSTRACT)
 
-
-13. Wang, S., Bai, Y., Zhang, C.-P., & Liu, J.-F. 2017, RAA, 17, 10,
-	An investigation of a magnetic cataclysmic variable with a period of 14.1 ks
-
-
-12. Liu, X.-L., Wang, J.-J., Xu, J.-L., & Zhang, C.-P. 2017, RAA, 17, 035,
+12. Liu, Xiao-Lan; Wang, Jun-Jie; Xu, Jin-Long; ***Zhang, Chuan-Peng***	
 	Gas emission and dynamics in the infrared dark cloud G31.23+0.05
-
+	[2017RAA....17...35L](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017RAA....17...35L&db_key=AST&link_type=ABSTRACT)
 
 11. Zhang, Chuan-Peng; Yuan, Jing-Hua; Li, Guang-Xing; Zhou, Jian-Jun; Wang, Jun-Jie	
 	A multiwavelength observation and investigation of six infrared dark clouds
