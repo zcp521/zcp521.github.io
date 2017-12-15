@@ -11,7 +11,7 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
-21. Liu, Tie; Kim, Kee-Tae; ..., ***Zhang, Chuan-Peng***, ...	
+21. Liu, Tie; Kim, Kee-Tae; ...; ***Zhang, Chuan-Peng***; ...	
 	"The TOP-SCOPE survey of Planck Galactic Cold Clumps: Survey overview and results of an exemplar source, PGCC G26.53+0.17"
 	[2017arXiv171104382L](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017arXiv171104382L&db_key=PRE&link_type=ABSTRACT&high=59b7dda2b220725)
 
@@ -40,7 +40,7 @@ tagline: "My publication list"
     "High-mass Star Formation and Its Initial Conditions (大质量恒星形成及其初始条件)"
     [ 2017年58卷06期 ](http://www.twxb.org/index.php/TWXB/article/view/2009916)	
 
-14. Ward-Thompson, Derek; Pattle, Kate; ..., ***Zhang, Chuan-Peng***, ...	
+14. Ward-Thompson, Derek; Pattle, Kate; ...; ***Zhang, Chuan-Peng***; ...	
 	"First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt"
 	[2017ApJ...842...66W](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017ApJ...842...66W&db_key=AST&link_type=ABSTRACT)
 
