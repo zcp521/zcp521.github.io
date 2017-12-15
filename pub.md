@@ -44,8 +44,9 @@ tagline: "My publication list"
 8. Zhang, C.-P., Yuan, J.-H., Li, G.-X., Zhou, J.-J., Wang, J.-J. 2017, A&A, 598, A76,
 	A multi-wavelength observation and investigation towards six infrared dark clouds
 
-7. Zhang, C. P., Wang, J. J., Xu, J. L., Wyrowski, F., & Menten, K. M. 2014, ApJ, 784, 107,
-    Submillimeter Array and Very Large Array Observations in the Hypercompact H II Region G35.58-0.03
+7. Zhang, Chuan-Peng; Wang, Jun-Jie; Xu, Jin-Long; Wyrowski, Friedrich; Menten, Karl M.	
+	Submillimeter Array and Very Large Array Observations in the Hypercompact H II Region G35.58-0.03
+	[2014ApJ...784..107Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014ApJ...784..107Z&db_key=AST&link_type=ABSTRACT)
 
 6. Xu, Jin-Long; Wang, Jun-Jie; Ning, Chang-Chun; ***Zhang, Chuan-Peng***	
 	"Multi-wavelength study of triggered star formation around 25 H II regions"
