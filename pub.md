@@ -44,7 +44,7 @@ tagline: "My publication list"
 8. Zhang, C.-P., Yuan, J.-H., Li, G.-X., Zhou, J.-J., Wang, J.-J. 2017, A&A, 598, A76,
 	A multi-wavelength observation and investigation towards six infrared dark clouds
 
-7. Zhang, Chuan-Peng; Wang, Jun-Jie; Xu, Jin-Long; Wyrowski, Friedrich; Menten, Karl M.	
+7. ***Zhang, Chuan-Peng***; Wang, Jun-Jie; Xu, Jin-Long; Wyrowski, Friedrich; Menten, Karl M.	
 	Submillimeter Array and Very Large Array Observations in the Hypercompact H II Region G35.58-0.03
 	[2014ApJ...784..107Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014ApJ...784..107Z&db_key=AST&link_type=ABSTRACT)
 
@@ -53,7 +53,7 @@ tagline: "My publication list"
 	[2014RAA....14...47X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014RAA....14...47X&db_key=AST&link_type=ABSTRACT)
 
 
-5. 	**Zhang, C.-P.**; Wang, J.-J.; Xu, J.-L.	
+5. ***Zhang, C.-P.***; Wang, J.-J.; Xu, J.-L.	
 	"Molecular clumps and star formation associated with the infrared dust bubble N131"
 	[2013A&A...550A.117Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013A%26A...550A.117Z&db_key=AST&link_type=ABSTRACT)
 
@@ -61,15 +61,15 @@ tagline: "My publication list"
 	"Star formation associated with the infrared dust bubble N68"
 	[2013RAA....13...47Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RAA....13...47Z&db_key=AST&link_type=ABSTRACT)
 	
-3. *Zhang, C. P.*; Wang, J. J.	
+3. ***Zhang, C. P.***; Wang, J. J.	
 	Multiwavelength study of the infrared dust bubble S51
 	[2012A&A...544A..11Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...544A..11Z&db_key=AST&link_type=ABSTRACT)
 	
-2. Zhang, Chuan Peng; Esimbek, Jarken; Zhou, Jian Jun; Wu, Gang; Du, Zhi Mao	
+2. ***Zhang, Chuan Peng***; Esimbek, Jarken; Zhou, Jian Jun; Wu, Gang; Du, Zhi Mao	
 	"Exploring morphological correlations among H<sub>2</sub>CO, <sup>12</sup>CO, MSX and continuum mappings"
     [2012Ap&SS.337..283Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012Ap%26SS.337..283Z&db_key=AST&link_type=ABSTRACT)
 	
-1. Du, Z. M.; Zhou, J. J.; Esimbek, J.; Han, X. H.; Zhang, C. P.	
+1. Du, Z. M.; Zhou, J. J.; Esimbek, J.; Han, X. H.; ***Zhang, C. P.***	
 	"A H<sub>2</sub>CO and H110α survey of H ii regions with the 25-m radio telescope of Nanshan Station"
 	[2011A&A...532A.127D](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...532A.127D&db_key=AST&link_type=ABSTRACT)
 
@@ -77,11 +77,11 @@ tagline: "My publication list"
 
 ## Proceedings 
 
-2. 	Zhang, C. P.; Wang, J. J.	
+2. 	***Zhang, C. P.***; Wang, J. J.	
 	Triggered Star Formation from Bubbles S51, N68, and N131
 	[2013IAUS..292...65Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013IAUS..292...65Z&db_key=AST&link_type=ABSTRACT)
 	
-1. Esimbek, J.; Zhou, J.; Zhang, C.	
+1. Esimbek, J.; Zhou, J.; ***Zhang, C.***	
 	"Large Area Mappings of Formaldehyde at 6-cm toward Giant Molecular Clouds"
 	[2011IAUS..280P.154E](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011IAUS..280P.154E&db_key=AST&link_type=ABSTRACT)
 
