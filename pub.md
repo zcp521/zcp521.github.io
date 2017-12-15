@@ -11,6 +11,14 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+19. Xu, Jin-Long; Xu, Ye; Yu, Naiping; Zhang, Chuan-peng; Liu, Xiao-Lan; Wang, Jun-Jie; Ning, Chang-chun; Ju, Bing-Gang; Zhang, Guo-Yin	
+	Two-dimensional Molecular Gas and Ongoing Star Formation around H II Region Sh2-104
+	[2017ApJ...849..140X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017ApJ...849..140X&db_key=AST&link_type=ABSTRACT)
+
+18. Xu, Jin-Long; Yu, Naiping; Zhang, Chuan-Peng; Liu, Xiao-Lan	
+	Gas structure and dynamics towards bipolar infrared bubble
+	[2017Ap&SS.362..175X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017Ap%26SS.362..175X&db_key=AST&link_type=ABSTRACT)
+
 17. Zhang, Chuan-Peng; Li, Guang-Xing	
 	Mass-size scaling M ˜ r<sup>1.67</sup> of massive star-forming clumps - evidences of turbulence-regulated gravitational collapse
 	[2017MNRAS.469.2286Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017MNRAS.469.2286Z&db_key=AST&link_type=ABSTRACT)
