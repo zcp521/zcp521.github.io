@@ -11,8 +11,9 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
-17. Zhang, C.-P., & Li, G.-X. 2017, MNRAS, 469, 2286,
- 	Mass–size scaling M ~ r^1.67 of massive star-forming clumps – evidences of turbulence-regulated gravitational collapse
+17. Zhang, Chuan-Peng; Li, Guang-Xing	
+	Mass-size scaling M ˜ r<sup>1.67</sup> of massive star-forming clumps - evidences of turbulence-regulated gravitational collapse
+	[2017MNRAS.469.2286Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017MNRAS.469.2286Z&db_key=AST&link_type=ABSTRACT)
 
 16. ZHANG ChuanPeng, WANG JunJie. 2017, Sci Sin-Phys Mech Astron, 47: 099501,
 	Progresses and methods in research of infrared dust bubble (in Chinese)
