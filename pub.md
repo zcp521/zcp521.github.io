@@ -4,7 +4,7 @@ title: "Publications"
 tagline: "My publication list"
 ---
 
-## PhD and Master theses (in Chinese with an English abstract)
+## PhD and Master theses
 
 2. ***Zhang, Chuan-Peng*** ["High-Mass Star Formation and Its Initial Conditions"]({{ site.baseurl }}/pub/thesis_phd.pdf), 2015, University of Chinese Academy of Sciences, supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/)
 
