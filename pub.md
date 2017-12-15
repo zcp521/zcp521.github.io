@@ -32,17 +32,21 @@ tagline: "My publication list"
 	Gas emission and dynamics in the infrared dark cloud G31.23+0.05
 
 
-11. Ward-Thompson, D., …, Zhang, C.-P., et al. 2017, ApJ, 842, 66,
-	First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
+11. Zhang, Chuan-Peng; Yuan, Jing-Hua; Li, Guang-Xing; Zhou, Jian-Jun; Wang, Jun-Jie	
+	A multiwavelength observation and investigation of six infrared dark clouds
+	[2017A&A...598A..76Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017A%26A...598A..76Z&db_key=AST&link_type=ABSTRACT)
 
-10. Zhang, C.-P., Li, G.-X., Wyrowski, F., Wang, J.-J., Yuan, J.-H., Xu, J.-L., Gong, Y., Yeh, C., & Menten, K. M. 2016, A&A, 585, A117,
-	N131: A dust bubble born from the disruption of a gas filament
+10. Wang, Song; Bai, Yu; Zhang, Chuan-Peng; Liu, Ji-Feng	
+	An investigation of a magnetic cataclysmic variable with a period of 14.1 ks
+	[2017RAA....17...10W](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017RAA....17...10W&db_key=AST&link_type=ABSTRACT)
 
-9. Xu, J.-L., Li, D., Zhang, C.-P., Liu, X.-L., Wang, J.-J., Ning, C.-C., Ju, B.-G. 2016, ApJ, 819, 117, 
+9. Xu, Jin-Long; Li, Di; Zhang, Chuan-Peng; Liu, Xiao-Lan; Wang, Jun-Jie; Ning, Chang-Chun; Ju, Bing-Gang	
 	Gas Kinematics and Star Formation in the Filamentary IRDC G34.43+0.24
+	[2016ApJ...819..117X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016ApJ...819..117X&db_key=AST&link_type=ABSTRACT)
 
-8. Zhang, C.-P., Yuan, J.-H., Li, G.-X., Zhou, J.-J., Wang, J.-J. 2017, A&A, 598, A76,
-	A multi-wavelength observation and investigation towards six infrared dark clouds
+8. Zhang, Chuan-Peng; Li, Guang-Xing; Wyrowski, Friedrich; Wang, Jun-Jie; Yuan, Jing-Hua; Xu, Jin-Long; Gong, Yan; Yeh, Cosmos C.; Menten, Karl M.	
+	N131: A dust bubble born from the disruption of a gas filament
+	[2016A&A...585A.117Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016A%26A...585A.117Z&db_key=AST&link_type=ABSTRACT)
 
 7. ***Zhang, Chuan-Peng***; Wang, Jun-Jie; Xu, Jin-Long; Wyrowski, Friedrich; Menten, Karl M.	
 	Submillimeter Array and Very Large Array Observations in the Hypercompact H II Region G35.58-0.03
@@ -77,7 +81,11 @@ tagline: "My publication list"
 
 ## Proceedings 
 
-2. 	***Zhang, C. P.***; Wang, J. J.	
+3. ***Zhang, Chuan-Peng***	
+	N131: A dust bubble was born from the disruption of a gas filament?
+	[2017IAUS..316..175Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017IAUS..316..175Z&db_key=AST&link_type=ABSTRACT)
+
+2. ***Zhang, C. P.***; Wang, J. J.	
 	Triggered Star Formation from Bubbles S51, N68, and N131
 	[2013IAUS..292...65Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013IAUS..292...65Z&db_key=AST&link_type=ABSTRACT)
 	
