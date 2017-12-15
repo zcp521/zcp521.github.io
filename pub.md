@@ -11,6 +11,15 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+21. Liu, Tie; Kim, Kee-Tae; ..., ***Zhang, Chuan-Peng***, ...	
+	The TOP-SCOPE survey of Planck Galactic Cold Clumps: Survey overview and results of an exemplar source, PGCC G26.53+0.17
+	[2017arXiv171104382L](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017arXiv171104382L&db_key=PRE&link_type=ABSTRACT&high=59b7dda2b220725)
+
+20. Xu, Jin-Long; Xu, Ye; Zhang, Chuan-Peng; Liu, Xiao-Lan; Yu, Naiping; Ning, Chang-Chun; Ju, Bing-Gang	
+	Gas kinematics and star formation in the filamentary molecular cloud G47.06+0.26
+	[2017arXiv170809098X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017arXiv170809098X&db_key=PRE&link_type=ABSTRACT&high=59b7dda2b218648)
+
+
 19. Xu, Jin-Long; Xu, Ye; Yu, Naiping; Zhang, Chuan-peng; Liu, Xiao-Lan; Wang, Jun-Jie; Ning, Chang-chun; Ju, Bing-Gang; Zhang, Guo-Yin	
 	Two-dimensional Molecular Gas and Ongoing Star Formation around H II Region Sh2-104
 	[2017ApJ...849..140X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017ApJ...849..140X&db_key=AST&link_type=ABSTRACT)
