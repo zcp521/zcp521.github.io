@@ -4,9 +4,12 @@ title: "Publications"
 tagline: "My publication list"
 ---
 
-## PhD thesis (in Chinese with an English abstract)
+## PhD and Master theses (in Chinese with an English abstract)
 
-1. [High-Mass Star Formation and Its Initial Conditions]({{ site.baseurl }}/pub/thesis_cpzhang.pdf), 2015, University of Chinese Academy of Sciences (supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/))
+2. [High-Mass Star Formation and Its Initial Conditions]({{ site.baseurl }}/pub/thesis_phd.pdf), 2015, University of Chinese Academy of Sciences (supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/))
+
+
+1. [The Formaldehyde Observations and Studies of W49, W3, DR21 and NGC2024 GMCs]({{ site.baseurl }}/pub/thesis_phd.pdf), 2011, Graduate University of Chinese Academy of Sciences (supervised by [Prof. Jarken Esimbek](http://www.xao.cas.cn/yjsjy/dsgl/dsxx/201203/t20120315_3510750.html))
 
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
