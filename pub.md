@@ -54,9 +54,10 @@ tagline: "My publication list"
 5. Zhang, C. P., Wang, J. J., & Xu, J. L. 2013, A&A, 550, A117, 
       Molecular Clumps and Star Formation associated with the infrared dust bubble N131
 
-4. Zhang, C. P., & Wang, J. J. 2013, RAA, 13, 47, 
-      Star formation associated with the infrared dust bubble N68,
-
+4. ***Zhang, Chuan-Peng***; Wang, Jun-Jie	
+	"Star formation associated with the infrared dust bubble N68"
+	[2013RAA....13...47Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RAA....13...47Z&db_key=AST&link_type=ABSTRACT)
+	
 3. Zhang, C. P.; Wang, J. J.	
 	Multiwavelength study of the infrared dust bubble S51
 	[2012A&A...544A..11Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...544A..11Z&db_key=AST&link_type=ABSTRACT)
@@ -66,7 +67,7 @@ tagline: "My publication list"
     [2012Ap&SS.337..283Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012Ap%26SS.337..283Z&db_key=AST&link_type=ABSTRACT)
 	
 1. Du, Z. M.; Zhou, J. J.; Esimbek, J.; Han, X. H.; Zhang, C. P.	
-	A H<sub>2</sub>CO and H110α survey of H ii regions with the 25-m radio telescope of Nanshan Station
+	"A H<sub>2</sub>CO and H110α survey of H ii regions with the 25-m radio telescope of Nanshan Station"
 	[2011A&A...532A.127D](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...532A.127D&db_key=AST&link_type=ABSTRACT)
 
 
