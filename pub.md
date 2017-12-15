@@ -22,7 +22,7 @@ tagline: "My publication list"
 	"Gas kinematics and star formation in the filamentary molecular cloud G47.06+0.26"
 	[2017arXiv170809098X](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017arXiv170809098X&db_key=PRE&link_type=ABSTRACT&high=59b7dda2b218648)
 
-20. Liu, Xiao-Lan; Xu, Jin-Long; Ning, Chang-Chun; Zhang, Chuan-Peng; Liu, Xiao-Tao
+20. Liu, Xiao-Lan; Xu, Jin-Long; Ning, Chang-Chun; ***Zhang, Chuan-Peng***; Liu, Xiao-Tao
 	"A statistical study towards the high-mass BGPS clumps with the MALT90 survey"
 	[2017arXiv170908391L](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017arXiv170908391L&db_key=PRE&link_type=ABSTRACT&high=4f14cf5ecf06387)
 
