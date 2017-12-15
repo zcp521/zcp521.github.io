@@ -118,32 +118,32 @@ tagline: "My publication list"
 
 	
 10. PI： ***Zhang, C.-P.***, JCMT 15m, #M16BP024, 75.0h 
-	The depletion of different species in dark and dense clumps
+	"The depletion of different species in dark and dense clumps"
 	
 9. PI： ***Zhang, C.-P.***, Effelsberg 100m, #7-15, 26.7h
-	Probing a hierarchical temperature structure of the bubble N131
+	"Probing a hierarchical temperature structure of the bubble N131"
 	
 8. PI： ***Zhang, C.-P.***, JCMT 15m, #M15BI021, 16.0h
-	H<sub>2</sub>D<sup>+</sup> in Massive Infrared Quiet Cores
+	"H<sub>2</sub>D<sup>+</sup> in Massive Infrared Quiet Cores"
 	
 7. PI： ***Zhang, C.-P.***, JCMT 15m, #M15AI79, 3.0h
-	N131: A dust bubble born from the disruption of a filament?
+	"N131: A dust bubble born from the disruption of a filament?"
 	
 6. PI： ***Zhang, C.-P.***, JCMT 15m, #M15AI69, 24.0h
-	 H<sub>2</sub>D<sup>+</sup> in Massive Infrared Quiet Cores
+	 "H<sub>2</sub>D<sup>+</sup> in Massive Infrared Quiet Cores"
 	 
 5. PI： ***Zhang, C.-P.***, TAP-CSO 10.4m, 2015, 2 full nights
-	 H<sub>2</sub>D<sup>+</sup> in massive infrared quiet cores
+	 "H<sub>2</sub>D<sup>+</sup> in massive infrared quiet cores"
 	 
 4. Astronomer On Duty (AoD) of Effelsberg 100m, June 2014 in Effelsberg
-	IDV observations
+	"IDV observations"
 	
 3. PI： ***Zhang, C.-P.***, IRAM 30m, #167-13, 25.5h
-	Molecular clumps triggered by the infrared dust bubble N131
+	"Molecular clumps triggered by the infrared dust bubble N131"
 	
 2. PI： ***Zhang, C.-P.***, Delingha 13.7m #12A007, 15h
-	Multiwavelength  observations of infrared dust bubbles 
+	"Multiwavelength  observations of infrared dust bubbles"
 	
 1. PI and AoD of Urumqi 25m, Sep. 2009 - June 2011 in Xinjiang China
-	A H<sub>2</sub>CO and H110α survey of H II regions with the 25m radio telescope 
+	"A H<sub>2</sub>CO and H110α survey of H II regions with the 25m radio telescope"
 <!--{: reversed="reversed"}-->
