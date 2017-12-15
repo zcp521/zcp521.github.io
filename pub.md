@@ -51,8 +51,9 @@ tagline: "My publication list"
       Multi-wavelength study of triggered star formation around 25 H II regions
 
 
-5. Zhang, C. P., Wang, J. J., & Xu, J. L. 2013, A&A, 550, A117, 
-      Molecular Clumps and Star Formation associated with the infrared dust bubble N131
+5. 	Zhang, C.-P.; Wang, J.-J.; Xu, J.-L.	
+	"Molecular clumps and star formation associated with the infrared dust bubble N131"
+	[2013A&A...550A.117Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013A%26A...550A.117Z&db_key=AST&link_type=ABSTRACT)
 
 4. ***Zhang, Chuan-Peng***; Wang, Jun-Jie	
 	"Star formation associated with the infrared dust bubble N68"
