@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: moments
 title: "Pictures"
 tagline: "Probing my daily time"
 ---
