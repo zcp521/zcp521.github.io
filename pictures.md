@@ -8,3 +8,8 @@ tagline: "Probing my daily time"
 ![]({{ site.baseurl }}/img/rainbow.jpg)
 ![]({{ site.baseurl }}/img/house1.jpg)
 ![]({{ site.baseurl }}/img/house.jpg)
+
+
+<div>
+        <img src="/img/house.jpg" alt="">
+</div>
