@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: "Moments"
+title: "Pictures"
 tagline: "Probing my daily time"
 ---
 
