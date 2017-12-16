@@ -4,8 +4,7 @@ title: "Moments"
 tagline: "Probing my daily time"
 ---
 
+## Dec. 16, 2017, Heidelberg Germany, Cloudy and Foggy
 
-<!--
-1. *High-mass Starless Clumps in the Inner Galactic Plane: The Sample and Dust Properties*, [Yuan et al., 2017, ApJS, 231, 11](http://iopscience.iop.org/article/10.3847/1538-4365/aa7204/meta)
--->
+Handed a singal bed with my friend without car from Blumenstraße 33, Heidelberg https://goo.gl/YYTNoa to Untere Neckarstraße 22, Heidelberg https://goo.gl/Hm3gT9
 
