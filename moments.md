@@ -6,8 +6,6 @@ tagline: "Probing my daily time"
 ---
 -->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 <title>我的记事本</title>
@@ -127,26 +125,7 @@ td{padding:0;}
 <div id="content">
      <div id="header"></div>
      <div id="left1">
- <ul id="ul1">
-      <li class="td" onmouseover="ab(this)" onmouseout="cd(this)"><a href="#" target="_blank" id="aa">首页</a></li>
-      <li class="td1" onmouseover="ab(this)" onmouseout="cd(this)"><a href="#" target="_blank">日记本</a></li>
-      <li class="td1" onmouseover= "ab(this)" onmouseout="cd(this)"><a href="#" target="_blank">关于我</a></li>
-      <li class="td1" onmouseover="ab(this)" onmouseout="cd(this)"><a href="#" target="_blank">联系我</a></li>
-      <br/>
- </ul>
-     <b>我的链接</b>
-     <br/>
-     <ul >
-      <li class="td2">&nbsp;<img src="images/bullet_extlink.gif" /><a class="a1"href="http://www.sina.com.cn/" target="_blank">&nbsp;新浪</a></li>
-      <li class="td2">&nbsp;<img src="images/bullet_extlink.gif" /><a class="a2"href="http://www.sohu.com/" target="_blank">&nbsp;搜狐</a></li>
-      <li class="td2">&nbsp;<img src="images/bullet_extlink.gif" /><a class="a2"href="http://www.163.com/" target="_blank">&nbsp;网易</a></li>
-      <li class="td2">&nbsp;<img src="images/bullet_extlink.gif" /><a class="a2"href="http://www.baidu.com" target="_blank">&nbsp;百度</a></li>
-      <li class="td2">&nbsp;<img src="images/bullet_extlink.gif" /><a class="a1"href="http://www.renren.com" target="_blank">&nbsp;人人网</a></li>
-      <li class="td2">&nbsp;<img src="images/bullet_extlink.gif" /><a class="a1"href="http://www.tianya.cn/" target="_blank">&nbsp;天涯社区</a></li>
-      <li class="td2">&nbsp;<img src="images/bullet_extlink.gif" /><a class="a2"href="http://www.qq.com" target="_blank">&nbsp;腾讯</a></li>
-      <li class="td2">&nbsp;<img src="images/bullet_extlink.gif" /><a class="a1"href="http://www.ambow.net" target="_blank">&nbsp;安博教育</a></li>
-     </ul>
-     </div>
+
      <div id="right1">
      <br/>
       <h2>&nbsp;&nbsp;<img src="images/bullet_title.gif" /><font color="#99CC33">时间不会使记忆风化(2013-09-19)</font></h2>
