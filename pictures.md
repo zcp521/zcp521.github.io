@@ -4,12 +4,7 @@ title: "Pictures"
 tagline: "Probing my daily time"
 ---
 
-{:.center}
-![]({{ site.baseurl }}/img/rainbow.jpg)
-![]({{ site.baseurl }}/img/house1.jpg)
-![]({{ site.baseurl }}/img/house.jpg)
+<div> <img src="/img/rainbow.jpg" alt=""> </div>
+<div> <img src="/img/house1.jpg" alt=""> </div>
+<div> <img src="/img/house.jpg" alt=""> </div>
 
-
-<div>
-        <img src="/img/house.jpg" alt="">
-</div>
