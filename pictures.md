@@ -4,12 +4,12 @@ title: "Pictures"
 tagline: "Probing my daily time"
 ---
 3.  <br>
-    House at Königstuhl in Autumn
+    House at Königstuhl in Winter
     <img src="/img/house.jpg" alt="">
     <br />
 
 2.  <br>
-    House at Königstuhl in Winter
+    House at Königstuhl in Autumn
     <img src="/img/house1.jpg" alt="">
     <br />
 
