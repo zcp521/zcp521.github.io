@@ -4,7 +4,7 @@ title: "Pictures"
 tagline: "Probing my daily time"
 ---
 
-5.  Bus stop at Sternwarte
+5.  Bus stop at Sternwarte, Königstuhl
     <img src="/img/Sternwarte.jpg" alt="">
     <br />
 
