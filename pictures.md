@@ -3,7 +3,6 @@ layout: moments
 title: "Pictures"
 tagline: "Probing my daily time"
 ---
-
     <br>
 3. House at Königstuhl in Winter
     <div> <img src="/img/house1.jpg" alt=""> </div>
