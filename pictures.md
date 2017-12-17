@@ -10,5 +10,5 @@ tagline: "Probing my daily time"
 2. House at Königstuhl in Winter
     <div> <img src="/img/house1.jpg" alt=""> </div>
 
-1. Rainbow at MPIA
-    <div> <img src="/img/rainbow.jpg" alt=""> </div>
+1. <br>**Rainbow at MPIA**
+    <div> <img src="/img/rainbow.jpg" alt=""> </div><br />
