@@ -16,7 +16,7 @@ tagline: "Probing my daily time"
     <img src="/img/house1.jpg" alt="">
     <br />
 
-2.  Heidelberg night viewed from Königstuhl
+2.  Heidelberg Night viewed from Königstuhl
     <img src="/img/heidelberg_night.jpg" alt="">
     <br />
 
