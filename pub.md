@@ -133,7 +133,7 @@ tagline: "My publication list"
 11. PI： ***Zhang, C.-P.***, JCMT 15m, #M16BP024, 75.0h 
 	"The depletion of different species in dark and dense clumps"
 	
-10. PI： ***Zhang, C.-P.***, JCMT 15m, ##M16AP009, 75.0h 
+10. PI： ***Zhang, C.-P.***, JCMT 15m, #M16AP009, 75.0h 
 	"The depletion of different species in dark and dense clumps"
 	
 9. PI： ***Zhang, C.-P.***, Effelsberg 100m, #7-15, 26.7h
