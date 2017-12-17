@@ -33,8 +33,8 @@ tagline: "Probing my daily time"
     <img src="/img/rainbow.jpg" alt="">
     <br />
 
-3.  Telescope at Mauna Kea, Hawaii
-    <img src="/img/Zhang.jpg" alt="">
+3.  JCMT and CSO at Mauna Kea, Hawaii
+    <img src="/img/jcmt.jpg" alt="">
     <br />
 
 2.  Telescope at Mauna Kea, Hawaii
