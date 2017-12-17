@@ -4,6 +4,11 @@ title: "Pictures"
 tagline: "Probing my daily time"
 ---
 
+
+10.  Snow at MPIA
+    <img src="/img/snow_mpia.jpg" alt="">
+    <br />
+
 9.  Bus stop at Sternwarte, Königstuhl
     <img src="/img/Sternwarte.jpg" alt="">
     <br />
