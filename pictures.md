@@ -4,8 +4,8 @@ title: "Pictures"
 tagline: "Probing my daily time"
 ---
 
-11. Snow at MPIA
-    <img src="/img/Zhang.jpg" alt="">
+11. Telescope
+    <img src="/img/Zhang.jpg" width="100%">
     <br />
 
 10. Snow at MPIA
