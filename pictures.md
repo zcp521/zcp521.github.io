@@ -5,15 +5,15 @@ tagline: "Probing my daily time"
 ---
 
 11. Telescope
-    <img src="/img/Zhang.jpg" width="150%">
+    <img src="/img/Zhang.jpg" width="100%" />
     <br />
 
 10. Snow at MPIA
-    <img src="/img/snow_mpia.jpg" alt="">
+    <img src="/img/snow_mpia.jpg" width="100%" />
     <br />
 
 9.  Bus stop at Sternwarte, Königstuhl
-    <img src="/img/Sternwarte.jpg" alt="">
+    <img src="/img/Sternwarte.jpg" width="150%" />
     <br />
 
 8.  House at Königstuhl in Winter
