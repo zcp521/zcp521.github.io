@@ -5,7 +5,7 @@ tagline: "Probing my daily time"
 ---
 
 11. Telescope
-    <img src="/img/Zhang.jpg" width="100%">
+    <img src="/img/Zhang.jpg" width="150%">
     <br />
 
 10. Snow at MPIA
