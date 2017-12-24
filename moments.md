@@ -4,7 +4,9 @@ title: "Moments"
 tagline: "Probing my daily time"
 ---
 
+## Dec. 24, 2017, Heidelberg Germany, Cloudy and Foggy
 
+Every one except me has backed to their home for Christmas Day. I still stay in Guest house at Königstuhl 14.
 
 
 ## Dec. 16, 2017, Heidelberg Germany, Cloudy and Foggy
