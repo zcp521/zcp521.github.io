@@ -3,6 +3,10 @@ layout: moments
 title: "Pictures"
 tagline: "Probing my daily time"
 ---
+11. Running
+    <img src="/img/running.jpg" width="100%" />
+    <br />
+
 
 11. Telescope
     <img src="/img/Zhang.jpg" width="100%" />
