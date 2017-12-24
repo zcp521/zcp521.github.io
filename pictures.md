@@ -3,13 +3,13 @@ layout: moments
 title: "Pictures"
 tagline: "Probing my daily time"
 ---
-11. Running
-    <img src="/img/running.jpg" width="100%" />
+
+12. Running
+    <img src="/img/running.JPG" width="100%">
     <br />
 
-
 11. Telescope
-    <img src="/img/Zhang.jpg" width="100%" />
+    <img src="/img/Zhang.jpg" width="100%">
     <br />
 
 10. Snow at MPIA
