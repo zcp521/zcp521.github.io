@@ -4,10 +4,21 @@ title: "Pictures"
 tagline: "Probing my daily time"
 ---
 
-12. Plant inside the greenhouse
-    <img src="/img/plant.jpg" width="100%">
+16. Prayer at Jokhang (chin. 大昭寺), Lhasa, Tibet
+    <img src="/img/prayer.JPG" width="100%">
     <br />
 
+15. Night at MPIA
+    <img src="/img/Night_mpia.JPG" width="100%">
+    <br />
+
+14. Yehliu Geopark on the north coast of Taiwan
+    <img src="/img/Yehliu.JPG" width="100%">
+    <br />
+
+13. Plant inside the greenhouse
+    <img src="/img/plant.jpg" width="100%">
+    <br />
 
 12. Running
     <img src="/img/running.JPG" width="100%">
