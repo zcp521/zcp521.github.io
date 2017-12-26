@@ -4,6 +4,11 @@ title: "Pictures"
 tagline: "Probing my daily time"
 ---
 
+12. Plant inside the greenhouse
+    <img src="/img/plant.jpg" width="100%">
+    <br />
+
+
 12. Running
     <img src="/img/running.JPG" width="100%">
     <br />

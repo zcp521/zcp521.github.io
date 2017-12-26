@@ -4,6 +4,17 @@ title: "Moments"
 tagline: "Probing my daily time"
 ---
 
+
+## Dec. 26, 2017, Heidelberg Germany, Sunny
+
+Delicious dumplings made by my friends and me.
+
+
+## Dec. 25, 2017, Heidelberg Germany, Cloudy and Foggy
+
+Merry Christmas!
+
+
 ## Dec. 24, 2017, Heidelberg Germany, Cloudy and Foggy
 
 Merry Christmas Eve!
