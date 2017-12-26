@@ -4,7 +4,7 @@ title: "Pictures"
 tagline: "Probing my daily time"
 ---
 
-16. Prayer at Jokhang (chin. 大昭寺), Lhasa, Tibet
+16. Prayer on Jokhang (chin. 大昭寺), Lhasa, Tibet
     <img src="/img/prayer.JPG" width="100%">
     <br />
 
@@ -16,7 +16,7 @@ tagline: "Probing my daily time"
     <img src="/img/Yehliu.JPG" width="100%">
     <br />
 
-13. Plant inside the greenhouse
+13. Plant inside the greenhouse (my bed room)
     <img src="/img/plant.jpg" width="100%">
     <br />
 
