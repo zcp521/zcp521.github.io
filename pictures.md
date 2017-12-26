@@ -9,7 +9,7 @@ tagline: "Probing my daily time"
     <br />
 
 15. Night at MPIA
-    <img src="/img/Night_mpia.JPG" width="100%">
+    <img src="/img/Night_mpia.jpg" width="100%">
     <br />
 
 14. Yehliu Geopark on the north coast of Taiwan
