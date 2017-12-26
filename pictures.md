@@ -1,8 +1,13 @@
 ---
 layout: moments
 title: "Pictures"
-tagline: "Probing my daily time"
+tagline: "Probing my daily time" 
 ---
+
+
+17. CCOSMA on Yangbajing, Tibet
+    <img src="/img/CCOSMA.JPG" width="100%">
+    <br />
 
 16. Prayer on Jokhang (chin. 大昭寺), Lhasa, Tibet
     <img src="/img/prayer.JPG" width="100%">
