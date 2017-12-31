@@ -7,6 +7,11 @@ tagline: "Probing my daily time"
 
 ## Dec. 26, 2017, Heidelberg Germany, Sunny
 
+Happy New Year！@Heidelberg Castle
+<img src="/img/castle.jpg" width="100%"> <br />
+
+## Dec. 26, 2017, Heidelberg Germany, Sunny
+
 Delicious dumplings made by my friends and me.
 
 
