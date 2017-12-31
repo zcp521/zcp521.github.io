@@ -4,6 +4,9 @@ title: "Pictures"
 tagline: "Probing my daily time" 
 ---
 
+18. Happy New Year！@Heidelberg Castle @31.12.2017
+    <img src="/img/castle.jpg" width="100%">
+    <br />
 
 17. CCOSMA on Yangbajing, Tibet
     <img src="/img/CCOSMA.JPG" width="100%">
