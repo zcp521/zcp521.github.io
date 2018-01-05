@@ -12,7 +12,7 @@ tagline: "My publication list"
 1. ***Zhang, Chuan-Peng*** ["The Formaldehyde Observations and Studies of W49, W3, DR21 and NGC2024 GMCs"]({{ site.baseurl }}/pub/thesis_master.pdf), 2011, Graduate University of Chinese Academy of Sciences, supervised by [Prof. Jarken Esimbek](http://www.xao.cas.cn/yjsjy/dsgl/dsxx/201203/t20120315_3510750.html)
 
 
-## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=59b7dda2b2), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
+## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a4fdfbd89), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
 22. Liu, Tie; Kim, Kee-Tae; ...; ***Zhang, Chuan-Peng***; ...	
 	"The TOP-SCOPE survey of Planck Galactic Cold Clumps: Survey overview and results of an exemplar source, PGCC G26.53+0.17"
