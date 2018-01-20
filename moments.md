@@ -4,6 +4,11 @@ title: "Moments"
 tagline: "Probing my daily time"
 ---
 
+## Jan. 14, 2018, Heidelberg Germany, Rainy
+
+爱我所爱，行我所行，听从内心，无问西东！
+
+
 ## Jan. 14, 2018, Heidelberg Germany, Cloudy
 
 Remember this day this disgusting guy this lesson forever！！！
