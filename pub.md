@@ -24,7 +24,7 @@ tagline: "My publication list"
 
 20. Liu, Xiao-Lan; Xu, Jin-Long; Ning, Chang-Chun; ***Zhang, Chuan-Peng***; Liu, Xiao-Tao
 	"A statistical study towards the high-mass BGPS clumps with the MALT90 survey"
-	[2018RAA....18....4L]http://adsabs.harvard.edu/abs/2018RAA....18....4L)
+	[2018RAA....18....4L](http://adsabs.harvard.edu/abs/2018RAA....18....4L)
 
 19. Xu, Jin-Long; Xu, Ye; Yu, Naiping; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Wang, Jun-Jie; Ning, Chang-chun; Ju, Bing-Gang; Zhang, Guo-Yin	
 	"Two-dimensional Molecular Gas and Ongoing Star Formation around H II Region Sh2-104"
