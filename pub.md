@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a4fdfbd89), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+23. Tang, Mengyao; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
+	"The properties of Planck Galactic cold clumps in the L1495 dark cloud"
+	[2018arXiv180205378T](http://adsabs.harvard.edu/abs/2018arXiv180205378T)
+
 22. Liu, Tie; Kim, Kee-Tae; ...; ***Zhang, Chuan-Peng***; ...	
 	"The TOP-SCOPE survey of Planck Galactic Cold Clumps: Survey overview and results of an exemplar source, PGCC G26.53+0.17"
 	[2018ApJS..234...28L](http://adsabs.harvard.edu/abs/2018ApJS..234...28L)
