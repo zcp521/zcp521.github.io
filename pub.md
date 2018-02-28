@@ -44,7 +44,7 @@ tagline: "My publication list"
 
 16. ***Zhang C P***, Wang J J. 
     "Progresses and methods in research of infrared dust bubble (in Chinese)" 
-    [2017Sci Sin-Phys Mech Astron.47..9](http://enginetest.scichina.com/publisher/scp/journal/SSPMA/47/9/10.1360/SSPMA2016-00476?slug=full%20text)
+    [2017Sci Sin-Phys Mech Astron.47..9](http://engine.scichina.com/publisher/scp/journal/SSPMA/doi/10.1360/SSPMA2016-00476?slug=full%20text)
 
 15. ***ZHANG Chuan-peng***
     "High-mass Star Formation and Its Initial Conditions (大质量恒星形成及其初始条件)"
