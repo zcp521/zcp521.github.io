@@ -48,7 +48,7 @@ tagline: "My publication list"
 
 15. ***ZHANG Chuan-peng***
     "High-mass Star Formation and Its Initial Conditions (大质量恒星形成及其初始条件)"
-    [2017年58卷06期Acta Astronomica Sinica](http://www.twxb.org/index.php/TWXB/article/view/2009916)	
+    [2017年58卷06期Acta Astronomica Sinica](http://www.twxb.org/index.php/TWXB/article/download/2009916/1648254)	
 
 14. Ward-Thompson, Derek; Pattle, Kate; ...; ***Zhang, Chuan-Peng***; ...	
 	"First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt"
