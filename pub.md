@@ -96,7 +96,7 @@ tagline: "My publication list"
 	[2013RAA....13...47Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RAA....13...47Z&db_key=AST&link_type=ABSTRACT)
 	
 3. ***Zhang, C. P.***; Wang, J. J.	
-	Multiwavelength study of the infrared dust bubble S51
+	"Multiwavelength study of the infrared dust bubble S51"
 	[2012A&A...544A..11Z](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...544A..11Z&db_key=AST&link_type=ABSTRACT)
 	
 2. ***Zhang, Chuan Peng***; Esimbek, Jarken; Zhou, Jian Jun; Wu, Gang; Du, Zhi Mao	
