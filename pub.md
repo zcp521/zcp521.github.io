@@ -21,7 +21,7 @@ tagline: "My publication list"
 
 23. Tang, Mengyao; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
 	"The properties of Planck Galactic cold clumps in the L1495 dark cloud"
-	[2018arXiv180205378T](http://adsabs.harvard.edu/abs/2018arXiv180205378T)
+	[2018ApJ...856..141T](http://adsabs.harvard.edu/abs/2018ApJ...856..141T)
 
 22. Liu, Tie; Kim, Kee-Tae; ...; ***Zhang, Chuan-Peng***; ...	
 	"The TOP-SCOPE survey of Planck Galactic Cold Clumps: Survey overview and results of an exemplar source, PGCC G26.53+0.17"
