@@ -15,7 +15,7 @@ tagline: "My publication list"
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a4fdfbd89), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
 25. Kwon, Jungmi; Doi, Yasuo; ...; ***Zhang, Chuan-Peng***; ...	
-	"A First Look at BISTRO Observations of The $\rho$ Oph-A core"
+	"A First Look at BISTRO Observations of The ρ Oph-A core"
 	[2018arXiv180409313K](http://adsabs.harvard.edu/abs/2018arXiv180409313K)
 
 
