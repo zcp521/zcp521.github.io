@@ -14,6 +14,11 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a4fdfbd89), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+25. Kwon, Jungmi; Doi, Yasuo; ...; ***Zhang, Chuan-Peng***; ...	
+	"A First Look at BISTRO Observations of The $\rho$ Oph-A core"
+	[2018arXiv180409313K](http://adsabs.harvard.edu/abs/2018arXiv180409313K)
+
+
 24. Liu, Tie; Li, Pak Shing; ...; ***Zhang, Chuan-Peng***; ...	
 	"A holistic perspective on the dynamics of G035.39-00.33: the interplay between gas and magnetic fields"
 	[2018arXiv180309457L](http://adsabs.harvard.edu/abs/2018arXiv180309457L)
