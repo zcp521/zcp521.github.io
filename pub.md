@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a4fdfbd89), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+
+26. ***Zhang, Chuan-Peng***; Liu, Tie;  Yuan, Jing-Hua; Sanhueza, Patricio; ...	
+	"The TOP-SCOPE survey of PGCCs: PMO and SCUBA-2 observations of 64 PGCCs in the 2nd Galactic Quadrant"
+
 25. Kwon, Jungmi; Doi, Yasuo; ...; ***Zhang, Chuan-Peng***; ...	
 	"A First Look at BISTRO Observations of The ρ Oph-A core"
 	[2018arXiv180409313K](http://adsabs.harvard.edu/abs/2018arXiv180409313K)
@@ -143,6 +147,8 @@ tagline: "My publication list"
 	
 ## Observations
 
+12. PI: ***Zhang, C.-P.***, IRAM 30m, #024-18, 20.0h
+	"How to explain the extremely narrow linewidth in G157.25?"
 	
 11. PI: ***Zhang, C.-P.***, JCMT 15m, #M16BP024, 75.0h 
 	"The depletion of different species in dark and dense clumps"
