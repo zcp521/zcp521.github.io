@@ -17,7 +17,7 @@ tagline: "My publication list"
 
 26. ***Zhang, Chuan-Peng***; Liu, Tie;  Yuan, Jing-Hua; Sanhueza, Patricio; ...	
 	"The TOP-SCOPE survey of PGCCs: PMO and SCUBA-2 observations of 64 PGCCs in the 2nd Galactic Quadrant"
-	[2018arXiv180503883](https://arxiv.org/abs/1805.03883);
+	[2018arXiv180503883Z](http://adsabs.harvard.edu/abs/2018arXiv180503883Z);
 	Supplementary figures can be downloaded [here]({{ site.baseurl }}/pub/Figs.zip).
 
 25. Kwon, Jungmi; Doi, Yasuo; ...; ***Zhang, Chuan-Peng***; ...	
