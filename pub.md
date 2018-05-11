@@ -59,12 +59,12 @@ tagline: "My publication list"
 	[2017MNRAS.469.2286Z](http://adsabs.harvard.edu/abs/2017MNRAS.469.2286Z)
 
 16. ***Zhang C P***, Wang J J. 
-    "Progresses and methods in research of infrared dust bubble (in Chinese)" 
-    [2017Sci Sin-Phys Mech Astron.47..9](http://engine.scichina.com/publisher/scp/journal/SSPMA/doi/10.1360/SSPMA2016-00476?slug=full%20text)
+	"Progresses and methods in research of infrared dust bubble (in Chinese)" 
+	[2017Sci Sin-Phys Mech Astron.47..9](http://engine.scichina.com/publisher/scp/journal/SSPMA/doi/10.1360/SSPMA2016-00476?slug=full%20text)
 
 15. ***ZHANG Chuan-peng***
-    "High-mass Star Formation and Its Initial Conditions (大质量恒星形成及其初始条件)"
-    [2017年58卷06期Acta Astronomica Sinica](http://www.twxb.org/index.php/TWXB/article/download/2009916/1648254)	
+	"High-mass Star Formation and Its Initial Conditions (大质量恒星形成及其初始条件)"
+	[2017AcASn..58...62Z](http://adsabs.harvard.edu/abs/2017AcASn..58...62Z)	
 
 14. Ward-Thompson, Derek; Pattle, Kate; ...; ***Zhang, Chuan-Peng***; ...	
 	"First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt"
