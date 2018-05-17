@@ -14,6 +14,9 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+27. Soam, Archana; Pattle, Kate; ...; ***Zhang, Chuan-Peng***; ...	
+	"Magnetic fields towards Ophiuchus-B derived from SCUBA-2 polarization measurements"
+	[2018arXiv180506131S](http://adsabs.harvard.edu/abs/2018arXiv180506131S)
 
 26. ***Zhang, Chuan-Peng***; Liu, Tie;  Yuan, Jing-Hua; Sanhueza, Patricio; ...	
 	"The TOP-SCOPE survey of PGCCs: PMO and SCUBA-2 observations of 64 PGCCs in the 2nd Galactic Quadrant"
@@ -24,11 +27,9 @@ tagline: "My publication list"
 	"A First Look at BISTRO Observations of The ρ Oph-A core"
 	[2018arXiv180409313K](http://adsabs.harvard.edu/abs/2018arXiv180409313K)
 
-
 24. Liu, Tie; Li, Pak Shing; ...; ***Zhang, Chuan-Peng***; ...	
 	"A holistic perspective on the dynamics of G035.39-00.33: the interplay between gas and magnetic fields"
 	[2018arXiv180309457L](http://adsabs.harvard.edu/abs/2018arXiv180309457L)
-
 
 23. Tang, Mengyao; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
 	"The properties of Planck Galactic cold clumps in the L1495 dark cloud"
