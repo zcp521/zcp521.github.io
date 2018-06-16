@@ -4,6 +4,10 @@ title: "Pictures"
 tagline: "Probing my daily time" 
 ---
 
+21. Heidelberg from Philosophenweg @16.06.2018
+    <img src="/img/view_hd.jpg" width="100%">
+    <br />
+
 20. Schwetzingen @08.04.2018
     <img src="/img/Schwetzingen.jpg" width="100%">
     <br />
