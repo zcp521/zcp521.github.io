@@ -20,16 +20,16 @@ tagline: "My publication list"
 
 26. ***Zhang, Chuan-Peng***; Liu, Tie;  Yuan, Jing-Hua; Sanhueza, Patricio; ...	
 	"The TOP-SCOPE survey of PGCCs: PMO and SCUBA-2 observations of 64 PGCCs in the 2nd Galactic Quadrant"
-	[2018arXiv180503883Z](http://adsabs.harvard.edu/abs/2018arXiv180503883Z);
-	Supplementary figures can be downloaded [here]({{ site.baseurl }}/pub/Figs.zip).
+	[2018ApJS..236...49Z](http://adsabs.harvard.edu/abs/2018ApJS..236...49Z);
+	Supplementary figures can be downloaded [here]({site.baseurl}/pub/Figs.zip).
 
 25. Kwon, Jungmi; Doi, Yasuo; ...; ***Zhang, Chuan-Peng***; ...	
 	"A First Look at BISTRO Observations of The ρ Oph-A core"
-	[2018arXiv180409313K](http://adsabs.harvard.edu/abs/2018arXiv180409313K)
+	[2018ApJ...859....4K](http://adsabs.harvard.edu/abs/2018ApJ...859....4K)
 
 24. Liu, Tie; Li, Pak Shing; ...; ***Zhang, Chuan-Peng***; ...	
 	"A holistic perspective on the dynamics of G035.39-00.33: the interplay between gas and magnetic fields"
-	[2018arXiv180309457L](http://adsabs.harvard.edu/abs/2018arXiv180309457L)
+	[2018ApJ...859..151L](http://adsabs.harvard.edu/abs/2018ApJ...859..151L)
 
 23. Tang, Mengyao; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
 	"The properties of Planck Galactic cold clumps in the L1495 dark cloud"
