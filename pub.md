@@ -16,7 +16,7 @@ tagline: "My publication list"
 
 27. Soam, Archana; Pattle, Kate; ...; ***Zhang, Chuan-Peng***; ...	
 	"Magnetic fields towards Ophiuchus-B derived from SCUBA-2 polarization measurements"
-	[2018arXiv180506131S](http://adsabs.harvard.edu/abs/2018arXiv180506131S)
+	[2018ApJ...861...65S](http://adsabs.harvard.edu/abs/2018ApJ...861...65S)
 
 26. ***Zhang, Chuan-Peng***; Liu, Tie;  Yuan, Jing-Hua; Sanhueza, Patricio; ...	
 	"The TOP-SCOPE survey of PGCCs: PMO and SCUBA-2 observations of 64 PGCCs in the 2nd Galactic Quadrant"
