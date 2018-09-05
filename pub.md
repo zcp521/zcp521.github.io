@@ -14,6 +14,11 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+27. Juvela, Mika; Guillet, Vincent; Liu, Tie; ...; ***Zhang, Chuan-Peng***	
+	"Dust spectrum and polarisation at 850 um in the massive IRDC G035.39-00.33"
+	[2018arXiv180900864J](https://arxiv.org/abs/1809.00864)
+
+
 27. Soam, Archana; Pattle, Kate; ...; ***Zhang, Chuan-Peng***; ...	
 	"Magnetic fields towards Ophiuchus-B derived from SCUBA-2 polarization measurements"
 	[2018ApJ...861...65S](http://adsabs.harvard.edu/abs/2018ApJ...861...65S)
