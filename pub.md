@@ -16,7 +16,7 @@ tagline: "My publication list"
 
 27. Juvela, Mika; Guillet, Vincent; Liu, Tie; ...; ***Zhang, Chuan-Peng***	
 	"Dust spectrum and polarisation at 850 um in the massive IRDC G035.39-00.33"
-	[2018arXiv180900864J](https://arxiv.org/abs/1809.00864)
+	[2018arXiv180900864J](http://adsabs.harvard.edu/abs/2018arXiv180900864J)
 
 
 27. Soam, Archana; Pattle, Kate; ...; ***Zhang, Chuan-Peng***; ...	
