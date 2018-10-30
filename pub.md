@@ -159,6 +159,12 @@ tagline: "My publication list"
 	
 ## Observations
 
+14. PI: ***Zhang, C.-P.***, IRAM 30m, #118-18, 25.2h
+	"Dynamics and magnetic field of a prestellar core with an extremely narrow linewidth"
+	
+13. PI: ***Zhang, C.-P.***, IRAM 30m, #154-18, 19.0h
+	"The feedback from H II region Sh2-82 onto a filamentary molecular cloud"
+	
 12. PI: ***Zhang, C.-P.***, IRAM 30m, #024-18, 20.0h
 	"How to explain the extremely narrow linewidth in G157.25?"
 	
