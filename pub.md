@@ -15,7 +15,7 @@ tagline: "My publication list"
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
 31. Liu, Junhao; Qiu, Keping; ...; ***Zhang, Chuan-Peng***; ...	
-	"The JCMT BISTRO Survey: The Magnetic Field In The Starless Core $\rho$ Ophiuchus C"
+	"The JCMT BISTRO Survey: The Magnetic Field In The Starless Core ρ Ophiuchus C"
 	[2019arXiv190207734L](http://adsabs.harvard.edu/abs/2019arXiv190207734L)
 
 30. Wang, Jia-Wei; Lai, Shih-Ping; ...; ***Zhang, Chuan-Peng***; ...	
