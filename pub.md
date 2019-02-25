@@ -14,14 +14,21 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
-28. Zhang, Guo-Yin; Xu, Jin-Long; Vasyunin, A. I.; ...; ***Zhang, Chuan-Peng***; ...	
-	"Physical properties and chemical composition of the cores in California molecular cloud"
-	[2018arXiv181009522Z](http://adsabs.harvard.edu/abs/2018arXiv181009522Z)
-
-27. Juvela, Mika; Guillet, Vincent; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
+31. Liu, Junhao; Qiu, Keping; Berry, David; ...; ***Zhang, Chuan-Peng***; ...	
 	"Dust spectrum and polarisation at 850 um in the massive IRDC G035.39-00.33"
-	[2018arXiv180900864J](http://adsabs.harvard.edu/abs/2018arXiv180900864J)
+	[2019arXiv190207734L](http://adsabs.harvard.edu/abs/2019arXiv190207734L)
 
+30. Wang, Jia-Wei; Lai, Shih-Ping; Eswaraiah, Chakali; ...; ***Zhang, Chuan-Peng***; ...	
+	"JCMT BISTRO survey: Magnetic Fields within the Hub-Filament Structure in IC 5146"
+	[2018arXiv181205818W](http://adsabs.harvard.edu/abs/2018arXiv181205818W)
+
+29. Zhang, Guo-Yin; Xu, Jin-Long; Vasyunin, A. I.; ...; ***Zhang, Chuan-Peng***; ...	
+	"Physical properties and chemical composition of the cores in California molecular cloud"
+	[2018A&A...620A.163Z](http://adsabs.harvard.edu/abs/2018A%26A...620A.163Z)
+
+28. Juvela, Mika; Guillet, Vincent; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
+	"Dust spectrum and polarisation at 850 um in the massive IRDC G035.39-00.33"
+	[2018A&A...620A..26J](http://adsabs.harvard.edu/abs/2018A%26A...620A..26J)
 
 27. Soam, Archana; Pattle, Kate; ...; ***Zhang, Chuan-Peng***; ...	
 	"Magnetic fields towards Ophiuchus-B derived from SCUBA-2 polarization measurements"
