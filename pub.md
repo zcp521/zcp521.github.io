@@ -14,10 +14,14 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+32. Eden, D. J.; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
+	"SCOPE: SCUBA-2 Continuum Observations of Pre-protostellar Evolution - Survey Description and Compact Source Catalogue"
+	[2019arXiv190210180E](http://adsabs.harvard.edu/abs/2019arXiv190210180E)
+
 31. Liu, Junhao; Qiu, Keping; ...; ***Zhang, Chuan-Peng***; ...	
 	"The JCMT BISTRO Survey: The Magnetic Field In The Starless Core ρ Ophiuchus C"
 	[2019arXiv190207734L](http://adsabs.harvard.edu/abs/2019arXiv190207734L)
-
+	
 30. Wang, Jia-Wei; Lai, Shih-Ping; ...; ***Zhang, Chuan-Peng***; ...	
 	"JCMT BISTRO survey: Magnetic Fields within the Hub-Filament Structure in IC 5146"
 	[2018arXiv181205818W](http://adsabs.harvard.edu/abs/2018arXiv181205818W)
