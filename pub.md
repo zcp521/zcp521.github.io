@@ -16,7 +16,7 @@ tagline: "My publication list"
 
 32. Eden, D. J.; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
 	"SCOPE: SCUBA-2 Continuum Observations of Pre-protostellar Evolution - Survey Description and Compact Source Catalogue"
-	[2019arXiv190210180E](http://adsabs.harvard.edu/abs/2019arXiv190210180E)
+	[2019MNRAS.485.2895E](http://adsabs.harvard.edu/abs/2019MNRAS.485.2895E)
 
 31. Liu, Junhao; Qiu, Keping; ...; ***Zhang, Chuan-Peng***; ...	
 	"The JCMT BISTRO Survey: The Magnetic Field In The Starless Core ρ Ophiuchus C"
