@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+33. Coudé, Simon; Bastien, Pierre; ...; ***Zhang, Chuan-Peng***; ...	
+	"The JCMT BISTRO Survey: The Magnetic Field of the Barnard 1 Star-Forming Region"
+	[2019arXiv190407221C](http://adsabs.harvard.edu/abs/2019arXiv190407221C)
+
 32. Eden, D. J.; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
 	"SCOPE: SCUBA-2 Continuum Observations of Pre-protostellar Evolution - Survey Description and Compact Source Catalogue"
 	[2019MNRAS.485.2895E](http://adsabs.harvard.edu/abs/2019MNRAS.485.2895E)
