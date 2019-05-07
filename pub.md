@@ -192,7 +192,7 @@ tagline: "My publication list"
 13. Zhou, C.-L.; ***Zhang, C.-P.***; Yuan, L.-X., JCMT 15m, #M18BP069, 3.0h 
 	"Warm gas observation in bubble N131"
 	
-12. Zhou, C.-L.; Yuan, L.-X.; ***Zhang, C.-P.***, Zhu, M., JCMT 15m, #M17BP077, 10.5h 
+12. Zhou, C.-L.; Yuan, L.-X.; ***Zhang, C.-P.***; Zhu, M., JCMT 15m, #M17BP077, 10.5h 
 	"Warm gas observation in bubble N131"
 	
 11. PI: ***Zhang, C.-P.***, JCMT 15m, #M16BP024, 75.0h 
