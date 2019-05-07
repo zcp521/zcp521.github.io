@@ -174,14 +174,26 @@ tagline: "My publication list"
 	
 ## Observations
 
-14. PI: ***Zhang, C.-P.***, IRAM 30m, #118-18, 25.2h
+18. PI: ***Zhang, C.-P.***, IRAM 30m, #022-19, 30.0h
+	"Dynamics and magnetic field of a starless core with an extremely narrow linewidth"
+
+17. Li, G.-X.; ***Zhang, C.-P.***; Qin, S.-L.; Shi, X., IRAM 30m, #006-19, 15.2h
+	"Mapping a cometary globule with a conical shape using CO isotopes"
+
+16. PI: ***Zhang, C.-P.***, IRAM 30m, #118-18, 25.2h
 	"Dynamics and magnetic field of a prestellar core with an extremely narrow linewidth"
-	
-13. PI: ***Zhang, C.-P.***, IRAM 30m, #154-18, 19.0h
+
+15. PI: ***Zhang, C.-P.***, IRAM 30m, #154-18, 19.0h
 	"The feedback from H II region Sh2-82 onto a filamentary molecular cloud"
 	
-12. PI: ***Zhang, C.-P.***, IRAM 30m, #024-18, 20.0h
+14. PI: ***Zhang, C.-P.***, IRAM 30m, #024-18, 20.0h
 	"How to explain the extremely narrow linewidth in G157.25?"
+	
+13. Zhou, C.-L.; ***Zhang, C.-P.***; Yuan, L.-X., JCMT 15m, #M18BP069, 3.0h 
+	"Warm gas observation in bubble N131"
+	
+12. Zhou, C.-L.; Yuan, L.-X.; ***Zhang, C.-P.***, Zhu, M., JCMT 15m, #M17BP077, 10.5h 
+	"Warm gas observation in bubble N131"
 	
 11. PI: ***Zhang, C.-P.***, JCMT 15m, #M16BP024, 75.0h 
 	"The depletion of different species in dark and dense clumps"
@@ -192,7 +204,7 @@ tagline: "My publication list"
 9. PI: ***Zhang, C.-P.***, Effelsberg 100m, #7-15, 26.7h
 	"Probing a hierarchical temperature structure of the bubble N131"
 	
-8. PI:  ***Zhang, C.-P.***, JCMT 15m, #M15BI021, 16.0h
+8. PI: ***Zhang, C.-P.***, JCMT 15m, #M15BI021, 16.0h
 	"H<sub>2</sub>D<sup>+</sup> in Massive Infrared Quiet Cores"
 	
 7. PI: ***Zhang, C.-P.***, JCMT 15m, #M15AI79, 3.0h
@@ -201,7 +213,7 @@ tagline: "My publication list"
 6. PI: ***Zhang, C.-P.***, JCMT 15m, #M15AI69, 24.0h
 	 "H<sub>2</sub>D<sup>+</sup> in Massive Infrared Quiet Cores"
 	 
-5. PI:  ***Zhang, C.-P.***, TAP-CSO 10.4m, 2015, 2 full nights
+5. PI: ***Zhang, C.-P.***, TAP-CSO 10.4m, 2015, 2 full nights
 	 "H<sub>2</sub>D<sup>+</sup> in massive infrared quiet cores"
 	 
 4. Astronomer On Duty (AoD) of Effelsberg 100m, June 2014 in Effelsberg
