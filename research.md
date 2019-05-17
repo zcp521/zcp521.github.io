@@ -73,7 +73,7 @@ with core collapse (EECC)”. (Xu et al., 2016; Zhang et al., 2016b)
 ![]({{ site.baseurl }}/img/irdc.png)
 
 
-# 5. Large Scale Survey
+## 5. Large Scale Survey
 
 TOP-SCOPE are joint survey programs targeting at Planck Cold Clumps. TOP, standing
 for “TRAO Observations of Planck cold clumps”, aims at an unbiased CO survey of 2000
@@ -86,21 +86,63 @@ Second Quadrant of the Milky Way.
 ![]({{ site.baseurl }}/img/milkyway.png)
 
 
-## 6. Fragmentation, Deuteration, and Evolution
+## 6. Fragmentation and triggered star formation
 
-The fragmentation at the earliest phases is an important process of massive star formation.
-Investigations of starless cores and prestellar cores are crucial for understanding the origin of
-the stellar initial mass function. However, few high-angular resolution observations toward the
-earliest high-mass clumps have been done so far. Eight massive precluster clumps (G18.17,
-G18.21, G23.97N, G23.98, G23.44, G23.97S, G25.38, G25.71) were selected from the SCUBA
-Massive Pre/Protocluster core Survey at 850 and 450 μm. VLA at 1.3 cm, PdBI at 3.5 & 1.3
-mm, APEX at 870 μm observations were followed up, and archival infrared data at 4.5, 8.0, 24,
-and 70 μm are combined to study the fragmentation and evolution of these eight clumps. The
-spectral data including NH<sub>3</sub> (1, 1) and (2, 2) lines NH<sub>2</sub>D, C<sup>18</sup>O (2-1), H<sup>13</sup>CN, HC<sup>15</sup>N, and SO
-line data will be used to study the dynamics, stability, and chemistry of these samples. Finally,
-we want to further unveil the initial conditions of high-mass star formation.
+Context. Fragmentation and feedback are two important processes during the early phases of star formation.
+
+Aims. Massive clumps tend to fragment into clusters of cores and condensations, some of which form high-mass stars. In this work,
+we study the structure of massive clumps at different scales, analyze the fragmentation process, and investigate the possibility that
+star formation is triggered by nearby H II regions.
+
+Methods. We present a high angular resolution study of a sample of massive proto-cluster clumps G18.17, G18.21, G23.97N, G23.98,
+G23.44, G23.97S, G25.38, and G25.71. Combining infrared data at 4.5, 8.0, 24, and 70 μm, we use few-arcsecond resolution radio-
+and millimeter interferometric data taken at 1.3 cm, 3.5 mm, 1.3 mm, and 870 μm to study their fragmentation and evolution. Our
+sample is unique in the sense that all the clumps have neighboring H II regions. Taking advantage of that, we test triggered star
+formation using a novel method where we study the alignment of the centres of mass traced by dust emission at multiple scales.
+
+Results. The eight massive clumps, identified based on single dish observations, have masses ranging from 228 to 2279 M  within an
+effective radius of R eff ∼ 0.5 pc. We detect compact structures towards six out of the eight clumps. The brightest compact structures
+within infrared bright clumps are typically associated with embedded compact radio continuum sources. The smaller scale structures
+of R eff ∼ 0.02 pc observed within each clump are mostly gravitationally bound and massive enough to form at least a B3-B0 type star.
+Many condensations have masses larger than 8 Msun  at small scale of R eff ∼ 0.02 pc. We find that the two lowest mass and lowest surface
+density infrared quiet clumps with < 300 M  do not host any compact sources, calling into question their ability to form high-mass
+stars. Although the clumps are mostly infrared quiet, the dynamical movements are active at clump scale (∼ 1 pc).
+
+Conclusions. We studied the spatial distribution of the gas conditions detected at different scales. For some sources we find hints
+of external triggering, whereas for others we find no significant pattern that indicates triggering is dynamically unimportant. This
+probably indicates that the different clumps go through different evolutionary paths. In this respect, studies with larger samples are
+highly desired.
 
 ![]({{ site.baseurl }}/img/fragmentation.png)
+
+
+## 7. Gas dynamics and NH<sub>2</sub>D chemistry in high-mass pre/protocluster clumps
+
+Context. The initial stage of star formation is very difficult to study due to its high density (n H 2 > 10^6 cm^−3 ) and low temperature
+(T dust < 18 K), which lead to many molecules depleted from the gas phase by freezing out onto dust grains. However, the deuterium
+species like the 1 11 -1 01 lines of o-NH<sub>2</sub>D at 85.926 GHz could survive in the extreme condition.
+
+Aims. Deuterated specie NH<sub>2</sub>D as a tracer was observed to probe the initial conditions of high-mass star formation, and high spatial
+resolution observations of NH<sub>3</sub> (1, 1) and (2, 2) are used to investigate the temperature and dynamics of the dense and cold objects.
+
+Methods. We present NH<sub>2</sub>D, NH<sub>3</sub> (1, 1) and (2, 2) observations using PdBI and VLA, respectively, towards eight massive precluster
+clumps (G18.17, G18.21, G23.97N, G23.98, G23.44, G23.97S, G25.38, and G25.71). We use 3D Gaussclumps to extract NH<sub>2</sub>D
+cores and provide a statistical view of their deuterium chemistry.
+
+Results. We find that the NH<sub>2</sub>D cores are gravitationally bound, and can potentially form intermediate- or high-mass stars in future.
+The NH<sub>2</sub>D emission is not associated with either a dust continuum or NH<sub>3</sub> peak position or infrared source, but just surrounding the
+central continuum cores, suggesting that the NH<sub>2</sub>D has been destroyed by the central young stellar object (YSO) due to its heating.
+The NH<sub>2</sub>D cores are likely prestellar or starless cores. We detect extremely high deuterium fractionation of 0.03 6 D frac 6 1.41 with
+a median value of 0.45 ± 0.01. We find that the correlation between D frac and T kin is a positive-correlation from 13 to 16.5 K, but
+anti-correlation from 16.5 to 22 K. The most suitable condition for NH<sub>2</sub>D to take place reaction may be at the temperature of around
+16.5 K. The detected NH<sub>2</sub>D lines are very narrow with a median value of around 0.94 ± 0.09 km/s, which is regulated by turbulent
+broadening. Using NH<sub>3</sub> (1, 1) as a dynamical tracer, we find very complicated dynamical movement towards all the eight clumps, as
+can be explained by processes such as outflow, rotation, convergent flow, collision, and large velocity gradient.
+
+Conclusions. The sample generally exhibit clear signatures of Keplerian disk, suggesting that the accretion rate could be increasing
+gradually from prestellar core to evolved source stages.
+
+![]({{ site.baseurl }}/img/pdbi_spectra.png)
 
 
 ## References
