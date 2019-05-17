@@ -18,17 +18,17 @@ tagline: "My publication list"
 	"The JCMT BISTRO Survey: The Magnetic Field of the Barnard 1 Star-Forming Region"
 	[2019arXiv190407221C](http://adsabs.harvard.edu/abs/2019arXiv190407221C)
 
-32. Eden, D. J.; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
-	"SCOPE: SCUBA-2 Continuum Observations of Pre-protostellar Evolution - Survey Description and Compact Source Catalogue"
-	[2019MNRAS.485.2895E](http://adsabs.harvard.edu/abs/2019MNRAS.485.2895E)
-
-31. Liu, Junhao; Qiu, Keping; ...; ***Zhang, Chuan-Peng***; ...	
+32. Liu, Junhao; Qiu, Keping; ...; ***Zhang, Chuan-Peng***; ...	
 	"The JCMT BISTRO Survey: The Magnetic Field In The Starless Core ρ Ophiuchus C"
 	[2019arXiv190207734L](http://adsabs.harvard.edu/abs/2019arXiv190207734L)
 	
+31. Eden, D. J.; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
+	"SCOPE: SCUBA-2 Continuum Observations of Pre-protostellar Evolution - Survey Description and Compact Source Catalogue"
+	[2019MNRAS.485.2895E](http://adsabs.harvard.edu/abs/2019MNRAS.485.2895E)
+
 30. Wang, Jia-Wei; Lai, Shih-Ping; ...; ***Zhang, Chuan-Peng***; ...	
-	"JCMT BISTRO survey: Magnetic Fields within the Hub-Filament Structure in IC 5146"
-	[2018arXiv181205818W](http://adsabs.harvard.edu/abs/2018arXiv181205818W)
+	"JCMT BISTRO Survey: Magnetic Fields within the Hub-filament Structure in IC 5146"
+	[2019ApJ...876...42W](http://adsabs.harvard.edu/abs/2019ApJ...876...42W)
 
 29. Zhang, Guo-Yin; Xu, Jin-Long; Vasyunin, A. I.; ...; ***Zhang, Chuan-Peng***; ...	
 	"Physical properties and chemical composition of the cores in California molecular cloud"
