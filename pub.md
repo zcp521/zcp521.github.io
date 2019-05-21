@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+34. Xu, Jin-Long; Zavagno, Annie; Yu, Naiping; Liu, Xiao-Lan; Xu, Ye; Yuan, Jinghua; ***Zhang, Chuan-Peng***; Zhang, Si-Ju; Zhang, Guo-Yin; Ning, Chang-Chun; Ju, Bing-Gang	
+	"The effects of ionization feedback on star formation: A case study of the M16 H II region"
+	[2019arXiv190508030X](http://adsabs.harvard.edu/abs/2019arXiv190508030X)
+
 33. Coudé, Simon; Bastien, Pierre; ...; ***Zhang, Chuan-Peng***; ...	
 	"The JCMT BISTRO Survey: The Magnetic Field of the Barnard 1 Star-Forming Region"
 	[2019arXiv190407221C](http://adsabs.harvard.edu/abs/2019arXiv190407221C)
