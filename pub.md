@@ -182,6 +182,9 @@ tagline: "My publication list"
 	
 ## Observations
 
+19. Li, G.-X.; ***Zhang, C.-P.***, JCMT 15m, #M19BP047, 10.0h
+	"Mapping a cometary globule with a conical shape using CO isotopes"
+
 18. PI: ***Zhang, C.-P.***, IRAM 30m, #022-19, 30.0h
 	"Dynamics and magnetic field of a starless core with an extremely narrow linewidth"
 
