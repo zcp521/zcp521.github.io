@@ -20,7 +20,7 @@ tagline: "My publication list"
 
 34. Park, Geumsook; Kim, Kee-Tae; ...; ***Zhang, Chuan-Peng***; ...	
 	"Submillimeter continuum variability in Planck Galactic cold clumps"
-	[2019arXiv190512147P](https://adsabs.harvard.edu/abs/2019arXiv190512147P)
+	[2019arXiv190512147P](http://adsabs.harvard.edu/abs/2019arXiv190512147P)
 
 33. Coudé, Simon; Bastien, Pierre; ...; ***Zhang, Chuan-Peng***; ...	
 	"The JCMT BISTRO Survey: The Magnetic Field of the Barnard 1 Star-Forming Region"
