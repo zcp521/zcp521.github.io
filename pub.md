@@ -27,8 +27,8 @@ tagline: "My publication list"
 	[2019arXiv190407221C](http://adsabs.harvard.edu/abs/2019arXiv190407221C)
 
 32. Liu, Junhao; Qiu, Keping; ...; ***Zhang, Chuan-Peng***; ...	
-	"The JCMT BISTRO Survey: The Magnetic Field In The Starless Core ρ Ophiuchus C"
-	[2019arXiv190207734L](http://adsabs.harvard.edu/abs/2019arXiv190207734L)
+	"The JCMT BISTRO Survey: The Magnetic Field in the Starless Core ρ Ophiuchus C"
+	[2019ApJ...877...43L](http://adsabs.harvard.edu/2019ApJ...877...43L)
 	
 31. Eden, D. J.; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
 	"SCOPE: SCUBA-2 Continuum Observations of Pre-protostellar Evolution - Survey Description and Compact Source Catalogue"
