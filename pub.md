@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+36. ***Zhang, Chuan-Peng***; Csengeri, Timea; Wyrowski, Friedrich; Li, Guang-Xing; Pillai, Thushara; Menten, Karl M.; Hatchell, Jennifer; Thompson, Mark A.; Pestalozz, Michele R.	
+	"Probing the initial conditions of high-mass star formation III. Fragmentation and triggered star formation"
+	[Accepted for publication in A&A]({{site.baseurl}}/pub/PdBI-continuum.pdf)
+
 35. Xu, Jin-Long; Zavagno, Annie; ...; ***Zhang, Chuan-Peng***; ...	
 	"The effects of ionization feedback on star formation: A case study of the M16 H II region"
 	[2019arXiv190508030X](http://adsabs.harvard.edu/abs/2019arXiv190508030X)
