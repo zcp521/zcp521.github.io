@@ -16,7 +16,8 @@ tagline: "My publication list"
 
 36. ***Zhang, Chuan-Peng***; Csengeri, Timea; Wyrowski, Friedrich; Li, Guang-Xing; Pillai, Thushara; Menten, Karl M.; Hatchell, Jennifer; Thompson, Mark A.; Pestalozz, Michele R.	
 	"Probing the initial conditions of high-mass star formation III. Fragmentation and triggered star formation"
-	[Accepted for publication in A&A]({{site.baseurl}}/pub/PdBI-continuum.pdf)
+	[2019arXiv190603216Z](http://adsabs.harvard.edu/abs/2019arXiv190603216Z);
+	Accepted for publication in [A&A]({{site.baseurl}}/pub/PdBI-continuum.pdf)
 
 35. Xu, Jin-Long; Zavagno, Annie; ...; ***Zhang, Chuan-Peng***; ...	
 	"The effects of ionization feedback on star formation: A case study of the M16 H II region"
