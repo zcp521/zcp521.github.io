@@ -28,8 +28,8 @@ tagline: "My publication list"
 	[2019arXiv190512147P](http://adsabs.harvard.edu/abs/2019arXiv190512147P)
 
 33. Coudé, Simon; Bastien, Pierre; ...; ***Zhang, Chuan-Peng***; ...	
-	"The JCMT BISTRO Survey: The Magnetic Field of the Barnard 1 Star-Forming Region"
-	[2019arXiv190407221C](http://adsabs.harvard.edu/abs/2019arXiv190407221C)
+	"The JCMT BISTRO Survey: The Magnetic Field of the Barnard 1 Star-forming Region"
+	[2019ApJ...877...88C](http://adsabs.harvard.edu/abs/2019ApJ...877...88C)
 
 32. Liu, Junhao; Qiu, Keping; ...; ***Zhang, Chuan-Peng***; ...	
 	"The JCMT BISTRO Survey: The Magnetic Field in the Starless Core ρ Ophiuchus C"
