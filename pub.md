@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
+37. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Zhou, Chenlin; Yuan, Lixia; Zhu, Ming.	
+	"Using CO line ratios to trace compressed areas in bubble N131"
+	To be soon accepted for publication in [A&A]({{site.baseurl}}/pub/N131.pdf)
+
 36. ***Zhang, Chuan-Peng***; Csengeri, Timea; Wyrowski, Friedrich; Li, Guang-Xing; Pillai, Thushara; Menten, Karl M.; Hatchell, Jennifer; Thompson, Mark A.; Pestalozz, Michele R.	
 	"Probing the initial conditions of high-mass star formation III. Fragmentation and triggered star formation"
 	[2019A&A...627A..85Z](http://adsabs.harvard.edu/abs/2019A&A...627A..85Z);
