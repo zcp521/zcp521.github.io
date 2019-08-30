@@ -16,16 +16,17 @@ tagline: "My publication list"
 
 37. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Zhou, Chenlin; Yuan, Lixia; Zhu, Ming.	
 	"Using CO line ratios to trace compressed areas in bubble N131"
+	[2019arXiv190811252Z](https://ui.adsabs.harvard.edu/abs/2019arXiv190811252Z);
 	To be soon accepted for publication in [A&A]({{site.baseurl}}/pub/N131.pdf)
 
 36. ***Zhang, Chuan-Peng***; Csengeri, Timea; Wyrowski, Friedrich; Li, Guang-Xing; Pillai, Thushara; Menten, Karl M.; Hatchell, Jennifer; Thompson, Mark A.; Pestalozz, Michele R.	
 	"Probing the initial conditions of high-mass star formation III. Fragmentation and triggered star formation"
-	[2019A&A...627A..85Z](http://adsabs.harvard.edu/abs/2019A&A...627A..85Z);
+	[2019A&A...627A..85Z](https://ui.adsabs.harvard.edu/abs/2019A&A...627A..85Z);
 	Accepted for publication in [A&A]({{site.baseurl}}/pub/PdBI-continuum.pdf)
 
 35. Xu, Jin-Long; Zavagno, Annie; ...; ***Zhang, Chuan-Peng***; ...	
 	"The effects of ionization feedback on star formation: A case study of the M16 H II region"
-	[2019A&A...627A..27X](http://adsabs.harvard.edu/abs/2019A&A...627A..27X)
+	[2019A&A...627A..27X](https://ui.adsabs.harvard.edu/abs/2019A&A...627A..27X)
 
 34. Park, Geumsook; Kim, Kee-Tae; ...; ***Zhang, Chuan-Peng***; ...	
 	"Submillimeter Continuum Variability in Planck Galactic Cold Clumps"
