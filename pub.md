@@ -30,39 +30,39 @@ tagline: "My publication list"
 
 34. Park, Geumsook; Kim, Kee-Tae; ...; ***Zhang, Chuan-Peng***; ...	
 	"Submillimeter Continuum Variability in Planck Galactic Cold Clumps"
-	[2019ApJS..242...27P](http://adsabs.harvard.edu/abs/2019ApJS..242...27P)
+	[2019ApJS..242...27P](https://ui.adsabs.harvard.edu/abs/2019ApJS..242...27P)
 
 33. Coudé, Simon; Bastien, Pierre; ...; ***Zhang, Chuan-Peng***; ...	
 	"The JCMT BISTRO Survey: The Magnetic Field of the Barnard 1 Star-forming Region"
-	[2019ApJ...877...88C](http://adsabs.harvard.edu/abs/2019ApJ...877...88C)
+	[2019ApJ...877...88C](https://ui.adsabs.harvard.edu/abs/2019ApJ...877...88C)
 
 32. Liu, Junhao; Qiu, Keping; ...; ***Zhang, Chuan-Peng***; ...	
 	"The JCMT BISTRO Survey: The Magnetic Field in the Starless Core ρ Ophiuchus C"
-	[2019ApJ...877...43L](http://adsabs.harvard.edu/abs/2019ApJ...877...43L)
+	[2019ApJ...877...43L](https://ui.adsabs.harvard.edu/abs/2019ApJ...877...43L)
 	
 31. Eden, D. J.; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
 	"SCOPE: SCUBA-2 Continuum Observations of Pre-protostellar Evolution - Survey Description and Compact Source Catalogue"
-	[2019MNRAS.485.2895E](http://adsabs.harvard.edu/abs/2019MNRAS.485.2895E)
+	[2019MNRAS.485.2895E](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2895E)
 
 30. Wang, Jia-Wei; Lai, Shih-Ping; ...; ***Zhang, Chuan-Peng***; ...	
 	"JCMT BISTRO Survey: Magnetic Fields within the Hub-filament Structure in IC 5146"
-	[2019ApJ...876...42W](http://adsabs.harvard.edu/abs/2019ApJ...876...42W)
+	[2019ApJ...876...42W](https://ui.adsabs.harvard.edu/abs/2019ApJ...876...42W)
 
 29. Zhang, Guo-Yin; Xu, Jin-Long; Vasyunin, A. I.; ...; ***Zhang, Chuan-Peng***; ...	
 	"Physical properties and chemical composition of the cores in California molecular cloud"
-	[2018A&A...620A.163Z](http://adsabs.harvard.edu/abs/2018A%26A...620A.163Z)
+	[2018A&A...620A.163Z](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.163Z)
 
 28. Juvela, Mika; Guillet, Vincent; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...	
 	"Dust spectrum and polarisation at 850 um in the massive IRDC G035.39-00.33"
-	[2018A&A...620A..26J](http://adsabs.harvard.edu/abs/2018A%26A...620A..26J)
+	[2018A&A...620A..26J](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A..26J)
 
 27. Soam, Archana; Pattle, Kate; ...; ***Zhang, Chuan-Peng***; ...	
 	"Magnetic fields towards Ophiuchus-B derived from SCUBA-2 polarization measurements"
-	[2018ApJ...861...65S](http://adsabs.harvard.edu/abs/2018ApJ...861...65S)
+	[2018ApJ...861...65S](https://ui.adsabs.harvard.edu/abs/2018ApJ...861...65S)
 
 26. ***Zhang, Chuan-Peng***; Liu, Tie;  Yuan, Jing-Hua; Sanhueza, Patricio; ...	
 	"The TOP-SCOPE survey of PGCCs: PMO and SCUBA-2 observations of 64 PGCCs in the 2nd Galactic Quadrant"
-	[2018ApJS..236...49Z](http://adsabs.harvard.edu/abs/2018ApJS..236...49Z);
+	[2018ApJS..236...49Z](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...49Z);
 	Supplementary figures can be downloaded [here]({{site.baseurl}}/pub/Figs.zip).
 
 25. Kwon, Jungmi; Doi, Yasuo; ...; ***Zhang, Chuan-Peng***; ...	
