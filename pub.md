@@ -15,7 +15,7 @@ tagline: "My publication list"
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html)). 
 
 38. Li, Guang-Xing; ***Zhang, Chuan-Peng***
-	"A mean density of 120 Msun/pc<sup>3</sup> for Central Molecular Zone clumps – Evidences of shear-regulated pressure equilibrium in the Galactic Center"
+	"A mean density of 120 M<sup>sun</sup>/pc<sup>3</sup> for Central Molecular Zone clumps – Evidences of shear-regulated pressure equilibrium in the Galactic Center"
 	[2019arXiv191005015](https://arxiv.org/abs/1910.05015); 
 	Submitted to MNRAS
 
