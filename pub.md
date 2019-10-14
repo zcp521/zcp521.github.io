@@ -20,7 +20,7 @@ tagline: "My publication list"
 	Submitted to MNRAS
 
 
-37. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Zhou, Chenlin; Yuan, Lixia; Zhu, Ming.	
+37. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Zhou, Chenlin; Yuan, Lixia; Zhu, Ming
 	"Using CO line ratios to trace compressed areas in bubble N131"
 	[2019arXiv190811252Z](https://ui.adsabs.harvard.edu/abs/2019arXiv190811252Z);
 	Accepted for publication in [A&A]({{site.baseurl}}/pub/N131.pdf)
