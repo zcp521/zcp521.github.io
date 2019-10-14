@@ -16,7 +16,9 @@ tagline: "My publication list"
 
 38. Li, Guang-Xing; ***Zhang, Chuan-Peng***
 	"A mean density of 120 Msun/pc<sup>3</sup> for Central Molecular Zone clumps – Evidences of shear-regulated pressure equilibrium in the Galactic Center"
-	[2019arXiv191005015](https://arxiv.org/abs/1910.05015)
+	[2019arXiv191005015](https://arxiv.org/abs/1910.05015); 
+	Submitted to MNRAS
+
 
 37. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Zhou, Chenlin; Yuan, Lixia; Zhu, Ming.	
 	"Using CO line ratios to trace compressed areas in bubble N131"
