@@ -26,7 +26,7 @@ tagline: "My publication list"
 
 36. ***Zhang, Chuan-Peng***; Csengeri, Timea; Wyrowski, Friedrich; Li, Guang-Xing; Pillai, Thushara; Menten, Karl M.; Hatchell, Jennifer; Thompson, Mark A.; Pestalozz, Michele R.	
 	"Probing the initial conditions of high-mass star formation III. Fragmentation and triggered star formation"
-	[2019A&A...627A..85Z](https://ui.adsabs.harvard.edu/abs/2019A&A...627A..85Z);
+	[2019A&A...627A..85Z](https://ui.adsabs.harvard.edu/abs/2019A%26A...631A.110Z);
 	Accepted for publication in [A&A]({{site.baseurl}}/pub/PdBI-continuum.pdf)
 
 35. Xu, Jin-Long; Zavagno, Annie; ...; ***Zhang, Chuan-Peng***; ...	
