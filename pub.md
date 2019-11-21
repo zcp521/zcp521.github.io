@@ -22,7 +22,7 @@ tagline: "My publication list"
 
 37. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Zhou, Chenlin; Yuan, Lixia; Zhu, Ming
 	"Using CO line ratios to trace compressed areas in bubble N131"
-	[2019arXiv190811252Z](https://ui.adsabs.harvard.edu/abs/2019arXiv190811252Z);
+	[2019A%26A...631A.110Z](https://ui.adsabs.harvard.edu/abs/2019A%26A...631A.110Z);
 	Accepted for publication in [A&A]({{site.baseurl}}/pub/N131.pdf)
 
 36. ***Zhang, Chuan-Peng***; Csengeri, Timea; Wyrowski, Friedrich; Li, Guang-Xing; Pillai, Thushara; Menten, Karl M.; Hatchell, Jennifer; Thompson, Mark A.; Pestalozz, Michele R.	
