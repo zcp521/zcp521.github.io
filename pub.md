@@ -197,6 +197,9 @@ tagline: "My publication list"
 	
 ## Observations
 
+20. ***Zhang, C.-P.***; Li, G.-X., JCMT 15m, #M20AP058, 5.0h
+	"To detect shock and PDR in the inner rims of a bubble shell"
+
 19. Li, G.-X.; ***Zhang, C.-P.***, JCMT 15m, #M19BP047, 10.0h
 	"Mapping a cometary globule with a conical shape using CO isotopes"
 
