@@ -21,13 +21,11 @@ tagline: "My publication list"
 
 37. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Zhou, Chenlin; Yuan, Lixia; Zhu, Ming
 	"Using CO line ratios to trace compressed areas in bubble N131"
-	[2019A&A...631A.110Z](https://ui.adsabs.harvard.edu/abs/2019A&A...631A.110Z);
-	Accepted for publication in [A&A]({{site.baseurl}}/pub/N131.pdf)
+	[2019A&A...631A.110Z](https://ui.adsabs.harvard.edu/abs/2019A&A...631A.110Z)
 
 36. ***Zhang, Chuan-Peng***; Csengeri, Timea; Wyrowski, Friedrich; Li, Guang-Xing; Pillai, Thushara; Menten, Karl M.; Hatchell, Jennifer; Thompson, Mark A.; Pestalozz, Michele R.	
 	"Probing the initial conditions of high-mass star formation III. Fragmentation and triggered star formation"
-	[2019A&A...627A..85Z](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..85Z);
-	Accepted for publication in [A&A]({{site.baseurl}}/pub/PdBI-continuum.pdf)
+	[2019A&A...627A..85Z](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..85Z)
 
 35. Xu, Jin-Long; Zavagno, Annie; ...; ***Zhang, Chuan-Peng***; ...	
 	"The effects of ionization feedback on star formation: A case study of the M16 H II region"
