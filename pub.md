@@ -14,10 +14,14 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
-38. Li, Guang-Xing; ***Zhang, Chuan-Peng***
+39. Li, Guang-Xing; ***Zhang, Chuan-Peng***
 	"A mean density of 120 M<sub>sun</sub>/pc<sup>3</sup> for Central Molecular Zone clumps – Evidences of shear-regulated pressure equilibrium in the Galactic Center"
 	[2019arXiv191005015L](https://ui.adsabs.harvard.edu/abs/2019arXiv191005015L); 
 	Submitted to ApJ
+
+38. Xu, Jin-Long; Stutzki, Jürgen;  Wu, Yuefang; ...; ***Zhang, Chuan-Peng***; ...	
+	"Probing star formation and feedback using CCOSMA and archival data in the CFG028.68─0.28 quasi-sinusoidal filament"
+	[2019RAA....19..183X](https://ui.adsabs.harvard.edu/abs/2019RAA....19..183X)
 
 37. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Zhou, Chenlin; Yuan, Lixia; Zhu, Ming
 	"Using CO line ratios to trace compressed areas in bubble N131"
