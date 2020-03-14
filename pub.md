@@ -20,7 +20,7 @@ tagline: "My publication list"
 	Submitted to ApJ
 
 38. Xu, Jin-Long; Stutzki, Jürgen;  Wu, Yuefang; ...; ***Zhang, Chuan-Peng***; ...	
-	"Probing star formation and feedback using CCOSMA and archival data in the CFG028.68─0.28 quasi-sinusoidal filament"
+	"Probing star formation and feedback using CCOSMA and archival data in the CFG028.68-0.28 quasi-sinusoidal filament"
 	[2019RAA....19..183X](https://ui.adsabs.harvard.edu/abs/2019RAA....19..183X)
 
 37. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Zhou, Chenlin; Yuan, Lixia; Zhu, Ming
