@@ -16,7 +16,7 @@ tagline: "My publication list"
 
 40. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Pillai, Thushara; Csengeri, Timea; Wyrowski, Friedrich; Menten, Karl M.; Pestalozzi, Michele R.	
 	"Probing the initial conditions of high-mass star formation IV. Gas dynamics and NH<sub>2</sub>D chemistry in high-mass pre/protocluster clumps"
-	[2020arXiv200413946](https://arxiv.org/abs/2004.13946); 
+	[2020arXiv200413946Z](https://ui.adsabs.harvard.edu/abs/2020arXiv200413946Z); 
 	Accepted for publication in [A&A]({{site.baseurl}}/pub/PdBI-spectra.pdf)
 
 39. Li, Guang-Xing; ***Zhang, Chuan-Peng***
