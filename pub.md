@@ -12,7 +12,7 @@ tagline: "My publication list"
 1. ***Zhang, Chuan-Peng*** ["The Formaldehyde Observations and Studies of W49, W3, DR21 and NGC2024 GMCs"]({{ site.baseurl }}/pub/thesis_master.pdf), 2011, Graduate University of Chinese Academy of Sciences, supervised by [Prof. Jarken Esimbek](http://english.xao.cas.cn/ed/sups/201607/t20160715_165785.html)
 
 
-## Peer-reviewed journal papers ([ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=zhang&libid=5a2d77bd55), [arXiv](https://arxiv.org/a/zhang_c_2.html))
+## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/user/libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
 40. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Pillai, Thushara; Csengeri, Timea; Wyrowski, Friedrich; Menten, Karl M.; Pestalozzi, Michele R.	
 	"Probing the initial conditions of high-mass star formation IV. Gas dynamics and NH<sub>2</sub>D chemistry in high-mass pre/protocluster clumps"
