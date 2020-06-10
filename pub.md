@@ -204,6 +204,9 @@ tagline: "My publication list"
 	
 ## Observations
 
+21. ***Zhang, C.-P.***; Li, G.-X., JCMT 15m, #M20BP059, 3.0h
+	"To detect shock and PDR in the inner rims of a bubble shell"
+
 20. ***Zhang, C.-P.***; Li, G.-X., JCMT 15m, #M20AP058, 5.0h
 	"To detect shock and PDR in the inner rims of a bubble shell"
 
