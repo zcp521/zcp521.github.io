@@ -20,8 +20,7 @@ tagline: "My publication list"
 
 39. Li, Guang-Xing; ***Zhang, Chuan-Peng***
 	"A mean density of 120 M<sub>sun</sub>/pc<sup>3</sup> for Central Molecular Zone clumps – Evidences of shear-regulated pressure equilibrium in the Galactic Center"
-	[2019arXiv191005015L](https://ui.adsabs.harvard.edu/abs/2019arXiv191005015L); 
-	Accepted for publication in ApJ
+	[2020ApJ...897...89L](https://ui.adsabs.harvard.edu/abs/2020ApJ...897...89L)
 
 38. Xu, Jin-Long; Stutzki, Jürgen;  Wu, Yuefang; ...; ***Zhang, Chuan-Peng***; ...	
 	"Probing star formation and feedback using CCOSMA and archival data in the CFG028.68-0.28 quasi-sinusoidal filament"
