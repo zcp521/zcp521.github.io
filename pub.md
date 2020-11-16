@@ -14,17 +14,21 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
-41. Yen, Hsi-Wei; Koch, Patrick M.; ..., ***Zhang, Chuan-Peng***	
+42. Yen, Hsi-Wei; Koch, Patrick M.; ..., ***Zhang, Chuan-Peng***	
 	"The JCMT BISTRO survey: alignment between outflows and magnetic fields in dense cores/clumps"
 	[2020arXiv201106731Y](https://ui.adsabs.harvard.edu/abs/2020arXiv201106731Y)
+	
+41. Doi, Yasuo; Hasegawa, Tetsuo; ..., ***Zhang, Chuan-Peng***; ...
+	"The JCMT BISTRO Survey: Magnetic Fields Associated with a Network of Filaments in NGC 1333"
+	[2020ApJ...899...28D](https://ui.adsabs.harvard.edu/abs/2020ApJ...899...28D)
 
-40. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Pillai, Thushara; Csengeri, Timea; Wyrowski, Friedrich; Menten, Karl M.; Pestalozzi, Michele R.	
-	"Probing the initial conditions of high-mass star formation IV. Gas dynamics and NH<sub>2</sub>D chemistry in high-mass pre/protocluster clumps"
-	[2020A&A...638A.105Z](https://ui.adsabs.harvard.edu/abs/2020A%26A...638A.105Z)
-
-39. Li, Guang-Xing; ***Zhang, Chuan-Peng***
+40. Li, Guang-Xing; ***Zhang, Chuan-Peng***
 	"A mean density of 120 M<sub>sun</sub>/pc<sup>3</sup> for Central Molecular Zone clumps – Evidences of shear-regulated pressure equilibrium in the Galactic Center"
 	[2020ApJ...897...89L](https://ui.adsabs.harvard.edu/abs/2020ApJ...897...89L)
+	
+39. ***Zhang, Chuan-Peng***; Li, Guang-Xing; Pillai, Thushara; Csengeri, Timea; Wyrowski, Friedrich; Menten, Karl M.; Pestalozzi, Michele R.	
+	"Probing the initial conditions of high-mass star formation IV. Gas dynamics and NH<sub>2</sub>D chemistry in high-mass pre/protocluster clumps"
+	[2020A&A...638A.105Z](https://ui.adsabs.harvard.edu/abs/2020A%26A...638A.105Z)
 
 38. Xu, Jin-Long; Stutzki, Jürgen;  Wu, Yuefang; ...; ***Zhang, Chuan-Peng***; ...	
 	"Probing star formation and feedback using CCOSMA and archival data in the CFG028.68-0.28 quasi-sinusoidal filament"
