@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+43. Ngoc, Nguyen Bich; Diep, Pham Ngoc; ..., ***Zhang, Chuan-Peng***	
+	"Observations of magnetic fields surrounding LkHα 101 taken by the BISTRO survey with JCMT-POL-2"
+	[2020arXiv201204297](https://ui.adsabs.harvard.edu/abs/arXiv:2012.04297)
+
 42. Yen, Hsi-Wei; Koch, Patrick M.; ..., ***Zhang, Chuan-Peng***	
 	"The JCMT BISTRO survey: alignment between outflows and magnetic fields in dense cores/clumps"
 	[2020arXiv201106731Y](https://ui.adsabs.harvard.edu/abs/2020arXiv201106731Y)
