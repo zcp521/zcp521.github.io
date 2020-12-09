@@ -16,7 +16,7 @@ tagline: "My publication list"
 
 43. Ngoc, Nguyen Bich; Diep, Pham Ngoc; ..., ***Zhang, Chuan-Peng***	
 	"Observations of magnetic fields surrounding LkHα 101 taken by the BISTRO survey with JCMT-POL-2"
-	[2020arXiv201204297](https://ui.adsabs.harvard.edu/abs/arXiv:2012.04297)
+	[2020arXiv201204297](https://arxiv.org/abs/2012.04297)
 
 42. Yen, Hsi-Wei; Koch, Patrick M.; ..., ***Zhang, Chuan-Peng***	
 	"The JCMT BISTRO survey: alignment between outflows and magnetic fields in dense cores/clumps"
