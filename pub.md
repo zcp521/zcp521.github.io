@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+44. ***Zhang, Chuan-Peng***; Launhardt, Ralf; Liu, Yao; Tobin, John J.; Henning, Thomas
+	"Pebbles in an embedded protostellar disk: The case of CB26"
+	[2020arXiv201208127Z](https://ui.adsabs.harvard.edu/abs/2020arXiv201208127Z)
+
 43. Ngoc, Nguyen Bich; Diep, Pham Ngoc; ..., ***Zhang, Chuan-Peng***	
 	"Observations of magnetic fields surrounding LkHα 101 taken by the BISTRO survey with JCMT-POL-2"
 	[2020arXiv201204297](https://arxiv.org/abs/2012.04297)
