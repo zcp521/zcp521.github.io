@@ -16,7 +16,7 @@ tagline: "My publication list"
 	
 45. Arzoumanian, D.; Furuya, R.; ..., ***Zhang, Chuan-Peng***; ...
 	"Dust polarized emission observations of NGC 6334; BISTRO reveals the details of the complex but organized magnetic field structure of the high-mass star-forming hub-filament network"
-	[2020arXiv201213060](https://arxiv.org/abs/2012.13060)
+	[2020arXiv201213060A](https://ui.adsabs.harvard.edu/abs/2020arXiv201213060A)
 
 44. ***Zhang, Chuan-Peng***; Launhardt, Ralf; Liu, Yao; Tobin, John J.; Henning, Thomas
 	"Pebbles in an embedded protostellar disk: The case of CB26"
