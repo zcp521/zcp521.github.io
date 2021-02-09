@@ -28,7 +28,7 @@ tagline: "My publication list"
 
 42. Yen, Hsi-Wei; Koch, Patrick M.; ..., ***Zhang, Chuan-Peng***	
 	"The JCMT BISTRO survey: alignment between outflows and magnetic fields in dense cores/clumps"
-	[2020arXiv201106731Y](https://ui.adsabs.harvard.edu/abs/2020arXiv201106731Y)
+	[2021ApJ...907...33Y](https://ui.adsabs.harvard.edu/abs/2021ApJ...907...33Y)
 	
 41. Doi, Yasuo; Hasegawa, Tetsuo; ..., ***Zhang, Chuan-Peng***; ...
 	"The JCMT BISTRO Survey: Magnetic Fields Associated with a Network of Filaments in NGC 1333"
