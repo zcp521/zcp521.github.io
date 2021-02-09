@@ -20,7 +20,7 @@ tagline: "My publication list"
 
 44. ***Zhang, Chuan-Peng***; Launhardt, Ralf; Liu, Yao; Tobin, John J.; Henning, Thomas
 	"Pebbles in an embedded protostellar disk: The case of CB26"
-	[2021A%26A...646A..18Z](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A..18Z)
+	[2021A&A...646A..18Z](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A..18Z)
 
 43. Bich Ngoc, Nguyen; Diep, Pham Ngoc; ..., ***Zhang, Chuan-Peng***	
 	"Observations of magnetic fields surrounding LkHα 101 taken by the BISTRO survey with JCMT-POL-2"
