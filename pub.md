@@ -14,7 +14,7 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 46. Liu, Xiao-Lan; Xu, Jin-Long; Wang, Jun-Jie; Yu, Nai-Ping; ***Zhang, Chuan-Peng***; Li, Nan; Zhang, Guo-Yin
-	"Kinematics and star formation toward W33: a central hub as a hub--filament system"
+	"Kinematics and star formation toward W33: a central hub as a hub-filament system"
 	[2021A&A...646A.137L](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.137L)
 
 45. Arzoumanian, D.; Furuya, R.; ..., ***Zhang, Chuan-Peng***; ...
