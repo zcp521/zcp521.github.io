@@ -13,6 +13,12 @@ tagline: "My publication list"
 
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
+
+
+47. Eswaraiah, Chakali; Li, Di; ..., ***Zhang, Chuan-Peng***; ...
+	"Revealing the diverse magnetic field morphologies in Taurus dense cores with sensitive sub-millimeter polarimetry"
+	[2020arXiv2103.02219](https://arxiv.org/abs/2103.02219)
+
 46. Liu, Xiao-Lan; Xu, Jin-Long; Wang, Jun-Jie; Yu, Nai-Ping; ***Zhang, Chuan-Peng***; Li, Nan; Zhang, Guo-Yin
 	"Kinematics and star formation toward W33: a central hub as a hub-filament system"
 	[2021A&A...646A.137L](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.137L)
