@@ -25,7 +25,7 @@ tagline: "My publication list"
 
 45. Arzoumanian, D.; Furuya, R.; ..., ***Zhang, Chuan-Peng***; ...
 	"Dust polarized emission observations of NGC 6334; BISTRO reveals the details of the complex but organized magnetic field structure of the high-mass star-forming hub-filament network"
-	[2020arXiv201213060A](https://ui.adsabs.harvard.edu/abs/2020arXiv201213060A)
+	[2021A&A...647A..78A](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A..78A)
 
 44. ***Zhang, Chuan-Peng***; Launhardt, Ralf; Liu, Yao; Tobin, John J.; Henning, Thomas
 	"Pebbles in an embedded protostellar disk: The case of CB26"
@@ -33,7 +33,7 @@ tagline: "My publication list"
 
 43. Bich Ngoc, Nguyen; Diep, Pham Ngoc; ..., ***Zhang, Chuan-Peng***	
 	"Observations of magnetic fields surrounding LkHα 101 taken by the BISTRO survey with JCMT-POL-2"
-	[2020arXiv201204297B](https://ui.adsabs.harvard.edu/abs/2020arXiv201204297B)
+	[2021ApJ...908...10N](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...10N)
 
 42. Yen, Hsi-Wei; Koch, Patrick M.; ..., ***Zhang, Chuan-Peng***	
 	"The JCMT BISTRO survey: alignment between outflows and magnetic fields in dense cores/clumps"
