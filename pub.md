@@ -14,6 +14,9 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+48. ***Zhang, Chuan-Peng***; Xu, Jin-Long; Li, Guang-Xing; Hou, Li-Gang; Yu, Nai-Ping; Jiang, Peng
+	"Radio Recombination Line Observations at 1.0 -- 1.5 GHz with FAST"
+	[2021arXiv210405272Z](https://ui.adsabs.harvard.edu/abs/2021arXiv210405272Z)
 
 47. Eswaraiah, Chakali; Li, Di; ..., ***Zhang, Chuan-Peng***; ...
 	"Revealing the diverse magnetic field morphologies in Taurus dense cores with sensitive sub-millimeter polarimetry"
