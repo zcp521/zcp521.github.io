@@ -14,13 +14,17 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+47. Xu, Fengwei ; Wu, Yuefang; ..., ***Zhang, Chuan-Peng***; ...
+	"Planck Galactic Cold Clumps at High Galactic Latitude-A Study with CO Lines"
+	[2021arXiv210708182X](https://ui.adsabs.harvard.edu/abs/2021arXiv210708182X)
+
 48. ***Zhang, Chuan-Peng***; Xu, Jin-Long; Li, Guang-Xing; Hou, Li-Gang; Yu, Nai-Ping; Jiang, Peng
 	"Radio Recombination Line Observations at 1.0 - 1.5 GHz with FAST"
 	[2021arXiv210405272Z](https://ui.adsabs.harvard.edu/abs/2021arXiv210405272Z)
 
 47. Eswaraiah, Chakali; Li, Di; ..., ***Zhang, Chuan-Peng***; ...
-	"Revealing the diverse magnetic field morphologies in Taurus dense cores with sensitive sub-millimeter polarimetry"
-	[2021arXiv210302219E](https://ui.adsabs.harvard.edu/abs/2021arXiv210302219E)
+	"The JCMT BISTRO Survey: Revealing the Diverse Magnetic Field Morphologies in Taurus Dense Cores with Sensitive Submillimeter Polarimetry"
+	[2021ApJ...912L..27E](https://ui.adsabs.harvard.edu/abs/2021ApJ...912L..27E)
 
 46. Liu, Xiao-Lan; Xu, Jin-Long; Wang, Jun-Jie; Yu, Nai-Ping; ***Zhang, Chuan-Peng***; Li, Nan; Zhang, Guo-Yin
 	"Kinematics and star formation toward W33: a central hub as a hub-filament system"
@@ -39,7 +43,7 @@ tagline: "My publication list"
 	[2021ApJ...908...10N](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...10N)
 
 42. Yen, Hsi-Wei; Koch, Patrick M.; ..., ***Zhang, Chuan-Peng***	
-	"The JCMT BISTRO survey: alignment between outflows and magnetic fields in dense cores/clumps"
+	"The JCMT BISTRO Survey: Alignment between Outflows and Magnetic Fields in Dense Cores/Clumps"
 	[2021ApJ...907...33Y](https://ui.adsabs.harvard.edu/abs/2021ApJ...907...33Y)
 	
 41. Doi, Yasuo; Hasegawa, Tetsuo; ..., ***Zhang, Chuan-Peng***; ...
