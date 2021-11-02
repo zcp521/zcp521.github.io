@@ -23,7 +23,7 @@ tagline: "My publication list"
 	[2021ApJ...918...85L](https://ui.adsabs.harvard.edu/abs/2021ApJ...918...85L)
 
 48. ***Zhang, Chuan-Peng***; Xu, Jin-Long; Li, Guang-Xing; Hou, Li-Gang; Yu, Nai-Ping; Jiang, Peng
-	"Radio Recombination Line Observations at 1.0 - 1.5 GHz with FAST"
+	"Radio recombination line observations at 1.0 - 1.5GHz with FAST"
 	[2021RAA....21..209Z](https://ui.adsabs.harvard.edu/abs/2021RAA....21..209Z)
 
 47. Eswaraiah, Chakali; Li, Di; ..., ***Zhang, Chuan-Peng***; ...
