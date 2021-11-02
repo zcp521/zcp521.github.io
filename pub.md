@@ -24,7 +24,7 @@ tagline: "My publication list"
 
 48. ***Zhang, Chuan-Peng***; Xu, Jin-Long; Li, Guang-Xing; Hou, Li-Gang; Yu, Nai-Ping; Jiang, Peng
 	"Radio Recombination Line Observations at 1.0 - 1.5 GHz with FAST"
-	[2021arXiv210405272Z](https://ui.adsabs.harvard.edu/abs/2021arXiv210405272Z)
+	[2021RAA....21..209Z](https://ui.adsabs.harvard.edu/abs/2021RAA....21..209Z)
 
 47. Eswaraiah, Chakali; Li, Di; ..., ***Zhang, Chuan-Peng***; ...
 	"The JCMT BISTRO Survey: Revealing the Diverse Magnetic Field Morphologies in Taurus Dense Cores with Sensitive Submillimeter Polarimetry"
