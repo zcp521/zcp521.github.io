@@ -14,18 +14,22 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
-50. Xu, Jin-Long; ***Zhang, Chuan-Peng***; ...
+51. Xu, Jin-Long; ***Zhang, Chuan-Peng***; ...
 	"Discovery of Extra-Planar HI Clouds and a HI Tail in the M101 Galaxy Group with FAST"
 	[2021arXiv210906430X](https://ui.adsabs.harvard.edu/abs/2021arXiv210906430X)
 
-49. Lyo, A. -Ran; Kim, Jongsoo; ..., ***Zhang, Chuan-Peng***; ...
+50. Lyo, A. -Ran; Kim, Jongsoo; ..., ***Zhang, Chuan-Peng***; ...
 	The JCMT BISTRO Survey: An 850/450 μm Polarization Study of NGC 2071IR in Orion B"
 	[2021ApJ...918...85L](https://ui.adsabs.harvard.edu/abs/2021ApJ...918...85L)
 
-48. ***Zhang, Chuan-Peng***; Xu, Jin-Long; Li, Guang-Xing; Hou, Li-Gang; Yu, Nai-Ping; Jiang, Peng
+49. ***Zhang, Chuan-Peng***; Xu, Jin-Long; Li, Guang-Xing; Hou, Li-Gang; Yu, Nai-Ping; Jiang, Peng
 	"Radio recombination line observations at 1.0 - 1.5GHz with FAST"
 	[2021RAA....21..209Z](https://ui.adsabs.harvard.edu/abs/2021RAA....21..209Z)
-
+	
+48. Yu, Nai-Ping; Qian, Lei; ***Zhang, Chuan-Peng***; Jiang, Peng; Xu, Jin-Long; Wang, Jun-Jie
+	"HI detection of J030417.78+002827.4 by the Five-hundred-meter Aperture Spherical Radio Telescope"
+	[2021RAA....21..100Y](https://ui.adsabs.harvard.edu/abs/2021RAA....21..100Y)
+	
 47. Eswaraiah, Chakali; Li, Di; ..., ***Zhang, Chuan-Peng***; ...
 	"The JCMT BISTRO Survey: Revealing the Diverse Magnetic Field Morphologies in Taurus Dense Cores with Sensitive Submillimeter Polarimetry"
 	[2021ApJ...912L..27E](https://ui.adsabs.harvard.edu/abs/2021ApJ...912L..27E)
