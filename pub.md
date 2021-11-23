@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+52. ***Zhang, Chuan-Peng***; Xu, Jin-Long; Wang, Jie; Jing, Yingjie; Liu, Ziming; Zhu, Ming; Jiang, Peng
+	"Radio Frequency Interference Mitigation and Statistics in the Spectral Observations of FAST"
+	[2021arXiv211111018Z](https://ui.adsabs.harvard.edu/abs/2021arXiv211111018Z)
+
 51. Xu, Jin-Long; ***Zhang, Chuan-Peng***; ...
 	"Discovery of Extra-Planar HI Clouds and a HI Tail in the M101 Galaxy Group with FAST"
 	[2021arXiv210906430X](https://ui.adsabs.harvard.edu/abs/2021arXiv210906430X)
