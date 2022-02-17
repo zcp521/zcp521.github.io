@@ -16,11 +16,11 @@ tagline: "My publication list"
 
 52. ***Zhang, Chuan-Peng***; Xu, Jin-Long; Wang, Jie; Jing, Yingjie; Liu, Ziming; Zhu, Ming; Jiang, Peng
 	"Radio Frequency Interference Mitigation and Statistics in the Spectral Observations of FAST"
-	[2021arXiv211111018Z](https://ui.adsabs.harvard.edu/abs/2021arXiv211111018Z)
+	[2022RAA....22b5015Z](https://ui.adsabs.harvard.edu/abs/2022RAA....22b5015Z)
 
 51. Xu, Jin-Long; ***Zhang, Chuan-Peng***; ...
 	"Discovery of Extra-Planar HI Clouds and a HI Tail in the M101 Galaxy Group with FAST"
-	[2021arXiv210906430X](https://ui.adsabs.harvard.edu/abs/2021arXiv210906430X)
+	[2021ApJ...922...53X](https://ui.adsabs.harvard.edu/abs/2021ApJ...922...53X)
 
 50. Lyo, A. -Ran; Kim, Jongsoo; ..., ***Zhang, Chuan-Peng***; ...
 	The JCMT BISTRO Survey: An 850/450 μm Polarization Study of NGC 2071IR in Orion B"
