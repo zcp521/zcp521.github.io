@@ -16,7 +16,11 @@ tagline: "My publication list"
 
 53. Ouyang, Xu-Jia; Zhang, Yong; Zijlstra, Albert; ***Zhang, Chuan-Peng***; Nakashima, Jun-ichi; Parker, Quentin A
 	"FAST search for circumstellar atomic hydrogen--I: the young planetary nebula IC 4997"
-	[2022arXiv220506170O](https://ui.adsabs.harvard.edu/abs/2022arXiv220506170O)
+	[2022ApJ...933....4O](https://ui.adsabs.harvard.edu/abs/2022ApJ...933....4O/abstract)
+
+53. Yu, Nai-Ping; Xu, Jin-Long; ***Zhang, Chuan-Peng***; Jiang, Peng; Liu, Xiao-Lan; Wang, Jun-Jie
+	"Physical and Chemical Properties of the Molecular Gas Associated with the Mid-infrared Bubble S156"
+	[2022ApJ...928...83Y](https://ui.adsabs.harvard.edu/abs/2022ApJ...928...83Y/abstract)
 
 52. ***Zhang, Chuan-Peng***; Xu, Jin-Long; Wang, Jie; Jing, Yingjie; Liu, Ziming; Zhu, Ming; Jiang, Peng
 	"Radio Frequency Interference Mitigation and Statistics in the Spectral Observations of FAST"
