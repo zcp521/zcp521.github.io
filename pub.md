@@ -22,7 +22,7 @@ tagline: "My publication list"
 	"Discovery of an Isolated Dark Dwarf Galaxy in the Nearby Universe"
 	[2023ApJ...944L..40X](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..40X/abstract)
 
-55. Ward-Thompson, Derek; Karoly, Janik; Pattle, Kate; ***Zhang, Chuan-Peng***
+55. Ward-Thompson, Derek; Karoly, Janik; Pattle, Kate; ***Zhang, Chuan-Peng***; ...
 	"First BISTRO Observations of the Dark Cloud Taurus L1495A-B10: The Role of the Magnetic Field in the Earliest Stages of Low-mass Star Formation"
 	[2023ApJ...946...62W](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...62W/abstract)
 
