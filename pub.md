@@ -26,6 +26,10 @@ tagline: "My publication list"
 	"First BISTRO Observations of the Dark Cloud Taurus L1495A-B10: The Role of the Magnetic Field in the Earliest Stages of Low-mass Star Formation"
 	[2023ApJ...946...62W](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...62W/abstract)
 
+55. Hwang, Jihye; Kim, Jongsoo; Pattle, Kate; ***Zhang, Chuan-Peng***; ...
+	"The JCMT BISTRO Survey: A Spiral Magnetic Field in a Hub-filament Structure, Monoceros R2"
+	[2022ApJ...941...51H](https://ui.adsabs.harvard.edu/abs/2022ApJ...941...51H/abstract)
+
 54. Ouyang, Xu-Jia; Zhang, Yong; Zijlstra, Albert; ***Zhang, Chuan-Peng***; Nakashima, Jun-ichi; Parker, Quentin A
 	"FAST search for circumstellar atomic hydrogen--I: the young planetary nebula IC 4997"
 	[2022ApJ...933....4O](https://ui.adsabs.harvard.edu/abs/2022ApJ...933....4O/abstract)
