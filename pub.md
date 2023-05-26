@@ -14,9 +14,13 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
-59. ***Zhang, Chuan-Peng***; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
+60. ***Zhang, Chuan-Peng***; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
 	"The Performance of FAST with Ultra-Wide Bandwidth Receiver at 500-3300 MHz"
 	[2023arXiv230411895Z](https://ui.adsabs.harvard.edu/abs/2023arXiv230411895Z/abstract)
+
+59. Ouyang, Xu-Jia; Zhang, Yong; Zijlstra, Albert; ***Zhang, Chuan-Peng***; Nakashima, Jun-ichi; Parker, Quentin A
+	"FAST search for circumstellar atomic hydrogen. II. Is BD+303639 an interacting planetary nebula?"
+	[2023arXiv230513598O](https://ui.adsabs.harvard.edu/abs/2023arXiv230513598O/abstract)
 
 58. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Jiang, Peng; Wang, Jun-Jie
 	"FAST discovery of an extra plume in DDO 168"
