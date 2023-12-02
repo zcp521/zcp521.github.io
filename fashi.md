@@ -25,6 +25,7 @@ Supplementary materials:
 
 6. The complete Table 6 containing 10975 sources can be accessed in [The identified optical counterparts from the SDSS photometric catalog]({{site.baseurl}}/img/Table6-The_identified_optical_counterparts_from_the_SDSS_photometric_catalog.csv)
 
+![]({{ site.baseurl }}/img/fashi_pic.jpg)
 
 
 
