@@ -59,19 +59,19 @@ tagline: "The FAST All Sky H I Survey"
     </tr>
     <tr>
         <td>Total frequency coverage</td>
-        <td>1000-1500 MHz</td>
+        <td>1050-1450 MHz</td>
     </tr>
     <tr>
         <td>Released frequency range</td>
         <td>1305.5-1419.5 MHz (in this work)</td>
     </tr>
     <tr>
-        <td>cz range</td>
+        <td>cz range</td>
         <td>200-26323 km/s (in this work)</td>
     </tr>
     <tr>
         <td>Bandwidth (total)</td>
-        <td>500 MHz</td>
+        <td>400 MHz</td>
     </tr>
     <tr>
         <td>Spectral channels</td>
