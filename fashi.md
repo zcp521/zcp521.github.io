@@ -19,15 +19,14 @@ Abstract: The FAST All Sky HI survey (FASHI, read as [fɑːʃ] or 法师 in Chin
 
 ***Supplementary materials***:
 
-1. The full paper can be downloaded in [The FAST All Sky HI Survey (FASHI): the first release of catalog]({{site.baseurl}}/img/fashi.pdf);
+1. The full paper can be downloaded in [The FAST All Sky HI Survey (FASHI): the first release of catalog]({{site.baseurl}}/img/fashi.pdf)
+2. The complete Table 2 containing 41741 sources can be accessed in [FASHI extragalactic HI source catalog]({{site.baseurl}}/img/Table2-FASHI_extragalactic_HI_source_catalog.csv)
 
-2. The complete Table 2 containing 41741 sources can be accessed in [FASHI extragalactic HI source catalog]({{site.baseurl}}/img/Table2-FASHI_extragalactic_HI_source_catalog.csv);
+3. The complete Table 3 containing 3620 sources can be accessed in [FASHI and ALFALFA cross-matching catalog]({{site.baseurl}}/img/Table3-FASHI_and_ALFALFA_cross-matching_catalog.csv)
 
-3. The complete Table 3 containing 3620 sources can be accessed in [FASHI and ALFALFA cross-matching catalog]({{site.baseurl}}/img/Table3-FASHI_and_ALFALFA_cross-matching_catalog.csv);
+4. The complete Table 4 containing 14072 sources can be accessed in [The identified optical counterparts from the SGA catalog]({{site.baseurl}}/img/Table4-The_identified_optical_counterparts_from_the_SGA_catalog.csv)
 
-4. The complete Table 4 containing 14072 sources can be accessed in [The identified optical counterparts from the SGA catalog]({{site.baseurl}}/img/Table4-The_identified_optical_counterparts_from_the_SGA_catalog.csv);
-
-5. The complete Table 5 containing 2900 sources can be accessed in [The identified optical counterparts from the SDSS spectroscopic catalog]({{site.baseurl}}/img/Table5-The_identified_optical_counterparts_from_the_SDSS_spectroscopic_catalog.csv);
+5. The complete Table 5 containing 2900 sources can be accessed in [The identified optical counterparts from the SDSS spectroscopic catalog]({{site.baseurl}}/img/Table5-The_identified_optical_counterparts_from_the_SDSS_spectroscopic_catalog.csv)
 
 6. The complete Table 6 containing 10975 sources can be accessed in [The identified optical counterparts from the SDSS photometric catalog]({{site.baseurl}}/img/Table6-The_identified_optical_counterparts_from_the_SDSS_photometric_catalog.csv)
 #-->
