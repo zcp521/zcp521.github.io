@@ -23,11 +23,19 @@ tagline: "The FAST All Sky H I Survey"
     </tr>
     <tr>
         <td>Planed RA range</td>
-        <td>0h ≤ RA ≤ 24h (see Figure 1)</td>
+        <td>0<sup>h</sup> ≤ RA ≤ 24<sup>h</sup> (see Figure 1)</td>
     </tr>
     <tr>
         <td>Planed DEC range</td>
-        <td>-14◦ ≤ DEC ≤ +66◦ (see Figure 1)</td>
+        <td>-14<sup>◦</sup> ≤ DEC ≤ +66<sup>◦</sup> (see Figure 1)</td>
+    </tr>
+    <tr>
+        <td>Current DEC range</td>
+        <td>0<sup>h</sup> ≤ RA ≤ 17.3<sup>h</sup>, 22<sup>h</sup> ≤ RA ≤ 24<sup>h</sup> </td>
+    </tr>
+    <tr>
+        <td>Current DEC range</td>
+        <td>-6<sup>◦</sup> ≤ DEC ≤ 0<sup>◦</sup>, 30<sup>◦</sup> ≤ DEC ≤ +66<sup>◦</sup> </td>
     </tr>
 </table>
 
