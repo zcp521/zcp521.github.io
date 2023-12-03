@@ -14,7 +14,7 @@ Abstract: The FAST All Sky HI survey (FASHI) was designed to cover the entire sk
 
 ![]({{ site.baseurl }}/img/fashi.png)
 
-Supplementary materials:
+***Supplementary materials***:
 
 1. The full paper can be downloaded in [The FAST All Sky HI Survey (FASHI): the first release of catalog]({{site.baseurl}}/img/fashi.pdf);
 
