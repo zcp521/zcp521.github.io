@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "FASHI"
+title: "FASHI-法师"
 tagline: "The FAST All Sky H I Survey"
 ---
 
