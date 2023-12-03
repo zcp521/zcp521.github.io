@@ -4,7 +4,7 @@ title: "FASHI"
 tagline: "The FAST All Sky H I Survey"
 ---
 
-<!--
+#<!--
 ## The FAST All Sky H I Survey (FASHI): the first release of catalog
 
 
@@ -14,6 +14,8 @@ Abstract: The FAST All Sky HI survey (FASHI, read as [fɑːʃ] or 法师 in Chin
 
 
 ![]({{ site.baseurl }}/img/fashi.png)
+
+![]({{ site.baseurl }}/img/fashi_para.png)
 
 ***Supplementary materials***:
 
@@ -28,5 +30,5 @@ Abstract: The FAST All Sky HI survey (FASHI, read as [fɑːʃ] or 法师 in Chin
 5. The complete Table 5 containing 2900 sources can be accessed in [The identified optical counterparts from the SDSS spectroscopic catalog]({{site.baseurl}}/img/Table5-The_identified_optical_counterparts_from_the_SDSS_spectroscopic_catalog.csv);
 
 6. The complete Table 6 containing 10975 sources can be accessed in [The identified optical counterparts from the SDSS photometric catalog]({{site.baseurl}}/img/Table6-The_identified_optical_counterparts_from_the_SDSS_photometric_catalog.csv)
--->
+#-->
 
