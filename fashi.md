@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "FASHI"
-tagline: "My research highlights"
+tagline: "The FAST All Sky H I Survey"
 ---
 
 <!--
