@@ -37,6 +37,62 @@ tagline: "The FAST All Sky H I Survey"
         <td>Current DEC range</td>
         <td>-6<sup>◦</sup> ≤ DEC ≤ 0<sup>◦</sup>, 30<sup>◦</sup> ≤ DEC ≤ +66<sup>◦</sup> </td>
     </tr>
+    <tr>
+        <td>Receiver</td>
+        <td>19-beam array</td>
+    </tr>
+    <tr>
+        <td>Polarizations per beam</td>
+        <td>2 linear (XX, YY)</td>
+    </tr>
+    <tr>
+        <td>Beam size (FWHM)</td>
+        <td>2.9 arcmin at 1420 MHz</td>
+    </tr>
+    <tr>
+        <td>Gain</td>
+        <td>13-17 K/Jy</td>
+    </tr>
+    <tr>
+        <td>T<sub>sys</sub> </td>
+        <td>16-19 K</td>
+    </tr>
+    <tr>
+        <td>Total frequency coverage</td>
+        <td>1000-1500 MHz</td>
+    </tr>
+    <tr>
+        <td>Released frequency range</td>
+        <td>1305.5-1419.5 MHz (in this work)</td>
+    </tr>
+    <tr>
+        <td>cz range</td>
+        <td>200-26323 km/s (in this work)</td>
+    </tr>
+    <tr>
+        <td>Bandwidth (total)</td>
+        <td>500 MHz</td>
+    </tr>
+    <tr>
+        <td>Spectral channels</td>
+        <td>65536 (before smoothing)</td>
+    </tr>
+    <tr>
+        <td>Channel spacing</td>
+        <td>7.629 kHz or 1.6 km/s</td>
+    </tr>
+    <tr>
+        <td>Spectral resolution</td>
+        <td>6.4 km/s (after smoothing)</td>
+    </tr>
+    <tr>
+        <td>Spectral median rms</td>
+        <td> ∼1.50 mJy at 6.4 km/s resolution</td>
+    </tr>
+    <tr>
+        <td>Map median sensitivity</td>
+        <td>∼0.76 mJy/beam at 6.4 km/s resolution</td>
+    </tr>
 </table>
 
 ***Supplementary materials***:
