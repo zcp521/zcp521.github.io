@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "FASHI"
+title: "FASHI-法师"
 tagline: "The FAST All Sky H I Survey"
 ---
 
 <!--
-## The FAST All Sky H I Survey (FASHI): the first release of catalog
+## The FAST All Sky H I Survey (FASHI-法师): the first release of catalog
 
 ![]({{ site.baseurl }}/img/fashi_pic.jpg)
 
