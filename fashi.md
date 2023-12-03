@@ -15,22 +15,21 @@ tagline: "The FAST All Sky H I Survey"
 
 ![]({{ site.baseurl }}/img/fashi.png)
 
-*** FASHI project technical details***：
+***FASHI project technical details***：
 <table border="0">
     <tr>
         <th>Parameters</th>
         <th>Values</th>
     </tr>
     <tr>
-        <td>row 1, cell 1</td>
-        <td>row 1, cell 2</td>
+        <td>Planed RA range</td>
+        <td>0h ≤ RA ≤ 24h (see Figure 1)</td>
     </tr>
     <tr>
-        <td>row 2, cell 1</td>
-        <td>row 2, cell 2</td>
+        <td>Planed DEC range</td>
+        <td>-14◦ ≤ DEC ≤ +66◦ (see Figure 1)</td>
     </tr>
 </table>
-
 
 ***Supplementary materials***:
 
@@ -40,7 +39,6 @@ tagline: "The FAST All Sky H I Survey"
 4. The complete Table 4 containing 14072 sources can be accessed in [The identified optical counterparts from the SGA catalog]({{site.baseurl}}/img/Table4-The_identified_optical_counterparts_from_the_SGA_catalog.csv)
 5. The complete Table 5 containing 2900 sources can be accessed in [The identified optical counterparts from the SDSS spectroscopic catalog]({{site.baseurl}}/img/Table5-The_identified_optical_counterparts_from_the_SDSS_spectroscopic_catalog.csv)
 6. The complete Table 6 containing 10975 sources can be accessed in [The identified optical counterparts from the SDSS photometric catalog]({{site.baseurl}}/img/Table6-The_identified_optical_counterparts_from_the_SDSS_photometric_catalog.csv)
-#-->
 
 ***Publications related to FASHI***:
 
@@ -55,3 +53,4 @@ tagline: "The FAST All Sky H I Survey"
 1. Xu, Jin-Long; Zhu, Ming; Yu, Naiping; Zhang, Chuan-Peng; Liu, Xiao-Lan; Ai, Mei; Jiang, Peng
 	"Discovery of an Isolated Dark Dwarf Galaxy in the Nearby Universe"
 	[2023ApJ...944L..40X](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..40X/abstract)
+#-->
