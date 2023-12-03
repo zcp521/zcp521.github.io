@@ -100,11 +100,11 @@ and millimeter interferometric data taken at 1.3 cm, 3.5 mm, 1.3 mm, and 870 μm
 sample is unique in the sense that all the clumps have neighboring H II regions. Taking advantage of that, we test triggered star
 formation using a novel method where we study the alignment of the centres of mass traced by dust emission at multiple scales.
 
-Results. The eight massive clumps, identified based on single dish observations, have masses ranging from 228 to 2279 Msun within an
+Results. The eight massive clumps, identified based on single dish observations, have masses ranging from 228 to 2279 Msun within an
 effective radius of R eff ∼ 0.5 pc. We detect compact structures towards six out of the eight clumps. The brightest compact structures
 within infrared bright clumps are typically associated with embedded compact radio continuum sources. The smaller scale structures
 of R eff ∼ 0.02 pc observed within each clump are mostly gravitationally bound and massive enough to form at least a B3-B0 type star.
-Many condensations have masses larger than 8 Msun  at small scale of R eff ∼ 0.02 pc. We find that the two lowest mass and lowest surface
+Many condensations have masses larger than 8 Msun at small scale of R eff ∼ 0.02 pc. We find that the two lowest mass and lowest surface
 density infrared quiet clumps with < 300 Msun do not host any compact sources, calling into question their ability to form high-mass
 stars. Although the clumps are mostly infrared quiet, the dynamical movements are active at clump scale (∼ 1 pc).
 
