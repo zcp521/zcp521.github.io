@@ -15,7 +15,22 @@ tagline: "The FAST All Sky H I Survey"
 
 ![]({{ site.baseurl }}/img/fashi.png)
 
-![]({{ site.baseurl }}/img/fashi_para.png)
+*** FASHI project technical details***：
+<table border="0">
+    <tr>
+        <th>Parameters</th>
+        <th>Values</th>
+    </tr>
+    <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
+
 
 ***Supplementary materials***:
 
