@@ -4,7 +4,6 @@ title: "FASHI-法师"
 tagline: "The FAST All Sky H I Survey"
 ---
 
-<!--
 ## The FAST All Sky H I Survey (FASHI): the first release of catalog
 
 
@@ -117,4 +116,3 @@ tagline: "The FAST All Sky H I Survey"
 1. Xu, Jin-Long; Zhu, Ming; Yu, Naiping; Zhang, Chuan-Peng; Liu, Xiao-Lan; Ai, Mei; Jiang, Peng
 	"Discovery of an Isolated Dark Dwarf Galaxy in the Nearby Universe"
 	[2023ApJ...944L..40X](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..40X/abstract)
--->
