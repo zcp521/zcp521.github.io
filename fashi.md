@@ -3,7 +3,7 @@ layout: default
 title: "FASHI-法师"
 tagline: "The FAST All Sky H I Survey"
 ---
-<!--
+
 ## The FAST All Sky H I Survey (FASHI): the first release of catalog
 
 
@@ -105,15 +105,10 @@ tagline: "The FAST All Sky H I Survey"
 
 ***Publications related to FASHI***:
 
-3. Zhang, Chuan-Peng; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
+2. Zhang, Chuan-Peng; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
 	"Performance of FAST with an Ultra-Wide Bandwidth Receiver at 500-3300 MHz"
 	[2023RAA....23g5016Z](https://ui.adsabs.harvard.edu/abs/2023RAA....23g5016Z/abstract)
 
-2. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; Zhang, Chuan-Peng; Liu, Xiao-Lan; Jiang, Peng; Wang, Jun-Jie
+1. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; Zhang, Chuan-Peng; Liu, Xiao-Lan; Jiang, Peng; Wang, Jun-Jie
 	"FAST discovery of an extra plume in DDO 168"
 	[2023MNRAS.521..737Y](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521..737Y/abstract)
-
-1. Xu, Jin-Long; Zhu, Ming; Yu, Naiping; Zhang, Chuan-Peng; Liu, Xiao-Lan; Ai, Mei; Jiang, Peng
-	"Discovery of an Isolated Dark Dwarf Galaxy in the Nearby Universe"
-	[2023ApJ...944L..40X](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..40X/abstract)
--->
