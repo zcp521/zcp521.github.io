@@ -108,11 +108,9 @@ tagline: "The FAST All Sky H I Survey"
 3. ***Zhang, Chuan-Peng***; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.; Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration
 	"The FAST all sky HI survey (FASHI): The first release of catalog"
 	[2023arXiv231206097Z](https://ui.adsabs.harvard.edu/abs/2023arXiv231206097Z/abstract)
-
 2. Zhang, Chuan-Peng; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
 	"Performance of FAST with an Ultra-Wide Bandwidth Receiver at 500-3300 MHz"
 	[2023RAA....23g5016Z](https://ui.adsabs.harvard.edu/abs/2023RAA....23g5016Z/abstract)
-
 1. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; Zhang, Chuan-Peng; Liu, Xiao-Lan; Jiang, Peng; Wang, Jun-Jie
 	"FAST discovery of an extra plume in DDO 168"
 	[2023MNRAS.521..737Y](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521..737Y/abstract)
