@@ -104,16 +104,34 @@ tagline: "The FAST All Sky H I Survey"
 6. The complete Table 6 containing 10975 sources can be accessed in [The identified optical counterparts from the SDSS photometric catalog]({{site.baseurl}}/img/Table6-The_identified_optical_counterparts_from_the_SDSS_photometric_catalog.csv)
 
 ***Publications related to FASHI***:
-
-3. Zhang, Chuan-Peng; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.; Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration
+   
+7. Zhang, Chuan-Peng; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.; Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration
 	"The FAST all sky HI survey (FASHI): The first release of catalog"
 	[2023arXiv231206097Z](https://ui.adsabs.harvard.edu/abs/2023arXiv231206097Z/abstract)
-2. Zhang, Chuan-Peng; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
+
+6. Zhang, Chuan-Peng; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
 	"Performance of FAST with an Ultra-Wide Bandwidth Receiver at 500-3300 MHz"
 	[2023RAA....23g5016Z](https://ui.adsabs.harvard.edu/abs/2023RAA....23g5016Z/abstract)
-1. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; Zhang, Chuan-Peng; Liu, Xiao-Lan; Jiang, Peng; Wang, Jun-Jie
+
+5. Zhou, Ruilei; Zhu, Ming; Yang, Yanbin; Yu, Haiyang; Yuan, Lixia; Jiang, Peng; Xi, Wenzhe
+	"FAST Reveals New Evidence for M94 as a Merger"
+	[2023ApJ...952..130Z](https://ui.adsabs.harvard.edu/abs/2023ApJ...952..130Z/abstract)
+
+4. Liu, Yao; Zhu, Ming; Yu, Haiyang; Ai, Mei; Jiang, Peng; Liu, Siqi; Yuan, Lixia
+	"FAST discovery of long tidal tails in NGC 4490/85"
+	[2023MNRAS.523.3905L](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.3905L/abstract)
+
+3. Yu, Haiyang; Zhu, Ming; Xu, Jin-Long; Ai, Mei; Jiang, Peng; Yang, Yanbin
+	"High-sensitivity H I image of diffuse gas and new tidal features in M51 observed by FAST"
+	[2023MNRAS.521.2719Y](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.2719Y/abstract)
+
+2. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; Zhang, Chuan-Peng; Liu, Xiao-Lan; Jiang, Peng; Wang, Jun-Jie
 	"FAST discovery of an extra plume in DDO 168"
 	[2023MNRAS.521..737Y](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521..737Y/abstract)
+
+1. Zhu, Ming; Yu, Haiyang; Wang, Jie; Xu, Jin-Long; Du, Wei; Yuan, Lixia; Wang, Jing; Jing, Yingjie; Ai, Mei; Jiang, Peng
+	"FAST Discovery of a Long H I Accretion Stream toward M106"
+	[2021ApJ...922L..21Z](https://ui.adsabs.harvard.edu/abs/2021ApJ...922L..21Z/abstract)
 
 ***News related to FASHI***:
 
