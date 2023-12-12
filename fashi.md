@@ -14,7 +14,7 @@ tagline: "The FAST All Sky H I Survey"
 
 ![]({{ site.baseurl }}/img/fashi.png)
 
-***FASHI project technical details***:
+***FASHI technical details***:
 <table border="0">
     <tr>
         <th>Parameters</th>
