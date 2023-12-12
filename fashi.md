@@ -108,7 +108,7 @@ tagline: "The FAST All Sky H I Survey"
 8. Zhang, Chuan-Peng; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.;
        Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.;
        Huang, M.; Hao, Q.; FAST Collaboration
-	*The FAST all sky HI survey (FASHI): The first release of catalog*
+	**The FAST all sky HI survey (FASHI): The first release of catalog**
 	[2023arXiv231206097Z](https://ui.adsabs.harvard.edu/abs/2023arXiv231206097Z/abstract)
 7. Ai, Mei; Zhu, Ming; Xu, Jin-long; Wang, Jie; Jing, Ying-jie; Yu, Hai-yang; Jiang, Peng
 	"High-sensitivity H I mapping of NGC 4449 with FAST"
