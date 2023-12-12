@@ -105,7 +105,7 @@ tagline: "The FAST All Sky H I Survey"
 
 ***Publications related to FASHI***:
 
-3. ***Zhang, Chuan-Peng***; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.; Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration
+3. Zhang, Chuan-Peng; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.; Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration
 	"The FAST all sky HI survey (FASHI): The first release of catalog"
 	[2023arXiv231206097Z](https://ui.adsabs.harvard.edu/abs/2023arXiv231206097Z/abstract)
 2. Zhang, Chuan-Peng; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
