@@ -116,3 +116,8 @@ tagline: "The FAST All Sky H I Survey"
 1. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; Zhang, Chuan-Peng; Liu, Xiao-Lan; Jiang, Peng; Wang, Jun-Jie
 	"FAST discovery of an extra plume in DDO 168"
 	[2023MNRAS.521..737Y](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521..737Y/abstract)
+
+***News related to FASHI***:
+
+1. [中国天眼探测并构建世界最大的中性氢星系样本](https://blog.sciencenet.cn/blog-528739-1413561.html)
+2. [贵州射电天文台参与中国天眼探测 构建世界最大的中性氢星系样本](http://news.gzu.edu.cn/2023/1211/c11069a210339/page.htm)
