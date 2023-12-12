@@ -4,7 +4,7 @@ title: "FASHI-法师"
 tagline: "The FAST All Sky H I Survey"
 ---
 
-## [The FAST All Sky H I Survey (FASHI): the first release of catalog](http://engine.scichina.com/doi/10.1007/s11433-023-2219-7)
+## [The FAST All Sky H I Survey (FASHI): the first release of catalog](https://ui.adsabs.harvard.edu/abs/2023arXiv231206097Z/abstract)
 
 
 ![]({{ site.baseurl }}/img/fashi_pic.jpg)
@@ -104,6 +104,10 @@ tagline: "The FAST All Sky H I Survey"
 6. The complete Table 6 containing 10975 sources can be accessed in [The identified optical counterparts from the SDSS photometric catalog]({{site.baseurl}}/img/Table6-The_identified_optical_counterparts_from_the_SDSS_photometric_catalog.csv)
 
 ***Publications related to FASHI***:
+
+3. ***Zhang, Chuan-Peng***; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.; Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration
+	"The FAST all sky HI survey (FASHI): The first release of catalog"
+	[2023arXiv231206097Z](https://ui.adsabs.harvard.edu/abs/2023arXiv231206097Z/abstract)
 
 2. Zhang, Chuan-Peng; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
 	"Performance of FAST with an Ultra-Wide Bandwidth Receiver at 500-3300 MHz"
