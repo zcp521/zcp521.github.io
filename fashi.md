@@ -142,4 +142,4 @@ tagline: "The FAST All Sky H I Survey"
 
 1. [【科学网】中国天眼探测并构建世界最大的中性氢星系样本](https://blog.sciencenet.cn/blog-528739-1413561.html)
 2. [【贵大新闻网讯】贵州射电天文台参与中国天眼探测 构建世界最大的中性氢星系样本](http://news.gzu.edu.cn/2023/1211/c11069a210339/page.htm)
-3. [【CCTV】中国天眼最新巡天成果发布 探测并构建世界最大中性氢星系样本](https://tv.cctv.com/2023/12/13/VIDE8HrxgbGmGgh7YxzS55If231213.shtml)
+3. [【CCTV】中国天眼最新巡天成果发布 探测并构建世界最大中性氢星系样本](https://tv.cctv.com/2023/12/13/VIDEQFOsBrEMP1RpItMx6eG6231213.shtml)
