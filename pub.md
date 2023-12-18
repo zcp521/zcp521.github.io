@@ -18,6 +18,10 @@ tagline: "My publication list"
 	"The FAST all sky HI survey (FASHI): The first release of catalog"
 	[2023arXiv231206097Z](https://ui.adsabs.harvard.edu/abs/2023arXiv231206097Z/abstract)
 
+61. Xu, Jin-Long; Zhu, Ming; Hess, Kelley M.; Yu, Naiping; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Ai, Mei; Jiang, Peng; Wang, Jie
+	"Formation of a Massive Lenticular Galaxy Under the Tidal Interaction with a Group of Dwarf Galaxies"
+	[2023ApJ...958L..31X](https://ui.adsabs.harvard.edu/abs/2023ApJ...958L..31X/abstract)
+
 60. ***Zhang, Chuan-Peng***; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
 	"Performance of FAST with an Ultra-Wide Bandwidth Receiver at 500-3300 MHz"
 	[2023RAA....23g5016Z](https://ui.adsabs.harvard.edu/abs/2023RAA....23g5016Z/abstract)
