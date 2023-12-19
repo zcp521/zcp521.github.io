@@ -28,7 +28,7 @@ tagline: "My publication list"
 
 59. Ouyang, Xu-Jia; Zhang, Yong; Zijlstra, Albert; ***Zhang, Chuan-Peng***; Nakashima, Jun-ichi; Parker, Quentin A
 	"FAST search for circumstellar atomic hydrogen. II. Is BD+303639 an interacting planetary nebula?"
-	[2023arXiv230513598O](https://ui.adsabs.harvard.edu/abs/2023arXiv230513598O/abstract)
+	[2023ApJ...952..166O](https://ui.adsabs.harvard.edu/abs/2023ApJ...952..166O/abstract)
 
 58. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Jiang, Peng; Wang, Jun-Jie
 	"FAST discovery of an extra plume in DDO 168"
