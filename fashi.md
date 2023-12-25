@@ -4,7 +4,7 @@ title: "FASHI-法师"
 tagline: "The FAST All Sky H I Survey"
 ---
 
-## [The FAST All Sky H I Survey (FASHI): the first release of catalog](https://ui.adsabs.harvard.edu/abs/2023arXiv231206097Z/abstract)
+## [The FAST All Sky H I Survey (FASHI): the first release of catalog](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
 
 
 ![]({{ site.baseurl }}/img/fashi_pic.jpg)
@@ -109,7 +109,7 @@ tagline: "The FAST All Sky H I Survey"
        Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.;
        Huang, M.; Hao, Q.; FAST Collaboration
 	"The FAST all sky HI survey (FASHI): The first release of catalog"
-	[2023arXiv231206097Z](https://ui.adsabs.harvard.edu/abs/2023arXiv231206097Z/abstract)
+	[2024SCPMA..6719511Z](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
 
 7. Ai, Mei; Zhu, Ming; Xu, Jin-long; Wang, Jie; Jing, Ying-jie; Yu, Hai-yang; Jiang, Peng
 	"High-sensitivity H I mapping of NGC 4449 with FAST"
