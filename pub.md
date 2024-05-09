@@ -14,9 +14,29 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
-63. ***Zhang, Chuan-Peng***; Cheng, Cheng; Zhu, Ming; Jiang, Peng
+68. ***Zhang, Chuan-Peng***; Cheng, Cheng; Zhu, Ming; Jiang, Peng
 	"FASHI: A search for extragalactic OH megamasers with FAST"
 	[2024arXiv240115397Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240115397Z/abstract)
+
+67. Jing, Yingjie; Wang, Jie; Xu, Chen; ...; ***Zhang, Chuan-Peng***; ...
+	"HiFAST: An HI data calibration and imaging pipeline for FAST"
+	[2024SCPMA..6759514J](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6759514J/abstract)
+
+66. Cui, Quan-Ling; ***Zhang, Chuan-Peng***; Wang, Jun-Jie
+	"Multiwavelength Observations of the Infrared Dust Bubble N75 and its Surroundings"
+	[2024RAA....24d5023C](https://ui.adsabs.harvard.edu/abs/2024RAA....24d5023C/abstract)
+
+65. Cui, Quan-Ling; ***Zhang, Chuan-Peng***; Wang, Jun-Jie
+	"Possible Habitats for NH3, NH2D, H13CN, HC15N, SO, and C18O in the Initial Conditions of High-mass Star Formation"
+	[2024RAA....24d5021C](https://ui.adsabs.harvard.edu/abs/2024RAA....24d5021C/abstract)
+
+64. Rawat, Vineet; Samal, M. R.; Walker, D. L.; ...; ***Zhang, Chuan-Peng***; ...
+	"The Giant Molecular Cloud G148.24+00.41: gas properties, kinematics, and cluster formation at the nexus of filamentary flows"
+	[2024MNRAS.528.2199R](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.2199R/abstract)
+
+63. Rawat, Vineet; Samal, M. R.; Eswaraiah, Chakali; ...; ***Zhang, Chuan-Peng***; ...
+	"Understanding the relative importance of magnetic field, gravity, and turbulence in star formation at the hub of the giant molecular cloud G148.24+00.41"
+	[2024MNRAS.528.1460R](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.1460R/abstract)
 
 62. ***Zhang, Chuan-Peng***; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.; Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration
 	"The FAST all sky HI survey (FASHI): The first release of catalog"
