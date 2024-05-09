@@ -86,7 +86,7 @@ tagline: "My publication list"
 	"Discovery of Extra-Planar HI Clouds and a HI Tail in the M101 Galaxy Group with FAST"
 	[2021ApJ...922...53X](https://ui.adsabs.harvard.edu/abs/2021ApJ...922...53X)
 
-50. Lyo, A. -Ran; Kim, Jongsoo; ..., ***Zhang, Chuan-Peng***; ...
+50. Lyo, A. -Ran; Kim, Jongsoo; ...; ***Zhang, Chuan-Peng***; ...
 	The JCMT BISTRO Survey: An 850/450 μm Polarization Study of NGC 2071IR in Orion B"
 	[2021ApJ...918...85L](https://ui.adsabs.harvard.edu/abs/2021ApJ...918...85L)
 
@@ -98,7 +98,7 @@ tagline: "My publication list"
 	"HI detection of J030417.78+002827.4 by the Five-hundred-meter Aperture Spherical Radio Telescope"
 	[2021RAA....21..100Y](https://ui.adsabs.harvard.edu/abs/2021RAA....21..100Y)
 	
-47. Eswaraiah, Chakali; Li, Di; ..., ***Zhang, Chuan-Peng***; ...
+47. Eswaraiah, Chakali; Li, Di; ...; ***Zhang, Chuan-Peng***; ...
 	"The JCMT BISTRO Survey: Revealing the Diverse Magnetic Field Morphologies in Taurus Dense Cores with Sensitive Submillimeter Polarimetry"
 	[2021ApJ...912L..27E](https://ui.adsabs.harvard.edu/abs/2021ApJ...912L..27E)
 
@@ -106,7 +106,7 @@ tagline: "My publication list"
 	"Kinematics and star formation toward W33: a central hub as a hub-filament system"
 	[2021A&A...646A.137L](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.137L)
 
-45. Arzoumanian, D.; Furuya, R.; ..., ***Zhang, Chuan-Peng***; ...
+45. Arzoumanian, D.; Furuya, R.; ...; ***Zhang, Chuan-Peng***; ...
 	"Dust polarized emission observations of NGC 6334; BISTRO reveals the details of the complex but organized magnetic field structure of the high-mass star-forming hub-filament network"
 	[2021A&A...647A..78A](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A..78A)
 
@@ -114,15 +114,15 @@ tagline: "My publication list"
 	"Pebbles in an embedded protostellar disk: The case of CB26"
 	[2021A&A...646A..18Z](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A..18Z)
 
-43. Bich Ngoc, Nguyen; Diep, Pham Ngoc; ..., ***Zhang, Chuan-Peng***	
+43. Bich Ngoc, Nguyen; Diep, Pham Ngoc; ...; ***Zhang, Chuan-Peng***	
 	"Observations of magnetic fields surrounding LkHα 101 taken by the BISTRO survey with JCMT-POL-2"
 	[2021ApJ...908...10N](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...10N)
 
-42. Yen, Hsi-Wei; Koch, Patrick M.; ..., ***Zhang, Chuan-Peng***	
+42. Yen, Hsi-Wei; Koch, Patrick M.; ...; ***Zhang, Chuan-Peng***	
 	"The JCMT BISTRO Survey: Alignment between Outflows and Magnetic Fields in Dense Cores/Clumps"
 	[2021ApJ...907...33Y](https://ui.adsabs.harvard.edu/abs/2021ApJ...907...33Y)
 	
-41. Doi, Yasuo; Hasegawa, Tetsuo; ..., ***Zhang, Chuan-Peng***; ...
+41. Doi, Yasuo; Hasegawa, Tetsuo; ...; ***Zhang, Chuan-Peng***; ...
 	"The JCMT BISTRO Survey: Magnetic Fields Associated with a Network of Filaments in NGC 1333"
 	[2020ApJ...899...28D](https://ui.adsabs.harvard.edu/abs/2020ApJ...899...28D)
 
