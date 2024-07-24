@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+69. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
+	"FASHI: A blind survey of 21cm HI absorption galaxies with FAST"
+	[2024arXiv240715467Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240715467Z/abstract)
+
 68. ***Zhang, Chuan-Peng***; Cheng, Cheng; Zhu, Ming; Jiang, Peng
 	"FASHI: A search for extragalactic OH megamasers with FAST"
 	[2024arXiv240115397Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240115397Z/abstract)
