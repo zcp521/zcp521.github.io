@@ -14,6 +14,18 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+72. Li, Fujia; Wang, Enci; Zhu, Ming; Peng, Yingjie; Wang, Jing; ***Zhang, Chuan-Peng***; Lin, Zesen; Rong, Yu; Zhang, Hongxin; Kong, Xu
+	"Exploring the origin of cold gas and star formation in a rare population of strongly bulge-dominated early-type Galaxies"
+	[2024arXiv240804256L](https://ui.adsabs.harvard.edu/abs/2024arXiv240804256L/abstract)
+
+71. Ouyang, Xu-Jia; Zhang, Yong; ***Zhang, Chuan-Peng***; Jiang, Peng; Nakashima, Jun-ichi; Chen, Xi; Qiao, Hai-Hua; Zhang, Xu-Ying; Sun, Hao-Min; Li, Xiao-Hu; Zijlstra, Albert
+	"FAST detection of OH emission in the carbon-rich planetary nebula NGC 7027"
+	[2024arXiv240802962O](https://ui.adsabs.harvard.edu/abs/2024arXiv240802962O/abstract)
+
+70. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; ***Zhang, Chuan-Peng***; Yu, Hai-Yang; Liu, Xiao-Lan; Jiang, Peng; Ai, Mei
+	"FAST observations of neutral hydrogen in the interacting galaxies NGC 3395/3396"
+	[2024MNRAS.532.1744Y](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1744Y/abstract)
+
 69. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
 	"FASHI: A blind survey of 21cm HI absorption galaxies with FAST"
 	[2024arXiv240715467Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240715467Z/abstract)
