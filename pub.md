@@ -19,8 +19,8 @@ tagline: "My publication list"
 	[2024arXiv240715467Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240715467Z/abstract)
 
 68. ***Zhang, Chuan-Peng***; Cheng, Cheng; Zhu, Ming; Jiang, Peng
-	"FASHI: A search for extragalactic OH megamasers with FAST"
-	[2024arXiv240115397Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240115397Z/abstract)
+	"FASHI: A Search for Extragalactic OH Megamasers with FAST"
+	[2024ApJ...971..131Z](https://ui.adsabs.harvard.edu/abs/2024ApJ...971..131Z/abstract)
 
 67. Jing, Yingjie; Wang, Jie; Xu, Chen; ...; ***Zhang, Chuan-Peng***; ...
 	"HiFAST: An HI data calibration and imaging pipeline for FAST"
