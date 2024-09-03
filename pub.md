@@ -47,7 +47,7 @@ tagline: "My publication list"
 	[2024RAA....24d5023C](https://ui.adsabs.harvard.edu/abs/2024RAA....24d5023C/abstract)
 
 65. Cui, Quan-Ling; ***Zhang, Chuan-Peng***; Wang, Jun-Jie
-	"Possible Habitats for NH<sub>3</sub>, NH<sub>2</sub>D, H<sub>13</sub>CN, HC<sub>15</sub>N, SO, and C18O in the Initial Conditions of High-mass Star Formation"
+	"Possible Habitats for NH<sub>3</sub>, NH<sub>2</sub>D, H<sup>13</sup>CN, HC<sup>15</sup>N, SO, and C<sup>18</sup>O in the Initial Conditions of High-mass Star Formation"
 	[2024RAA....24d5021C](https://ui.adsabs.harvard.edu/abs/2024RAA....24d5021C/abstract)
 
 64. Rawat, Vineet; Samal, M. R.; Walker, D. L.; ...; ***Zhang, Chuan-Peng***; ...
