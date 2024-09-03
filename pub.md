@@ -24,7 +24,7 @@ tagline: "My publication list"
 
 71. Ouyang, Xu-Jia; Zhang, Yong; ***Zhang, Chuan-Peng***; Jiang, Peng; Nakashima, Jun-ichi; Chen, Xi; Qiao, Hai-Hua; Zhang, Xu-Ying; Sun, Hao-Min; Li, Xiao-Hu; Zijlstra, Albert
 	"FAST detection of OH emission in the carbon-rich planetary nebula NGC 7027"
-	[2024arXiv240802962O](https://ui.adsabs.harvard.edu/abs/2024arXiv240802962O/abstract)
+	[2024ApJ...972...96O](https://ui.adsabs.harvard.edu/abs/2024ApJ...972...96O/abstract)
 
 70. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; ***Zhang, Chuan-Peng***; Yu, Hai-Yang; Liu, Xiao-Lan; Jiang, Peng; Ai, Mei
 	"FAST observations of neutral hydrogen in the interacting galaxies NGC 3395/3396"
