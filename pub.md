@@ -50,6 +50,10 @@ tagline: "My publication list"
 	"Possible Habitats for NH<sub>3</sub>, NH<sub>2</sub>D, H<sup>13</sup>CN, HC<sup>15</sup>N, SO, and C<sup>18</sup>O in the Initial Conditions of High-mass Star Formation"
 	[2024RAA....24d5021C](https://ui.adsabs.harvard.edu/abs/2024RAA....24d5021C/abstract)
 
+64. Karachentsev, Igor D.; Karachentseva, Valentina E.; Kaisin, Serafim S.; ***Zhang, Chuan-Peng***
+	"Addition of the Local Volume sample of galaxies from the FAST HI survey"
+	[2024A&A...684L..24K](https://ui.adsabs.harvard.edu/abs/2024A&A...684L..24K/abstract)
+
 64. Rawat, Vineet; Samal, M. R.; Walker, D. L.; ...; ***Zhang, Chuan-Peng***; ...
 	"The Giant Molecular Cloud G148.24+00.41: gas properties, kinematics, and cluster formation at the nexus of filamentary flows"
 	[2024MNRAS.528.2199R](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.2199R/abstract)
