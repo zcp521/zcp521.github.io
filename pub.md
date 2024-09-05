@@ -14,45 +14,49 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
-73. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
+75. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
 	"FASHI: A blind survey of 21cm HI absorption galaxies with FAST"
 	[2024arXiv240715467Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240715467Z/abstract)
 
-72. Li, Fujia; Wang, Enci; Zhu, Ming; Peng, Yingjie; Wang, Jing; ***Zhang, Chuan-Peng***; Lin, Zesen; Rong, Yu; Zhang, Hongxin; Kong, Xu
+74. Li, Fujia; Wang, Enci; Zhu, Ming; Peng, Yingjie; Wang, Jing; ***Zhang, Chuan-Peng***; Lin, Zesen; Rong, Yu; Zhang, Hongxin; Kong, Xu
 	"Exploring the origin of cold gas and star formation in a rare population of strongly bulge-dominated early-type Galaxies"
 	[2024arXiv240804256L](https://ui.adsabs.harvard.edu/abs/2024arXiv240804256L/abstract)
 
-71. Ouyang, Xu-Jia; Zhang, Yong; ***Zhang, Chuan-Peng***; Jiang, Peng; Nakashima, Jun-ichi; Chen, Xi; Qiao, Hai-Hua; Zhang, Xu-Ying; Sun, Hao-Min; Li, Xiao-Hu; Zijlstra, Albert
+73. Ouyang, Xu-Jia; Zhang, Yong; ***Zhang, Chuan-Peng***; Jiang, Peng; Nakashima, Jun-ichi; Chen, Xi; Qiao, Hai-Hua; Zhang, Xu-Ying; Sun, Hao-Min; Li, Xiao-Hu; Zijlstra, Albert
 	"FAST detection of OH emission in the carbon-rich planetary nebula NGC 7027"
 	[2024ApJ...972...96O](https://ui.adsabs.harvard.edu/abs/2024ApJ...972...96O/abstract)
 
-70. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; ***Zhang, Chuan-Peng***; Yu, Hai-Yang; Liu, Xiao-Lan; Jiang, Peng; Ai, Mei
+72. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; ***Zhang, Chuan-Peng***; Yu, Hai-Yang; Liu, Xiao-Lan; Jiang, Peng; Ai, Mei
 	"FAST observations of neutral hydrogen in the interacting galaxies NGC 3395/3396"
 	[2024MNRAS.532.1744Y](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1744Y/abstract)
 
-69. Liu, Xiao-Lan; Zhu, Ming; Xu, Jin-Long; Jiang, Peng; ***Zhang, Chuan-Peng***; Yu, Nai-Ping; Wang, Jun-Jie; Yang, Yan-Bin
+71. Liu, Xiao-Lan; Zhu, Ming; Xu, Jin-Long; Jiang, Peng; ***Zhang, Chuan-Peng***; Yu, Nai-Ping; Wang, Jun-Jie; Yang, Yan-Bin
 	"New H I Observations Toward the NGC 5055 Galaxy Group with FAST"
 	[2024RAA....24g5020L](https://ui.adsabs.harvard.edu/abs/2024RAA....24g5020L/abstract)
 
-68. ***Zhang, Chuan-Peng***; Cheng, Cheng; Zhu, Ming; Jiang, Peng
+70. ***Zhang, Chuan-Peng***; Cheng, Cheng; Zhu, Ming; Jiang, Peng
 	"FASHI: A Search for Extragalactic OH Megamasers with FAST"
 	[2024ApJ...971..131Z](https://ui.adsabs.harvard.edu/abs/2024ApJ...971..131Z/abstract)
 
-67. Jing, Yingjie; Wang, Jie; Xu, Chen; ...; ***Zhang, Chuan-Peng***; ...
+69. Jing, Yingjie; Wang, Jie; Xu, Chen; ...; ***Zhang, Chuan-Peng***; ...
 	"HiFAST: An HI data calibration and imaging pipeline for FAST"
 	[2024SCPMA..6759514J](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6759514J/abstract)
 
-66. Cui, Quan-Ling; ***Zhang, Chuan-Peng***; Wang, Jun-Jie
+68. Cui, Quan-Ling; ***Zhang, Chuan-Peng***; Wang, Jun-Jie
 	"Multiwavelength Observations of the Infrared Dust Bubble N75 and its Surroundings"
 	[2024RAA....24d5023C](https://ui.adsabs.harvard.edu/abs/2024RAA....24d5023C/abstract)
 
-65. Cui, Quan-Ling; ***Zhang, Chuan-Peng***; Wang, Jun-Jie
+67. Cui, Quan-Ling; ***Zhang, Chuan-Peng***; Wang, Jun-Jie
 	"Possible Habitats for NH<sub>3</sub>, NH<sub>2</sub>D, H<sup>13</sup>CN, HC<sup>15</sup>N, SO, and C<sup>18</sup>O in the Initial Conditions of High-mass Star Formation"
 	[2024RAA....24d5021C](https://ui.adsabs.harvard.edu/abs/2024RAA....24d5021C/abstract)
 
-64. Karachentsev, Igor D.; Karachentseva, Valentina E.; Kaisin, Serafim S.; ***Zhang, Chuan-Peng***
+66. Karachentsev, Igor D.; Karachentseva, Valentina E.; Kaisin, Serafim S.; ***Zhang, Chuan-Peng***
 	"Addition of the Local Volume sample of galaxies from the FAST HI survey"
 	[2024A&A...684L..24K](https://ui.adsabs.harvard.edu/abs/2024A&A...684L..24K/abstract)
+
+65. Xu, Fengwei; Wang, Ke; Liu, Tie; ...; ***Zhang, Chuan-Peng***; ...
+	"On the Scarcity of Dense Cores (n > 10<sup>5</sup> cm<sup>-3</sup>) in High-latitude Planck Galactic Cold Clumps"
+	[2024ApJ...963L...9X](https://ui.adsabs.harvard.edu/abs/2024ApJ...963L...9X/abstract)
 
 64. Rawat, Vineet; Samal, M. R.; Walker, D. L.; ...; ***Zhang, Chuan-Peng***; ...
 	"The Giant Molecular Cloud G148.24+00.41: gas properties, kinematics, and cluster formation at the nexus of filamentary flows"
