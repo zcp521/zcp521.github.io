@@ -15,12 +15,12 @@ tagline: "My publication list"
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
 75. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
-	"FASHI: A blind survey of 21cm HI absorption galaxies with FAST"
+	"FASHI: An untargeted survey of the 21 cm HI absorption galaxies with FAST"
 	[2024arXiv240715467Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240715467Z/abstract)
 
 74. Li, Fujia; Wang, Enci; Zhu, Ming; Peng, Yingjie; Wang, Jing; ***Zhang, Chuan-Peng***; Lin, Zesen; Rong, Yu; Zhang, Hongxin; Kong, Xu
 	"Exploring the origin of cold gas and star formation in a rare population of strongly bulge-dominated early-type Galaxies"
-	[2024arXiv240804256L](https://ui.adsabs.harvard.edu/abs/2024arXiv240804256L/abstract)
+	[2024ApJ...974..238L](https://ui.adsabs.harvard.edu/abs/2024ApJ...974..238L/abstract)
 
 73. Ouyang, Xu-Jia; Zhang, Yong; ***Zhang, Chuan-Peng***; Jiang, Peng; Nakashima, Jun-ichi; Chen, Xi; Qiao, Hai-Hua; Zhang, Xu-Ying; Sun, Hao-Min; Li, Xiao-Hu; Zijlstra, Albert
 	"FAST detection of OH emission in the carbon-rich planetary nebula NGC 7027"
