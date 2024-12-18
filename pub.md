@@ -16,7 +16,7 @@ tagline: "My publication list"
 
 75. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
 	"FASHI: An untargeted survey of the 21 cm HI absorption galaxies with FAST"
-	[2024arXiv240715467Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240715467Z/abstract)
+	[2025ApJS..276....6Z](https://ui.adsabs.harvard.edu/abs/2025ApJS..276....6Z/abstract)
 
 74. Li, Fujia; Wang, Enci; Zhu, Ming; Peng, Yingjie; Wang, Jing; ***Zhang, Chuan-Peng***; Lin, Zesen; Rong, Yu; Zhang, Hongxin; Kong, Xu
 	"Exploring the origin of cold gas and star formation in a rare population of strongly bulge-dominated early-type Galaxies"
