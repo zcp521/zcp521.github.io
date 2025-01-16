@@ -14,6 +14,10 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+76. Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; ***Zhang, Chuan-Peng***; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng
+	"The HI Mass Function of the Local Universe: Combining Measurements from HIPASS, ALFALFA and FASHI"
+	[2024arXiv241109903M](https://ui.adsabs.harvard.edu/abs/2024arXiv241109903M/abstract)
+
 75. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
 	"FASHI: An untargeted survey of the 21 cm HI absorption galaxies with FAST"
 	[2025ApJS..276....6Z](https://ui.adsabs.harvard.edu/abs/2025ApJS..276....6Z/abstract)
