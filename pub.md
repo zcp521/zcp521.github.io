@@ -14,6 +14,14 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+78. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
+	"In search for the Local Universe dynamical homogeneity scale with CF4++ peculiar velocities"
+	[2025arXiv250201308C](https://ui.adsabs.harvard.edu/abs/2025arXiv250201308C/abstract)
+
+77. Yu, Haiyang; Zhu, Ming; ***Zhang, Chuan-Peng***; Jiang, Peng; Xu, Jin-Long
+	"The FAST Ursa Major cluster HI survey (FUMaS): catalog and HI mass function"
+	[2025arXiv250107836Y](https://ui.adsabs.harvard.edu/abs/2025arXiv250107836Y/abstract)
+
 76. Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; ***Zhang, Chuan-Peng***; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng
 	"The HI Mass Function of the Local Universe: Combining Measurements from HIPASS, ALFALFA and FASHI"
 	[2024arXiv241109903M](https://ui.adsabs.harvard.edu/abs/2024arXiv241109903M/abstract)
