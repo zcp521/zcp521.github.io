@@ -14,17 +14,21 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
-78. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
+79. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
 	"In search for the Local Universe dynamical homogeneity scale with CF4++ peculiar velocities"
 	[2025arXiv250201308C](https://ui.adsabs.harvard.edu/abs/2025arXiv250201308C/abstract)
 
-77. Yu, Haiyang; Zhu, Ming; ***Zhang, Chuan-Peng***; Jiang, Peng; Xu, Jin-Long
+78. Yu, Haiyang; Zhu, Ming; ***Zhang, Chuan-Peng***; Jiang, Peng; Xu, Jin-Long
 	"The FAST Ursa Major cluster HI survey (FUMaS): catalog and HI mass function"
 	[2025arXiv250107836Y](https://ui.adsabs.harvard.edu/abs/2025arXiv250107836Y/abstract)
 
-76. Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; ***Zhang, Chuan-Peng***; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng
+77. Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; ***Zhang, Chuan-Peng***; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng
 	"The HI Mass Function of the Local Universe: Combining Measurements from HIPASS, ALFALFA and FASHI"
 	[2024arXiv241109903M](https://ui.adsabs.harvard.edu/abs/2024arXiv241109903M/abstract)
+
+76. Xu, Chen; Wang, Jie; Jing, Yingjie; Li, Fujia; Gan, Hengqian; Liu, Ziming; Liang, Tiantian; Chen, Qingze; Liu, Zerui; Hou, Zhipeng; Hu, Hao; Hu, Huijie; Huang, Shijie; Jiang, Peng; ***Zhang, Chuan-Peng***; Zhu, Yan
+	"HiFAST: An H I Data Calibration and Imaging Pipeline for FAST. III. Standing Wave Removal"
+	[2025RAA....25a5011X](https://ui.adsabs.harvard.edu/abs/2025RAA....25a5011X/abstract)
 
 75. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
 	"FASHI: An untargeted survey of the 21 cm HI absorption galaxies with FAST"
