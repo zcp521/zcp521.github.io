@@ -14,25 +14,26 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
-82. Liu, Xiao-Lan; Xu, Jin-Long; Jiang, Peng; Zhu, Ming; ***Zhang, Chuan-Peng***； Yu, Naiping; Xu, Ye; Guan, Xin; Wang, Jun-Jie
-	"Discovery of a high-velocity cloud of the Milky Way as a potential dark galaxy"
-	[2025arXiv250409419L](https://ui.adsabs.harvard.edu/abs/2025arXiv250409419L/abstract)
 
-81. Ai, Mei; Zhu, Ming; Yu, Nai-ping; Xu, Jin-long; Liu, Xiao-lan; Jing, Yingjie; Jiao, Qian; Liu, Yao; ***Zhang, Chuan-peng***; Wang, Jie; Jiang, Peng
-	"Formation of the Dark Matter–Deficient S0 Galaxy NGC 4111 under the Tidal Interactions"
-	[2025ApJ...982L..52A](https://ui.adsabs.harvard.edu/abs/2025ApJ...982L..52A/abstract)
-
-80. Xu, Jin-Long; Zhu, Ming; Yu, Nai-Ping; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Ai, Mei; Jiang, Peng 
-	"FAST Discovery of a Gas-rich and Ultrafaint Dwarf Galaxy: KK153"
-	[2025ApJ...982L..36X](https://ui.adsabs.harvard.edu/abs/2025ApJ...982L..36X/abstract)
-
-79. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
+82. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
 	"In search for the Local Universe dynamical homogeneity scale with CF4++ peculiar velocities"
 	[2025arXiv250201308C](https://ui.adsabs.harvard.edu/abs/2025arXiv250201308C/abstract)
 
-78. Yu, Haiyang; Zhu, Ming; ***Zhang, Chuan-Peng***; Jiang, Peng; Xu, Jin-Long
+81. Yu, Haiyang; Zhu, Ming; ***Zhang, Chuan-Peng***; Jiang, Peng; Xu, Jin-Long
 	"The FAST Ursa Major cluster HI survey (FUMaS): catalog and HI mass function"
 	[2025arXiv250107836Y](https://ui.adsabs.harvard.edu/abs/2025arXiv250107836Y/abstract)
+
+80. Liu, Xiao-Lan; Xu, Jin-Long; Jiang, Peng; Zhu, Ming; ***Zhang, Chuan-Peng***； Yu, Naiping; Xu, Ye; Guan, Xin; Wang, Jun-Jie
+	"Discovery of a high-velocity cloud of the Milky Way as a potential dark galaxy"
+	[2025arXiv250409419L](https://ui.adsabs.harvard.edu/abs/2025arXiv250409419L/abstract)
+
+79. Ai, Mei; Zhu, Ming; Yu, Nai-ping; Xu, Jin-long; Liu, Xiao-lan; Jing, Yingjie; Jiao, Qian; Liu, Yao; ***Zhang, Chuan-peng***; Wang, Jie; Jiang, Peng
+	"Formation of the Dark Matter–Deficient S0 Galaxy NGC 4111 under the Tidal Interactions"
+	[2025ApJ...982L..52A](https://ui.adsabs.harvard.edu/abs/2025ApJ...982L..52A/abstract)
+
+78. Xu, Jin-Long; Zhu, Ming; Yu, Nai-Ping; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Ai, Mei; Jiang, Peng 
+	"FAST Discovery of a Gas-rich and Ultrafaint Dwarf Galaxy: KK153"
+	[2025ApJ...982L..36X](https://ui.adsabs.harvard.edu/abs/2025ApJ...982L..36X/abstract)
 
 77. Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; ***Zhang, Chuan-Peng***; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng
 	"The H I mass function of the Local Universe: Combining measurements from HIPASS, ALFALFA, and FASHI"
