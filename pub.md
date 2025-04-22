@@ -23,7 +23,7 @@ tagline: "My publication list"
 	"The FAST Ursa Major cluster HI survey (FUMaS): catalog and HI mass function"
 	[2025arXiv250107836Y](https://ui.adsabs.harvard.edu/abs/2025arXiv250107836Y/abstract)
 
-80. Liu, Xiao-Lan; Xu, Jin-Long; Jiang, Peng; Zhu, Ming; ***Zhang, Chuan-Peng***； Yu, Naiping; Xu, Ye; Guan, Xin; Wang, Jun-Jie
+80. Liu, Xiao-Lan; Xu, Jin-Long; Jiang, Peng; Zhu, Ming; ***Zhang, Chuan-Peng***; Yu, Naiping; Xu, Ye; Guan, Xin; Wang, Jun-Jie
 	"Discovery of a high-velocity cloud of the Milky Way as a potential dark galaxy"
 	[2025arXiv250409419L](https://ui.adsabs.harvard.edu/abs/2025arXiv250409419L/abstract)
 
