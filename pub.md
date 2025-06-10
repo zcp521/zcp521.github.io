@@ -21,11 +21,11 @@ tagline: "My publication list"
 
 81. Yu, Haiyang; Zhu, Ming; ***Zhang, Chuan-Peng***; Jiang, Peng; Xu, Jin-Long
 	"The FAST Ursa Major cluster HI survey (FUMaS): catalog and HI mass function"
-	[2025arXiv250107836Y](https://ui.adsabs.harvard.edu/abs/2025arXiv250107836Y/abstract)
+	[2025ApJS..278...37Y](https://ui.adsabs.harvard.edu/abs/2025ApJS..278...37Y/abstract)
 
 80. Liu, Xiao-Lan; Xu, Jin-Long; Jiang, Peng; Zhu, Ming; ***Zhang, Chuan-Peng***; Yu, Naiping; Xu, Ye; Guan, Xin; Wang, Jun-Jie
 	"Discovery of a high-velocity cloud of the Milky Way as a potential dark galaxy"
-	[2025arXiv250409419L](https://ui.adsabs.harvard.edu/abs/2025arXiv250409419L/abstract)
+	[2025SciA...11S4057L](https://ui.adsabs.harvard.edu/abs/2025SciA...11S4057L/abstract)
 
 79. Ai, Mei; Zhu, Ming; Yu, Nai-ping; Xu, Jin-long; Liu, Xiao-lan; Jing, Yingjie; Jiao, Qian; Liu, Yao; ***Zhang, Chuan-peng***; Wang, Jie; Jiang, Peng
 	"Formation of the Dark Matter–Deficient S0 Galaxy NGC 4111 under the Tidal Interactions"
