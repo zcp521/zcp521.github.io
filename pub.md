@@ -14,13 +14,9 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
-84. Nazarova, Aleksandra; Makarov, Dmitry; Karachentsev, Igor; ***Zhang, Chuan-Peng***; Zhu, Ming;
+83. Nazarova, Aleksandra; Makarov, Dmitry; Karachentsev, Igor; ***Zhang, Chuan-Peng***; Zhu, Ming;
 	"Eleven Local Volume dwarf galaxies in the FASHI survey"
 	[2025arXiv250912828N](https://ui.adsabs.harvard.edu/abs/2025arXiv250912828N/abstract)
-
-83. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
-	"In search of the Local Universe dynamical homogeneity scale with CF4++ peculiar velocities"
-	[2025A&A...701A.187C](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.187C/abstract)
 
 82. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
 	"In search of the Local Universe dynamical homogeneity scale with CF4++ peculiar velocities"
