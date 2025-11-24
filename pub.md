@@ -4,6 +4,12 @@ title: "Publications"
 tagline: "My publication list"
 ---
 
+## The FAST All Sky H I Survey (FASHI)
+
+1. ***Zhang, Chuan-Peng***; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.; Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration
+	"The FAST all sky HI survey (FASHI): The first release of catalog"
+	[2024SCPMA..6719511Z](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
+
 ## PhD and Master theses
 
 2. ***Zhang, Chuan-Peng*** ["High-Mass Star Formation and Its Initial Conditions"]({{ site.baseurl }}/pub/thesis_phd.pdf), 2015, University of Chinese Academy of Sciences, supervised by [Prof. Jun-Jie Wang](http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html) and [Prof. Karl Menten](https://blog.mpifr-bonn.mpg.de/karlmenten/)
@@ -16,7 +22,7 @@ tagline: "My publication list"
 
 83. Nazarova, Aleksandra; Makarov, Dmitry; Karachentsev, Igor; ***Zhang, Chuan-Peng***; Zhu, Ming;
 	"Eleven Local Volume dwarf galaxies in the FASHI survey"
-	[2025arXiv250912828N](https://ui.adsabs.harvard.edu/abs/2025arXiv250912828N/abstract)
+	[2025RAA....25l5012N](https://ui.adsabs.harvard.edu/abs/2025RAA....25l5012N/abstract)
 
 82. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
 	"In search of the Local Universe dynamical homogeneity scale with CF4++ peculiar velocities"
