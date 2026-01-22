@@ -24,7 +24,7 @@ tagline: "My publication list"
     Gas Accretion from a Neighbouring Galaxy Fuels the Low-luminosity Active Galactic Nucleus in NGC 4278
     [2026ApJ...997...53X](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...53X/abstract)
 
-87. Cheng, Cheng; Huang, Jia-Sheng; Du, Wei; Zhang, Hong-Xin; ***Zhang, Chuan-Peng; Zhu***, Ming; Orellana, Gustavo
+87. Cheng, Cheng; Huang, Jia-Sheng; Du, Wei; Zhang, Hong-Xin; ***Zhang, Chuan-Peng***; Zhu, Ming; Orellana, Gustavo
     "H I-detected Dwarf Galaxies in the FASHI Survey: Insights from Single- and Double-peaked Emission-line Samples"
     [2025ApJS..281...66C](https://ui.adsabs.harvard.edu/abs/2025ApJS..281...66C/abstract)
 
