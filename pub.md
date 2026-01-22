@@ -20,6 +20,23 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+
+87. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; Zhang, Chuan-Peng; Liu, Xiao-Lan; Jiang, Peng
+    "Deep Neutral Hydrogen Observations of the Early-type Galaxy NGC 2768: Collided by a Newly Discovered Satellite Galaxy?"
+    [2025ApJ...987..109Y](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..109Y/abstract)
+
+86. Ouyang, Xu-Jia; Zhang, Yong; Zijlstra, Albert; ***Zhang, Chuan-Peng***; Nakashima, Jun-ichi; Parker, Quentin A.; Li, Xiao-Hu
+    "FAST Search for Circumstellar Atomic Hydrogen. III. Planetary Nebulae at Galactic Latitudes ∣b∣ ≥ 10°"
+    [2025AJ....170..129O](https://ui.adsabs.harvard.edu/abs/2025AJ....170..129O/abstract)
+
+85. Shao, Yi; Zhang, Yong; Ouyang, Xu-Jia; ***Zhang, Chuan-Peng***
+    "The missing giant: do FAST spectroscopic observations reveal a scarcity of large polycyclic aromatic hydrocarbons in astronomical environments?"
+    [2025MNRAS.542.2639S](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.2639S/abstract)
+
+84. Cheng, Cheng; Huang, Jia-Sheng; Du, Wei; Zhang, Hong-Xin; ***Zhang, Chuan-Peng; Zhu***, Ming; Orellana, Gustavo
+    "H I-detected Dwarf Galaxies in the FASHI Survey: Insights from Single- and Double-peaked Emission-line Samples"
+    [2025ApJS..281...66C](https://ui.adsabs.harvard.edu/abs/2025ApJS..281...66C/abstract)
+
 83. Nazarova, Aleksandra; Makarov, Dmitry; Karachentsev, Igor; ***Zhang, Chuan-Peng***; Zhu, Ming;
 	"Eleven Local Volume dwarf galaxies in the FASHI survey"
 	[2025RAA....25l5012N](https://ui.adsabs.harvard.edu/abs/2025RAA....25l5012N/abstract)
