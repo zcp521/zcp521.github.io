@@ -28,7 +28,7 @@ tagline: "My publication list"
     "H I-detected Dwarf Galaxies in the FASHI Survey: Insights from Single- and Double-peaked Emission-line Samples"
     [2025ApJS..281...66C](https://ui.adsabs.harvard.edu/abs/2025ApJS..281...66C/abstract)
 
-86. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; Zhang, Chuan-Peng; Liu, Xiao-Lan; Jiang, Peng
+86. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Jiang, Peng
     "Deep Neutral Hydrogen Observations of the Early-type Galaxy NGC 2768: Collided by a Newly Discovered Satellite Galaxy?"
     [2025ApJ...987..109Y](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..109Y/abstract)
 
