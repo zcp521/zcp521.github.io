@@ -20,8 +20,12 @@ tagline: "My publication list"
 
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
+89. Xu, Jin-Long; Zhu, Ming; Jiang, Peng; Yu, Nai-Ping; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Ai, Mei; Jing, Yin-Jie; Wang, Jie
+    "Unveiling a Thin Filament of the Cosmic Web in the Ursa Major Supergroup"
+    [2026arXiv260116408X](https://ui.adsabs.harvard.edu/abs/2026arXiv260116408X/abstract)
+
 88. Xu, Jin-Long; Yu, Nai-Ping; Zhu, Ming; ***Zhang, Chuan-Peng***; Liu, Xiao-Lan; Ai, Mei; Jiang, Peng
-    Gas Accretion from a Neighbouring Galaxy Fuels the Low-luminosity Active Galactic Nucleus in NGC 4278
+    "Gas Accretion from a Neighbouring Galaxy Fuels the Low-luminosity Active Galactic Nucleus in NGC 4278"
     [2026ApJ...997...53X](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...53X/abstract)
 
 87. Cheng, Cheng; Huang, Jia-Sheng; Du, Wei; Zhang, Hong-Xin; ***Zhang, Chuan-Peng***; Zhu, Ming; Orellana, Gustavo
