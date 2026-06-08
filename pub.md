@@ -21,10 +21,13 @@ tagline: "My publication list"
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
 
-
-91. Nazarova, Aleksandra E.; Makarov, Dmitry I.; Karachentsev, Igor D.; ***Zhang, Chuan-Peng***; Chazov, Maksim I.; Zhu, Ming
+92. Nazarova, Aleksandra E.; Makarov, Dmitry I.; Karachentsev, Igor D.; ***Zhang, Chuan-Peng***; Chazov, Maksim I.; Zhu, Ming
     "Optical Identification of the FASHI Sources: Toward the Extended Local Volume"
     [2026RAA....26i5018N](https://ui.adsabs.harvard.edu/abs/2026RAA....26i5018N/abstract)
+
+91. Chen, Qing-Ze; Wang, Jie; Jing, Ying-Jie; Hou, Li-Gang; Xu, Chen; Liang, Tian-Tian; Gao, Xu-Yang; Han, Jin-Lin; Liu, Zi-Ming; Liu, Bin; ***Zhang, Chuan-Peng***; Gan, Heng-Qian; Zhu, Ming; Zhu, Yan; Jiang, Peng
+    "HiFAST: An H I data calibration and imaging pipeline for the FAST IV: The stray-radiation correction"
+    [2026ChPhB..35e9501C](https://ui.adsabs.harvard.edu/abs/2026ChPhB..35e9501C/abstract)
 
 90. Feng, Guixiang; Wu, Zhongzu; ***Zhang, Chuan-Peng***; Zhu, Ming
     "H I 21-cm line properties of the nearby luminous infrared galaxy IRAS 04296+2923"
