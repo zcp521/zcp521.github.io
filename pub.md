@@ -21,6 +21,10 @@ tagline: "My publication list"
 ## Peer-reviewed journal papers ([ADS](https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA), [arXiv](https://arxiv.org/a/zhang_c_2.html))
 
 
+93. Li, Ruitian; Wang, Xin; Liu, Daizhong; Shi, Hui; Pang, Yuxuan; Ren, Pengfei; Wang, Shengzhe; Zhu, Ming; Ju, Mengting; Meng, Xiao-Lei; Shu, Xinwen; Tang, Ningyu; Wang, Jing; ***Zhang, Chuan-Peng***; Zhang, Hong-Xin; Zhang, Le; Zheng, Zheng; Li, Fujia; Xu, Chen; Li, Sijia; Yang, Yiming; Zhou, Hang
+    "A Spatially Resolved HI Survey of Seyfert Galaxies: the Role of AGN Feedback in Shaping Atomic Gas Reservoirs"
+    [2026arXiv260512973L](https://ui.adsabs.harvard.edu/abs/2026arXiv260512973L/abstract)
+
 92. Nazarova, Aleksandra E.; Makarov, Dmitry I.; Karachentsev, Igor D.; ***Zhang, Chuan-Peng***; Chazov, Maksim I.; Zhu, Ming
     "Optical Identification of the FASHI Sources: Toward the Extended Local Volume"
     [2026RAA....26i5018N](https://ui.adsabs.harvard.edu/abs/2026RAA....26i5018N/abstract)
