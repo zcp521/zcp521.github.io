@@ -170,12 +170,12 @@ tagline: "The FAST All Sky H I Survey"
 
 1. [【科学网】中国天眼探测并构建世界最大的中性氢星系样本](https://blog.sciencenet.cn/blog-528739-1413561.html)
 2. [【贵大新闻网讯】贵州射电天文台参与中国天眼探测 构建世界最大的中性氢星系样本](http://news.gzu.edu.cn/2023/1211/c11069a210339/page.htm)
-3. [ 【CCTV】中国天眼最新巡天成果发布 探测并构建世界最大中性氢星系样本](https://tv.cctv.com/2023/12/13/VIDEQFOsBrEMP1RpItMx6eG6231213.shtml)
-4. [ 【Xinhua】Chinese scientists build largest-ever neutral hydrogen catalog in deep space](https://english.news.cn/20231213/99a9ce6bcf1b461bb1b319157ab250f2/c.html)
+3. [【CCTV】中国天眼最新巡天成果发布 探测并构建世界最大中性氢星系样本](https://tv.cctv.com/2023/12/13/VIDEQFOsBrEMP1RpItMx6eG6231213.shtml)
+4. [【Xinhua】Chinese scientists build largest-ever neutral hydrogen catalog in deep space](https://english.news.cn/20231213/99a9ce6bcf1b461bb1b319157ab250f2/c.html)
 5. [【知乎】中国天眼探测并构建世界最大的中性氢星系样本，这一巡天成果有哪些意义？](https://www.zhihu.com/question/634798604)
 6. [【虚拟天文台】中国天眼（FAST）中性氢巡天源表：首次发布](https://mp.weixin.qq.com/s/J7i9y-Bz1x353xkEI67zUw)
 7. [【新华网】点赞科技“热词”丨2023那些振奋人心的科技成果](http://news.china.com.cn/2023-12/26/content_116904209.shtml)
-8. [ 【EurekAlert】FASHI releases the largest extragalactic HI catalog with FAST](https://www.eurekalert.org/news-releases/1029943)
+8. [【EurekAlert】FASHI releases the largest extragalactic HI catalog with FAST](https://www.eurekalert.org/news-releases/1029943)
 
 
 ![]({{ site.baseurl }}/img/fashi_pic.png)
