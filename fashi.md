@@ -9,7 +9,23 @@ tagline: "The FAST All Sky H I Survey"
 
 ![]({{ site.baseurl }}/img/fashi_pic.jpg)
 
-***Abstract***: The FAST All Sky HI survey (FASHI, read as /fɑːʃ/ or 法师 in Chinese) was designed to cover the entire sky observable by the Five-hundred-meter Aperture Spherical radio Telescope (FAST), spanning approximately 22000 square degrees of declination between -14 deg and +66 deg, and in the frequency range of 1000-1500 MHz, with the expectation of eventually detecting more than 100000 HI sources. Between August 2020 and June 2023, FASHI had covered more than 7600 square degrees, which is approximately 35% of the total sky observable by FAST. It has a median detection sensitivity of around 0.76 mJy/beam and a spectral line velocity resolution of ~6.4 km/s at a frequency of ~1.4 GHz. As of now, a total of 41741 extragalactic HI sources have been detected in the frequency range 1305.5-1419.5 MHz, corresponding to a redshift limit of z<0.09. By cross-matching FASHI sources with the Siena Galaxy Atlas (SGA) and the Sloan Digital Sky Survey (SDSS) catalogs, we found that 16972 (40.7%) sources have spectroscopic redshifts and 10975 (26.3%) sources have only photometric redshifts. Most of the remaining 13794 (33.0%) HI sources are located in the direction of the Galactic plane, making their optical counterparts difficult to identify due to high extinction or high contamination of Galactic stellar sources. Based on current survey results, the FASHI survey is an unprecedented blind extragalactic HI survey. It has higher spectral and spatial resolution and broader coverage than the Arecibo Legacy Fast ALFA Survey (ALFALFA). When completed, FASHI will provide the largest extragalactic HI catalog and an objective view of HI content and large-scale structure in the local universe.
+***Abstract***: The FAST All Sky HI survey (FASHI, read as /fɑːʃ/ or 法师 in Chinese) 
+        conducted with the Five-hundred-meter Aperture Spherical radio Telescope (FAST) has 
+	    mapped  ∼19 500 deg<sup>2</sup> of the sky north of DEC = −14°, detecting 156 411 extragalactic H I sources at 
+	    z < 0.09 with a median sensitivity of 0.57 mJy beam<sup>−1</sup> at a velocity resolution of 6.4 km s<sup>−1</sup>. 
+		The survey achieves unprecedented depth and area coverage, significantly improving upon previous single-dish 
+		surveys. Through a detailed completeness analysis that accounts for the survey's non-uniform sensitivity 
+		and line-width dependence, we construct a robust H I mass function (HIMF) using a completeness‑corrected 
+		sample of over 109 000 sources. The HIMF is robustly constrained down to <em>M</em><sub>HI</sub> ∼ 
+		10<sup>6.2</sup> <em>M</em><sub>⊙</sub>. When systematic uncertainties are included, the HIMF is well 
+		described by a single-Schechter function with a characteristic mass 
+		log(<em>M</em><sub>s</sub>/<em>h</em><sub>70</sub><sup>−2</sup> <em>M</em><sub>⊙</sub>) = 9.89 ± 0.02, 
+		low-mass end slope α = −1.31±0.02 and amplitude φ<sub>s</sub> = 
+		(6.38±0.49)×10<sup>−3</sup><em>h</em><sub>70</sub><sup>3</sup> Mpc<sup>−3</sup> dex<sup>−1</sup>. 
+		The derived cosmic H I density is Ω<sub>HI</sub> = (4.71 ± 0.03<sub>stat</sub>±0.40<sub>sys</sub>) × 
+		10<sup>−4</sup> <em>h</em><sub>70</sub><sup>−1</sup>. FASHI provides the most extensive and sensitive H I 
+		catalog to date, establishing an important benchmark for studies of gas accretion, galaxy evolution, 
+		and large-scale structure in the local universe.
 
 
 ![]({{ site.baseurl }}/img/fashi.png)
