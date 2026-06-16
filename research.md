@@ -5,12 +5,6 @@ tagline: "My research highlights"
 ---
 
 <style>
-  .research-lead {
-    font-weight: bold;
-    font-size: 1.10em;
-    line-height: 1.6;
-    margin-bottom: 1.5em;
-  }
   .ref-list {
     padding-left: 1.5em;
     text-indent: -1.5em;
@@ -18,9 +12,9 @@ tagline: "My research highlights"
   }
 </style>
 
-<div class="research-lead">
-  My research centers on the baryon cycle across cosmic time—from the initial conditions of high-mass star formation within Milky Way molecular clouds to the large-scale neutral hydrogen (H&thinsp;i) content of galaxies in the nearby Universe. A unifying theme in my work is the use of observational data to understand how gas is accreted, converted, and regulated in galaxies. I have a particular focus on exploiting the unprecedented sensitivity of the Five-hundred-meter Aperture Spherical radio Telescope (FAST) to conduct wide-field H&thinsp;i surveys and to establish a statistical benchmark for galaxy evolution studies.
-</div>
+## Research Overview
+
+My research centers on the baryon cycle across cosmic time—from the initial conditions of high-mass star formation within Milky Way molecular clouds to the large-scale neutral hydrogen (H&thinsp;i) content of galaxies in the nearby Universe. A unifying theme in my work is the use of observational data to understand how gas is accreted, converted, and regulated in galaxies. I have a particular focus on exploiting the unprecedented sensitivity of the Five-hundred-meter Aperture Spherical radio Telescope (FAST) to conduct wide-field H&thinsp;i surveys and to establish a statistical benchmark for galaxy evolution studies.
 
 ## 1. The FASHI Survey: Building the Largest H&thinsp;i Galaxy Database
 
