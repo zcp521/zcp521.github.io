@@ -89,5 +89,5 @@ Additional studies on Giant Molecular Clouds (Zhang et al. 2012) and Infrared Da
 <div class="ref-list">Zhang, C.-P., Cheng, C., Zhu, M., &amp; Jiang, P. 2024a, ApJ, 971, 131</div>
 <div class="ref-list">Zhang, C.-P., Zhu, M., Jiang, P., et al. 2024b, SCPMA, 67, 219511</div>
 <div class="ref-list">Zhang, C.-P., Zhu, M., Jiang, P., et al. 2025, ApJS, 276, 6</div>
-<div class="ref-list">Zhang, C.-P., Zhu, M., Jiang, P., et al. 2026a, SCPMA, 69, 6</div>
+<div class="ref-list">Zhang, C.-P., Zhu, M., Jiang, P., et al. 2026a, SCPMA, submitted</div>
 <div class="ref-list">Zhang, C.-P., Guo, H., Zhu, M., et al. 2026b, Nat. Astron., submitted</div>
