@@ -7,7 +7,7 @@ tagline: "The FAST All Sky H I Survey"
 ## [The FAST All Sky H I Survey (FASHI): the first release of catalog](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
 
 
-![]({{ site.baseurl }}/img/fashi_pic.jpg)
+![]({{ site.baseurl }}/img/fashi_pic.png)
 
 ***Abstract***: The FAST All Sky HI survey (FASHI, read as /fɑːʃ/ or 法师 in Chinese) 
         conducted with the Five-hundred-meter Aperture Spherical radio Telescope (FAST) has 
