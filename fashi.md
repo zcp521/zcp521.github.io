@@ -4,10 +4,10 @@ title: "FASHI-法师"
 tagline: "The FAST All Sky H I Survey"
 ---
 
-## [The FAST All Sky HI Survey DR2: the FASHI Catalog and the HI Mass Function](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
+## [The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
 
 
-***Abstract***: The FAST All Sky HI survey (FASHI, read as /fɑːʃ/ or 法师 in Chinese) 
+***Abstract***: The FAST All Sky H I survey (FASHI, read as /fɑːʃ/ or 法师 in Chinese) 
         conducted with the Five-hundred-meter Aperture Spherical radio Telescope (FAST) has 
 	    mapped  ∼19 500 deg<sup>2</sup> of the sky north of DEC = −14°, detecting 156 411 extragalactic H I sources at 
 	    z < 0.09 with a median sensitivity of 0.57 mJy beam<sup>−1</sup> at a velocity resolution of 6.4 km s<sup>−1</sup>. 
