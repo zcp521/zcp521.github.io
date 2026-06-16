@@ -156,7 +156,7 @@ tagline: "The FAST All Sky H I Survey"
 	"FASHI: A Search for Extragalactic OH Megamasers with FAST"
 	[2024ApJ...971..131Z](https://ui.adsabs.harvard.edu/abs/2024ApJ...971..131Z/abstract)
 
-2. Zhang, Chuan-Peng; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.;
+2. ***Zhang, Chuan-Peng***; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.;
        Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.;
        Huang, M.; Hao, Q.; FAST Collaboration
 	"The FAST all sky HI survey (FASHI): The first release of catalog"
