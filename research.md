@@ -4,163 +4,75 @@ title: "Research"
 tagline: "My research highlights"
 ---
 
+My research centers on the baryon cycle across cosmic time—from the initial conditions of high-mass star formation within Milky Way molecular clouds to the large-scale neutral hydrogen (H&thinsp;i) content of galaxies in the nearby Universe. A unifying theme in my work is the use of observational data to understand how gas is accreted, converted, and regulated in galaxies. I have a particular focus on exploiting the unprecedented sensitivity of the Five-hundred-meter Aperture Spherical radio Telescope (FAST) to conduct wide-field H&thinsp;i surveys and to establish a statistical benchmark for galaxy evolution studies.
 
-<!--
-## 1. [The discovery of an infrared bipolar outflow](http://adsabs.harvard.edu/abs/2012A%26A...540A..95)
--->
-<!--
-On the basis of GLIMPSE data we discovered a proto-stellar system driving a bipolar outﬂow. The bipolar outﬂow closely resembles the shape of an hourglass in the infrared. The total luminosity 5507 Lsun, derived from IRAS fluxes, indicates the ongoing formation of a massive star in this region. The spectral energy distribution (SED) of the driving source is fitted with an online SED fitting tool, which results in a spectral index of about 1.2. This, along with the presence of a bipolar outﬂow, suggests the detection of a Class I protostar. The driving source indicates prominent infrared excesses in color-color diagrams based on archived 2 MASS and GLIMPSE data, which is in line with an early evolutionary stage of the system.
--->
-<!--
-![]({{ site.baseurl }}/img/Bipolar.png)
--->
+## 1. The FASHI Survey: Building the Largest H&thinsp;i Galaxy Database
 
-My previous research is in early high-mass star formation including Giant Molecular Cloud,
-Infrared Dust Bubble, Hyper-Compact H II Region, Infrared Dark Cloud, Large Scale Survey,
-Fragmentation and Deuteration in High-mass Star Formation. With my collaborators, so far
-we have published eleven refereed papers, submitted two manuscripts, and been awarded many
-observational times on different projects and telescopes.
+I am a core leader of the FAST All-Sky H&thinsp;i Survey (FASHI), the most sensitive wide-field H&thinsp;i survey ever conducted<sup>1</sup>. The survey has mapped approximately 19,500 square degrees of the sky and detected over 156,000 extragalactic H&thinsp;i sources at redshifts <i>z</i> &lt; 0.09, with a median sensitivity of 0.57 mJy beam<sup>&minus;1</sup><sup>2</sup>.
 
+FASHI represents a significant advance in our ability to study the atomic gas content of the local Universe. Compared to previous surveys such as ALFALFA, it achieves a five-fold larger sample size and four times greater sensitivity, enabling the first robust measurement of the H&thinsp;i mass function down to 10<sup>6</sup> <i>M</i><sub>&odot;</sub><sup>3,2</sup>. This catalog provides a critical benchmark for studies of gas accretion, galaxy evolution, and large-scale structure. The data reduction is performed using the HiFAST pipeline<sup>4</sup>, with dedicated RFI mitigation techniques developed for FAST's L-band observations<sup>5</sup>.
 
-## 1. Giant Molecular Clouds
+## 2. Cosmic H&thinsp;i Density and the Decline of Star Formation
 
-There are relatively few H<sub>2</sub>CO mappings of large-area giant molecular cloud (GMCs). H<sub>2</sub>CO
-absorption lines are good tracers for low-temperature molecular clouds towards star formation
-regions. The aim of the study was to identify H<sub>2</sub>CO distributions in ambient molecular clouds.
-We reported simultaneous 6-cm H<sub>2</sub>CO absorption lines and H110α radio recombination line
-observations and several large-area mappings at 4.8 GHz on GMCs W49, W3, DR21/W75, and
-NGC2024/NGC2023. (Zhang et al., 2012)
+A central question in galaxy evolution is why cosmic star formation has declined so dramatically over the past several billion years while the total H&thinsp;i reservoir remains relatively stable. Using the unique synergy between FASHI and the Dark Energy Spectroscopic Instrument (DESI), I measured the cosmic H&thinsp;i density (&Omega;<sub>H&thinsp;i</sub>) over the past 4.5 Gyr with unprecedented precision<sup>6</sup>. By stacking H&thinsp;i spectra from 2.5 million DESI galaxies across 12,000 square degrees, I found that &Omega;<sub>H&thinsp;i</sub> declined by only a factor of 1.35 over this period, while the cosmic star formation rate density declined by a factor of 2.46.
 
-![]({{ site.baseurl }}/img/gmc.png)
+This quantitative comparison demonstrates that the late-time decline in star formation is not driven by depletion of the H&thinsp;i reservoir. Instead, the results point to decreasing efficiency in converting H&thinsp;i into molecular hydrogen as the primary cause. This work provides a stringent observational benchmark for models of gas accretion, phase conversion, and star-formation regulation.
 
+## 3. H&thinsp;i Content in the Cosmic Web and Galaxy Environments
 
-## 2. Hyper-Compact HII Regions
+The FASHI catalog also enables statistical studies of how H&thinsp;i traces large-scale structure. FASHI sources broadly follow the filamentary cosmic web seen in optical surveys, yet notable differences exist: optical voids are not devoid of H&thinsp;i galaxies, confirming that H&thinsp;i-selected systems preferentially reside in underdense environments<sup>2</sup>.
 
-The formation of hypercompact (HC) H II regions is an important stage in massive star for-
-mation. Spectral line and continuum observations can explore its dynamic conditions. We
-presented high angular resolution observations carried out with the SMA and VLA toward the
-HC H II region G35.58-0.03. With the 1.3 mm SMA and 1.3 cm VLA, we detected a total of
-about 25 transitions of 8 different species and their isotopologues (CO, CH<sub>3</sub>CN, S<sub>2</sub>O , CH<sub>3</sub>CCH,
-OCS, CS, H30α H38β, and NH<sub>3</sub>). (Zhang et al., 2014)
+I have conducted detailed studies of H&thinsp;i gas in galaxy groups and clusters. Our FAST observations of the NGC&nbsp;5055 group revealed a warped H&thinsp;i disk extending to 61.7 kpc, suggesting ongoing gas stripping<sup>7</sup>. In the Ursa Major cluster, we found a shallower low-mass end slope of the H&thinsp;i mass function, consistent with gas stripping in dense environments<sup>8</sup>. These results provide key observational constraints on environmental quenching mechanisms.
 
-![]({{ site.baseurl }}/img/hchii.png)
+## 4. H&thinsp;i&ndash;Stellar Mass Scaling Relations and Their Evolution
 
+Using the cross-matched FASHI-DESI sample of over 64,000 galaxies, I established precise measurements of the H&thinsp;i gas fraction as a function of stellar mass across a broad mass range, from 10<sup>6</sup> to 10<sup>11</sup> <i>M</i><sub>&odot;</sub><sup>2,6</sup>. The relation exhibits remarkable invariance with redshift, evolving by less than 0.2 dex over the past 4.5 Gyr at fixed stellar mass. This population-wide trend implies that the weak evolution of H&thinsp;i is not the result of compensating changes among different galaxy populations, but rather a fundamental feature of the baryon cycle.
 
-## 3. Infrared Dust Bubbles
+In interacting systems such as the NGC&nbsp;3395/3396 pair, we detected extended gas structures and ring-like tidal features<sup>9</sup>. In the M101 group, we found a significantly extended and asymmetric H&thinsp;i disk<sup>10</sup>. These observations highlight the role of interactions in shaping the gas content of galaxies.
 
-OB type stars have strong ionizing radiation, and drive energetic winds. The ultraviolet (UV)
-radiation from ionizing stars may heat dust and ionize gas to sweep up an expanding bubble
-shell. This shell may be the result of feedback leading to a new generation of stars in bubbles.
-We studied the formation and fragmentation of bubbles S51, N68, N131 with multi-wavelength
-dust and gas observations. Particularly, we propose a scenario in which the bubble N131 forms
-from the disruption of a gas filament by strong stellar winds, and fragments under self-gravity.
-(Zhang & Wang, 2012, 2013; Zhang et al., 2013; Xu et al., 2014; Zhang et al., 2016a)
+## 5. Discovery of Exotic and Elusive H&thinsp;i Sources
 
-![]({{ site.baseurl }}/img/bubble.png)
+The high sensitivity of FAST enables the detection of rare astrophysical objects. Using FASHI data, I have:
 
+- Discovered isolated dark dwarf galaxy candidates<sup>11,12</sup>;
+- Detected over 120 H&thinsp;i absorption line galaxies, with more than 80 being first detections<sup>13</sup>;
+- Identified over 40 OH megamaser sources, with more than 20 being first detections<sup>14</sup>.
 
-## 4. Infrared Dark Cloud
+These discoveries provide unique laboratories for studying dark matter, cold gas dynamics, and galaxy mergers.
 
-Infrared dark clouds (IRDCs) are ubiquitous in the Milky Way, yet they play a crucial role
-in breeding newly-formed stars. With the aim of further understanding the dynamics, chem-
-istry, and evolution of IRDCs, we performed new observations with the IRAM 30 m and 
-CSO10.4 m telescopes, with tracers HCO<sup>+</sup>, HCN, N<sub>2</sub>H<sup>+</sup> , C<sup>18</sup>O, DCO<sup>+</sup>, SiO, and DCN toward
-six IRDCs G031.97+00.07, G033.69-00.01, G034.43+00.24, G035.39-00.33, G038.95-00.47, and
-G053.11+00.05. We observed many blueshifted and redshifted profiles, respectively, with HCO<sup>+</sup>
-and C<sup>18</sup>O toward the same core. This case can be well explained by model “envelope expansion
-with core collapse (EECC)”. (Xu et al., 2016; Zhang et al., 2016b)
+## 6. Early Massive Star Formation in the Milky Way
 
-![]({{ site.baseurl }}/img/irdc.png)
+Prior to my work on extragalactic H&thinsp;i, I studied the initial conditions of high-mass star formation within the Milky Way. This work provided the foundation for my later focus on the baryon cycle, connecting the earliest phases of star formation to the larger-scale evolution of galaxies. My contributions include:
 
+- **Fragmentation of dense cold cores**: Using PdBI and VLA interferometric data, I revealed how massive clumps fragment into cores and condensations across different physical scales<sup>15,16</sup>.
+- **Deuterium chemistry**: Through NH<sub>2</sub>D and other deuterated molecules, I constrained the physical conditions and evolutionary timescales of pre-stellar and protostellar cores<sup>16</sup>.
+- **Triggered star formation**: I investigated how ionizing radiation and stellar winds from massive stars compress molecular gas, triggering new generations of star formation in infrared dust bubbles<sup>17,18,16</sup>.
+- **Large-scale surveys**: I led a subproject of the TOP-SCOPE survey, studying the gas and dust properties of 64 Planck Galactic Cold Clumps<sup>19</sup>.
 
-## 5. Large Scale Survey
+Additional studies on Giant Molecular Clouds<sup>20</sup> and Infrared Dark Clouds<sup>21</sup> further contributed to our understanding of the earliest phases of the star formation process.
 
-TOP-SCOPE are joint survey programs targeting at Planck Cold Clumps. TOP, standing
-for “TRAO Observations of Planck cold clumps”, aims at an unbiased CO survey of 2000
-Planck Galactic Cold Clumps with the TRAO 14-m telesope. SCOPE, standing for “SCUBA-
-2 Continuum Observations of Pre-protostellar Evolution”, is a legacy survey using SCUBA-2
-onboard of the JCMT at East Asia Observatory to survey 1000 Planck galactic cold clumps at
-850 μm. I am leading a subproject to study the gas and dust of 64 Planck Cold Cores in the
-Second Quadrant of the Milky Way.
-
-![]({{ site.baseurl }}/img/milkyway.png)
-
-
-## 6. Fragmentation and triggered star formation
-
-Context. Fragmentation and feedback are two important processes during the early phases of star formation.
-
-Aims. Massive clumps tend to fragment into clusters of cores and condensations, some of which form high-mass stars. In this work,
-we study the structure of massive clumps at different scales, analyze the fragmentation process, and investigate the possibility that
-star formation is triggered by nearby H II regions.
-
-Methods. We present a high angular resolution study of a sample of massive proto-cluster clumps G18.17, G18.21, G23.97N, G23.98,
-G23.44, G23.97S, G25.38, and G25.71. Combining infrared data at 4.5, 8.0, 24, and 70 μm, we use few-arcsecond resolution radio-
-and millimeter interferometric data taken at 1.3 cm, 3.5 mm, 1.3 mm, and 870 μm to study their fragmentation and evolution. Our
-sample is unique in the sense that all the clumps have neighboring H II regions. Taking advantage of that, we test triggered star
-formation using a novel method where we study the alignment of the centres of mass traced by dust emission at multiple scales.
-
-Results. The eight massive clumps, identified based on single dish observations, have masses ranging from 228 to 2279 Msun within an
-effective radius of R eff ∼ 0.5 pc. We detect compact structures towards six out of the eight clumps. The brightest compact structures
-within infrared bright clumps are typically associated with embedded compact radio continuum sources. The smaller scale structures
-of R eff ∼ 0.02 pc observed within each clump are mostly gravitationally bound and massive enough to form at least a B3-B0 type star.
-Many condensations have masses larger than 8 Msun at small scale of R eff ∼ 0.02 pc. We find that the two lowest mass and lowest surface
-density infrared quiet clumps with < 300 Msun do not host any compact sources, calling into question their ability to form high-mass
-stars. Although the clumps are mostly infrared quiet, the dynamical movements are active at clump scale (∼ 1 pc).
-
-Conclusions. We studied the spatial distribution of the gas conditions detected at different scales. For some sources we find hints
-of external triggering, whereas for others we find no significant pattern that indicates triggering is dynamically unimportant. This
-probably indicates that the different clumps go through different evolutionary paths. In this respect, studies with larger samples are
-highly desired.
-
-![]({{ site.baseurl }}/img/fragmentation.png)
-
-
-## 7. Gas dynamics and NH<sub>2</sub>D chemistry in high-mass pre/protocluster clumps
-
-Context. The initial stage of star formation is very difficult to study due to its high density (n H 2 > 10^6 cm^−3 ) and low temperature
-(T dust < 18 K), which lead to many molecules depleted from the gas phase by freezing out onto dust grains. However, the deuterium
-species like the 1 11 -1 01 lines of o-NH<sub>2</sub>D at 85.926 GHz could survive in the extreme condition.
-
-Aims. Deuterated specie NH<sub>2</sub>D as a tracer was observed to probe the initial conditions of high-mass star formation, and high spatial
-resolution observations of NH<sub>3</sub> (1, 1) and (2, 2) are used to investigate the temperature and dynamics of the dense and cold objects.
-
-Methods. We present NH<sub>2</sub>D, NH<sub>3</sub> (1, 1) and (2, 2) observations using PdBI and VLA, respectively, towards eight massive precluster
-clumps (G18.17, G18.21, G23.97N, G23.98, G23.44, G23.97S, G25.38, and G25.71). We use 3D Gaussclumps to extract NH<sub>2</sub>D
-cores and provide a statistical view of their deuterium chemistry.
-
-Results. We find that the NH<sub>2</sub>D cores are gravitationally bound, and can potentially form intermediate- or high-mass stars in future.
-The NH<sub>2</sub>D emission is not associated with either a dust continuum or NH<sub>3</sub> peak position or infrared source, but just surrounding the
-central continuum cores, suggesting that the NH<sub>2</sub>D has been destroyed by the central young stellar object (YSO) due to its heating.
-The NH<sub>2</sub>D cores are likely prestellar or starless cores. We detect extremely high deuterium fractionation of 0.03 6 D frac 6 1.41 with
-a median value of 0.45 ± 0.01. We find that the correlation between D frac and T kin is a positive-correlation from 13 to 16.5 K, but
-anti-correlation from 16.5 to 22 K. The most suitable condition for NH<sub>2</sub>D to take place reaction may be at the temperature of around
-16.5 K. The detected NH<sub>2</sub>D lines are very narrow with a median value of around 0.94 ± 0.09 km/s, which is regulated by turbulent
-broadening. Using NH<sub>3</sub> (1, 1) as a dynamical tracer, we find very complicated dynamical movement towards all the eight clumps, as
-can be explained by processes such as outflow, rotation, convergent flow, collision, and large velocity gradient.
-
-Conclusions. The sample generally exhibit clear signatures of Keplerian disk, suggesting that the accretion rate could be increasing
-gradually from prestellar core to evolved source stages.
-
-![]({{ site.baseurl }}/img/pdbi_spectra.png)
-
+---
 
 ## References
 
-Xu, J.-L., Li, D., Zhang, C.-P., et al. 2016, ApJ, 819, 117
-
-Xu, J.-L., Wang, J.-J., Ning, C.-C., & Zhang, C.-P. 2014, Research in Astronomy and Astrophysics, 14, 47
-
-Zhang, C.-P., Esimbek, J., Zhou, J. J., Wu, G., & Du, Z. M. 2012, Ap&SS, 337, 283
-
-Zhang, C.-P., Li, G.-X., Wyrowski, F., et al. 2016a, A&A, 585, A117
-
-Zhang, C.-P. & Wang, J. J. 2012, A&A, 544, A11
-
-Zhang, C.-P. & Wang, J.-J. 2013, Research in Astronomy and Astrophysics, 13, 47
-
-Zhang, C.-P., Wang, J.-J., & Xu, J.-L. 2013, A&A, 550, A117
-
-Zhang, C.-P., Wang, J.-J., Xu, J.-L., Wyrowski, F., & Menten, K. M. 2014, ApJ, 784, 107
-
-Zhang, C.-P., Yuan, J.-H., Li, G.-X., Zhou, J.-J., & Wang, J.-J. 2016b, ArXiv: 1611.08794
+1. Zhang, C.-P., Zhu, M., Jiang, P., et al. 2024b, SCPMA, 67, 219511  
+2. Zhang, C.-P., Zhu, M., Jiang, P., et al. 2026a, SCPMA, 69, 6  
+3. Ma, W., Guo, H., Xu, H., et al. 2025, A&A, 695, A241  
+4. Jing, Y., Wang, J., Xu, C., et al. 2024, SCPMA, 67, 259514  
+5. Zhang, C.-P., Xu, J.-L., Wang, J., et al. 2022, RAA, 22, 025015  
+6. Zhang, C.-P., Guo, H., Zhu, M., et al. 2026b, Nat. Astron., submitted  
+7. Liu, X.-L., Zhu, M., Xu, J.-L., et al. 2024, RAA, 24, 075020  
+8. Yu, H., Zhu, M., Zhang, C.-P., et al. 2025, arXiv:2501.07836  
+9. Yu, N.-P., Zhu, M., Xu, J.-L., et al. 2024, MNRAS, 532, 1744  
+10. Xu, J.-L., Zhang, C.-P., Yu, N., et al. 2021, ApJ, 922, 53  
+11. Xu, J.-L., Zhu, M., Yu, N., et al. 2023a, ApJL, 944, L40  
+12. Liu, X.-L., Xu, J.-L., Jiang, P., et al. 2025, Sci. Adv., 11, eads4057  
+13. Zhang, C.-P., Zhu, M., Jiang, P., et al. 2025, ApJS, 276, 6  
+14. Zhang, C.-P., Cheng, C., Zhu, M., & Jiang, P. 2024a, ApJ, 971, 131  
+15. Zhang, C.-P., Wang, J.-J., Xu, J.-L., Wyrowski, F., & Menten, K. M. 2014, ApJ, 784, 107  
+16. Zhang, C.-P., Li, G.-X., Wyrowski, F., et al. 2016a, A&A, 585, A117  
+17. Zhang, C.-P. & Wang, J. J. 2012, A&A, 544, A11  
+18. Zhang, C.-P., Wang, J.-J., & Xu, J.-L. 2013, A&A, 550, A117  
+19. Zhang, C.-P., Yuan, J.-H., Li, G.-X., et al. 2016b, arXiv:1611.08794  
+20. Zhang, C.-P., Esimbek, J., Zhou, J. J., et al. 2012, Ap&SS, 337, 283  
+21. Xu, J.-L., Li, D., Zhang, C.-P., et al. 2016, ApJ, 819, 117
