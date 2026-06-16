@@ -29,7 +29,6 @@ tagline: "The FAST All Sky H I Survey"
 ![]({{ site.baseurl }}/img/fashi.png)
 
 ***FASHI DR2 technical details***:
-<h3>FASHI DR2 Technical Details</h3>
 
 <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem; margin: 1.5rem 0;">
   <thead>
