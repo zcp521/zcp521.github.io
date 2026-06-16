@@ -128,39 +128,39 @@ tagline: "The FAST All Sky H I Survey"
 
 ***Important publications related to FASHI***:
 
-9. Zhang, Chuan-Peng; Cheng, Cheng; Zhu, Ming; Jiang, Peng
-	"FASHI: A search for extragalactic OH megamasers with FAST"
-	[2024arXiv240115397Z](https://ui.adsabs.harvard.edu/abs/2024arXiv240115397Z/abstract)
-      
-8. Zhang, Chuan-Peng; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.;
+9. Cheng, Cheng; Huang, Jia-Sheng; Du, Wei; Zhang, Hong-Xin; ***Zhang, Chuan-Peng***; Zhu, Ming; Orellana, Gustavo
+    "H I-detected Dwarf Galaxies in the FASHI Survey: Insights from Single- and Double-peaked Emission-line Samples"
+    [2025ApJS..281...66C](https://ui.adsabs.harvard.edu/abs/2025ApJS..281...66C/abstract)
+
+8. Nazarova, Aleksandra; Makarov, Dmitry; Karachentsev, Igor; ***Zhang, Chuan-Peng***; Zhu, Ming;
+	"Eleven Local Volume dwarf galaxies in the FASHI survey"
+	[2025RAA....25l5012N](https://ui.adsabs.harvard.edu/abs/2025RAA....25l5012N/abstract)
+
+7. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
+	"In search of the Local Universe dynamical homogeneity scale with CF4++ peculiar velocities"
+	[2025A&A...701A.187C](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.187C/abstract)
+
+6. Yu, Haiyang; Zhu, Ming; ***Zhang, Chuan-Peng***; Jiang, Peng; Xu, Jin-Long
+	"The FAST Ursa Major cluster HI survey (FUMaS): catalog and HI mass function"
+	[2025ApJS..278...37Y](https://ui.adsabs.harvard.edu/abs/2025ApJS..278...37Y/abstract)
+
+5. Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; ***Zhang, Chuan-Peng***; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng
+	"The H I mass function of the Local Universe: Combining measurements from HIPASS, ALFALFA, and FASHI"
+	[2025A&A...695A.241M](https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.241M/abstract)
+
+4. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
+	"FASHI: An untargeted survey of the 21 cm HI absorption galaxies with FAST"
+	[2025ApJS..276....6Z](https://ui.adsabs.harvard.edu/abs/2025ApJS..276....6Z/abstract)
+
+3. ***Zhang, Chuan-Peng***; Cheng, Cheng; Zhu, Ming; Jiang, Peng
+	"FASHI: A Search for Extragalactic OH Megamasers with FAST"
+	[2024ApJ...971..131Z](https://ui.adsabs.harvard.edu/abs/2024ApJ...971..131Z/abstract)
+
+2. Zhang, Chuan-Peng; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.;
        Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.;
        Huang, M.; Hao, Q.; FAST Collaboration
 	"The FAST all sky HI survey (FASHI): The first release of catalog"
 	[2024SCPMA..6719511Z](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
-
-7. Ai, Mei; Zhu, Ming; Xu, Jin-long; Wang, Jie; Jing, Ying-jie; Yu, Hai-yang; Jiang, Peng
-	"High-sensitivity H I mapping of NGC 4449 with FAST"
-	[2023MNRAS.524.2911A](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.2911A/abstract)
-
-6. Zhou, Ruilei; Zhu, Ming; Yang, Yanbin; Yu, Haiyang; Yuan, Lixia; Jiang, Peng; Xi, Wenzhe
-	"FAST Reveals New Evidence for M94 as a Merger"
-	[2023ApJ...952..130Z](https://ui.adsabs.harvard.edu/abs/2023ApJ...952..130Z/abstract)
-
-5. Liu, Yao; Zhu, Ming; Yu, Haiyang; Ai, Mei; Jiang, Peng; Liu, Siqi; Yuan, Lixia
-	"FAST discovery of long tidal tails in NGC 4490/85"
-	[2023MNRAS.523.3905L](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.3905L/abstract)
-
-4. Yu, Haiyang; Zhu, Ming; Xu, Jin-Long; Ai, Mei; Jiang, Peng; Yang, Yanbin
-	"High-sensitivity H I image of diffuse gas and new tidal features in M51 observed by FAST"
-	[2023MNRAS.521.2719Y](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.2719Y/abstract)
-
-3. Yu, Nai-Ping; Zhu, Ming; Xu, Jin-Long; Zhang, Chuan-Peng; Liu, Xiao-Lan; Jiang, Peng; Wang, Jun-Jie
-	"FAST discovery of an extra plume in DDO 168"
-	[2023MNRAS.521..737Y](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521..737Y/abstract)
-
-2. Zhang, Chuan-Peng; Jiang, Peng; Zhu, Ming; Pan, Jun; Cheng, Cheng; Liu, Hong-Fei; Zhu, Yan; Sun, Chun; FAST Collaboration
-	"Performance of FAST with an Ultra-Wide Bandwidth Receiver at 500-3300 MHz"
-	[2023RAA....23g5016Z](https://ui.adsabs.harvard.edu/abs/2023RAA....23g5016Z/abstract)
 
 1. Zhu, Ming; Yu, Haiyang; Wang, Jie; Xu, Jin-Long; Du, Wei; Yuan, Lixia; Wang, Jing; Jing, Yingjie; Ai, Mei; Jiang, Peng
 	"FAST Discovery of a Long H I Accretion Stream toward M106"
