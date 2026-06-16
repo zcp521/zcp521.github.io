@@ -92,6 +92,6 @@ Zhang, C.-P., Zhu, M., Jiang, P., et al. 2024b, SCPMA, 67, 219511
 
 Zhang, C.-P., Zhu, M., Jiang, P., et al. 2025, ApJS, 276, 6
 
-Zhang, C.-P., Zhu, M., Jiang, P., et al. 2026a, SCPMA, 69, 6
+Zhang, C.-P., Zhu, M., Jiang, P., et al. 2026a, SCPMA, submitted
 
 Zhang, C.-P., Guo, H., Zhu, M., et al. 2026b, Nat. Astron., submitted
