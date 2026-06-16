@@ -126,7 +126,7 @@ tagline: "The FAST All Sky H I Survey"
 5. The complete Table 5 containing 2900 sources can be accessed in [The identified optical counterparts from the SDSS spectroscopic catalog]({{site.baseurl}}/img/Table5-The_identified_optical_counterparts_from_the_SDSS_spectroscopic_catalog.csv)
 6. The complete Table 6 containing 10975 sources can be accessed in [The identified optical counterparts from the SDSS photometric catalog]({{site.baseurl}}/img/Table6-The_identified_optical_counterparts_from_the_SDSS_photometric_catalog.csv)
 
-***Publications related to FASHI***:
+***Important publications related to FASHI***:
 
 9. Zhang, Chuan-Peng; Cheng, Cheng; Zhu, Ming; Jiang, Peng
 	"FASHI: A search for extragalactic OH megamasers with FAST"
