@@ -128,43 +128,27 @@ tagline: "The FAST All Sky H I Survey"
 
 ***Important publications related to FASHI***:
 
-9. Cheng, Cheng; Huang, Jia-Sheng; Du, Wei; Zhang, Hong-Xin; ***Zhang, Chuan-Peng***; Zhu, Ming; Orellana, Gustavo
-    "H I-detected Dwarf Galaxies in the FASHI Survey: Insights from Single- and Double-peaked Emission-line Samples"
-    [2025ApJS..281...66C](https://ui.adsabs.harvard.edu/abs/2025ApJS..281...66C/abstract)
-
-8. Nazarova, Aleksandra; Makarov, Dmitry; Karachentsev, Igor; ***Zhang, Chuan-Peng***; Zhu, Ming;
-	"Eleven Local Volume dwarf galaxies in the FASHI survey"
-	[2025RAA....25l5012N](https://ui.adsabs.harvard.edu/abs/2025RAA....25l5012N/abstract)
-
-7. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
+5. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
 	"In search of the Local Universe dynamical homogeneity scale with CF4++ peculiar velocities"
 	[2025A&A...701A.187C](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.187C/abstract)
 
-6. Yu, Haiyang; Zhu, Ming; ***Zhang, Chuan-Peng***; Jiang, Peng; Xu, Jin-Long
-	"The FAST Ursa Major cluster HI survey (FUMaS): catalog and HI mass function"
-	[2025ApJS..278...37Y](https://ui.adsabs.harvard.edu/abs/2025ApJS..278...37Y/abstract)
-
-5. Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; ***Zhang, Chuan-Peng***; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng
+4. Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; ***Zhang, Chuan-Peng***; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng
 	"The H I mass function of the Local Universe: Combining measurements from HIPASS, ALFALFA, and FASHI"
 	[2025A&A...695A.241M](https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.241M/abstract)
 
-4. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
+3. ***Zhang, Chuan-Peng***; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo
 	"FASHI: An untargeted survey of the 21 cm HI absorption galaxies with FAST"
 	[2025ApJS..276....6Z](https://ui.adsabs.harvard.edu/abs/2025ApJS..276....6Z/abstract)
 
-3. ***Zhang, Chuan-Peng***; Cheng, Cheng; Zhu, Ming; Jiang, Peng
+2. ***Zhang, Chuan-Peng***; Cheng, Cheng; Zhu, Ming; Jiang, Peng
 	"FASHI: A Search for Extragalactic OH Megamasers with FAST"
 	[2024ApJ...971..131Z](https://ui.adsabs.harvard.edu/abs/2024ApJ...971..131Z/abstract)
 
-2. ***Zhang, Chuan-Peng***; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.;
+1. ***Zhang, Chuan-Peng***; Zhu, M. ; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J. -L.; Liu, X. -L.;
        Yu, N. -P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.;
        Huang, M.; Hao, Q.; FAST Collaboration
 	"The FAST all sky HI survey (FASHI): The first release of catalog"
 	[2024SCPMA..6719511Z](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
-
-1. Zhu, Ming; Yu, Haiyang; Wang, Jie; Xu, Jin-Long; Du, Wei; Yuan, Lixia; Wang, Jing; Jing, Yingjie; Ai, Mei; Jiang, Peng
-	"FAST Discovery of a Long H I Accretion Stream toward M106"
-	[2021ApJ...922L..21Z](https://ui.adsabs.harvard.edu/abs/2021ApJ...922L..21Z/abstract)
 
 ***News related to FASHI***:
 
