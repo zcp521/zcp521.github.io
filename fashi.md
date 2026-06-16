@@ -128,10 +128,6 @@ tagline: "The FAST All Sky H I Survey"
 
 ***Important publications related to FASHI***:
 
-5. Courtois, Helene M.; Mould, Jeremy; Hollinger, Amber M.; Dupuy, Alexandra; ***Zhang, Chuan-Peng***
-	"In search of the Local Universe dynamical homogeneity scale with CF4++ peculiar velocities"
-	[2025A&A...701A.187C](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.187C/abstract)
-
 4. Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; ***Zhang, Chuan-Peng***; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng
 	"The H I mass function of the Local Universe: Combining measurements from HIPASS, ALFALFA, and FASHI"
 	[2025A&A...695A.241M](https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.241M/abstract)
