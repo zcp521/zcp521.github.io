@@ -117,7 +117,7 @@ tagline: "The FAST All Sky H I Survey"
   <strong>Notes:</strong> The definitions of the spectral rms σ<sub>rms</sub> and the per-source detection sensitivity f<sub>σ</sub> are provided in Column 9 of Section 2.4.
 </p>
 
-***Supplementary materials***:
+***FASHI DR1 Supplementary materials***:
 
 1. The full paper can be downloaded in [The FAST All Sky HI Survey (FASHI): the first release of catalog]({{site.baseurl}}/pub/fashi.pdf)
 2. The complete Table 2 containing 41741 sources can be accessed in [FASHI extragalactic HI source catalog]({{site.baseurl}}/img/Table2-FASHI_extragalactic_HI_source_catalog.csv)
