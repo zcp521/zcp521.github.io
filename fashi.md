@@ -4,10 +4,8 @@ title: "FASHI-法师"
 tagline: "The FAST All Sky H I Survey"
 ---
 
-## [The FAST All Sky H I Survey (FASHI): the first release of catalog](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
+## [The FAST All Sky HI Survey DR2: the FASHI Catalog and the HI Mass Function](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract)
 
-
-![]({{ site.baseurl }}/img/fashi_pic.png)
 
 ***Abstract***: The FAST All Sky HI survey (FASHI, read as /fɑːʃ/ or 法师 in Chinese) 
         conducted with the Five-hundred-meter Aperture Spherical radio Telescope (FAST) has 
@@ -30,85 +28,95 @@ tagline: "The FAST All Sky H I Survey"
 
 ![]({{ site.baseurl }}/img/fashi.png)
 
-***FASHI technical details***:
-<table border="0">
-    <tr>
-        <th>Parameters</th>
-        <th>Values</th>
+***FASHI DR2 technical details***:
+<h3>FASHI DR2 Technical Details</h3>
+
+<table style="width: 100%; border-collapse: collapse; font-size: 0.95rem; margin: 1.5rem 0;">
+  <thead>
+    <tr style="background-color: #f0f0f0; border-bottom: 2px solid #333;">
+      <th style="padding: 10px 15px; text-align: left; font-weight: bold;">Parameters</th>
+      <th style="padding: 10px 15px; text-align: left; font-weight: bold;">Values</th>
     </tr>
-    <tr>
-        <td>Planed RA range</td>
-        <td>0<sup>h</sup> ≤ RA ≤ 24<sup>h</sup> (see Figure 1)</td>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">RA range</td>
+      <td style="padding: 8px 15px;">0<sup>h</sup> ≤ RA ≤ 24<sup>h</sup></td>
     </tr>
-    <tr>
-        <td>Planed DEC range</td>
-        <td>-14<sup>◦</sup> ≤ DEC ≤ +66<sup>◦</sup> (see Figure 1)</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">DEC range</td>
+      <td style="padding: 8px 15px;">-14° ≲ DEC ≲ +66°</td>
     </tr>
-    <tr>
-        <td>Current DEC range</td>
-        <td>0<sup>h</sup> ≤ RA ≤ 17.3<sup>h</sup>, 22<sup>h</sup> ≤ RA ≤ 24<sup>h</sup> </td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Receiver</td>
+      <td style="padding: 8px 15px;">19-beam array</td>
     </tr>
-    <tr>
-        <td>Current DEC range</td>
-        <td>-6<sup>◦</sup> ≤ DEC ≤ 0<sup>◦</sup>, 30<sup>◦</sup> ≤ DEC ≤ +66<sup>◦</sup> </td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Polarizations per beam</td>
+      <td style="padding: 8px 15px;">2 linear (XX, YY)</td>
     </tr>
-    <tr>
-        <td>Receiver</td>
-        <td>19-beam array</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Beam size (FWHM)</td>
+      <td style="padding: 8px 15px;">2.9 arcmin at 1420 MHz</td>
     </tr>
-    <tr>
-        <td>Polarizations per beam</td>
-        <td>2 linear (XX, YY)</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Gain</td>
+      <td style="padding: 8px 15px;">13-17 K Jy<sup>-1</sup></td>
     </tr>
-    <tr>
-        <td>Beam size (FWHM)</td>
-        <td>2.9 arcmin at 1420 MHz</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">T<sub>sys</sub></td>
+      <td style="padding: 8px 15px;">16-19 K</td>
     </tr>
-    <tr>
-        <td>Gain</td>
-        <td>13-17 K/Jy</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Total frequency coverage</td>
+      <td style="padding: 8px 15px;">1050-1450 MHz</td>
     </tr>
-    <tr>
-        <td>T<sub>sys</sub> </td>
-        <td>16-19 K</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Released frequency range</td>
+      <td style="padding: 8px 15px;">1305.7-1422.8 MHz</td>
     </tr>
-    <tr>
-        <td>Total frequency coverage</td>
-        <td>1050-1450 MHz</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">cz<sub>⊙</sub> range</td>
+      <td style="padding: 8px 15px;">-510.0 to 26320.6 km s<sup>-1</sup></td>
     </tr>
-    <tr>
-        <td>Released frequency range</td>
-        <td>1305.5-1419.5 MHz (in this work)</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Redshift z range</td>
+      <td style="padding: 8px 15px;">z &lt; 0.0878</td>
     </tr>
-    <tr>
-        <td>cz range</td>
-        <td>200-26323 km/s (in this work)</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Spectral channels</td>
+      <td style="padding: 8px 15px;">65536 (before smoothing)</td>
     </tr>
-    <tr>
-        <td>Bandwidth (total)</td>
-        <td>400 MHz</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Channel spacing</td>
+      <td style="padding: 8px 15px;">7.629 kHz or 1.6 km s<sup>-1</sup> at 1420 MHz</td>
     </tr>
-    <tr>
-        <td>Spectral channels</td>
-        <td>65536 (before smoothing)</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Spectral resolution</td>
+      <td style="padding: 8px 15px;">6.4 km s<sup>-1</sup> (after smoothing)</td>
     </tr>
-    <tr>
-        <td>Channel spacing</td>
-        <td>7.629 kHz or 1.6 km/s</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Median rms σ<sub>rms</sub></td>
+      <td style="padding: 8px 15px;">~1.04 mJy at 6.4 km s<sup>-1</sup> resolution</td>
     </tr>
-    <tr>
-        <td>Spectral resolution</td>
-        <td>6.4 km/s (after smoothing)</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Median sensitivity f<sub>σ</sub></td>
+      <td style="padding: 8px 15px;">~0.57 mJy beam<sup>-1</sup> at 6.4 km s<sup>-1</sup> resolution</td>
     </tr>
-    <tr>
-        <td>Spectral median rms</td>
-        <td> ∼1.50 mJy at 6.4 km/s resolution</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px 15px;">Coverage area</td>
+      <td style="padding: 8px 15px;">19,500 deg<sup>2</sup></td>
     </tr>
-    <tr>
-        <td>Map median sensitivity</td>
-        <td>∼0.76 mJy/beam at 6.4 km/s resolution</td>
+    <tr style="border-bottom: 2px solid #333;">
+      <td style="padding: 8px 15px; font-weight: bold;">Source number</td>
+      <td style="padding: 8px 15px; font-weight: bold;">156,411</td>
     </tr>
+  </tbody>
 </table>
+
+<p style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">
+  <strong>Notes:</strong> The definitions of the spectral rms σ<sub>rms</sub> and the per-source detection sensitivity f<sub>σ</sub> are provided in Column 9 of Section 2.4.
+</p>
 
 ***Supplementary materials***:
 
@@ -169,3 +177,10 @@ tagline: "The FAST All Sky H I Survey"
 6. [【虚拟天文台】中国天眼（FAST）中性氢巡天源表：首次发布](https://mp.weixin.qq.com/s/J7i9y-Bz1x353xkEI67zUw)
 7. [【新华网】点赞科技“热词”丨2023那些振奋人心的科技成果](http://news.china.com.cn/2023-12/26/content_116904209.shtml)
 8. [【EurekAlert】FASHI releases the largest extragalactic HI catalog with FAST](https://www.eurekalert.org/news-releases/1029943)
+
+
+![]({{ site.baseurl }}/img/fashi_pic.png)
+
+
+
+
