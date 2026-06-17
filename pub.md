@@ -3,7 +3,6 @@ layout: default
 title: "Every image is a footprint of a fleeting moment."
 tagline: "&nbsp;"
 ---
-<div style="max-width: 1000px; margin: 0 auto; padding: 0 1rem;">
 <style>
   .pub-page {
     max-width: 1000px;
