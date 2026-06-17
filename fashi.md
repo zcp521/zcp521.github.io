@@ -50,7 +50,7 @@ tagline: "&nbsp;"
   <section style="margin-bottom: 2.5rem; padding: 0 1rem;">
     <h2 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem;">
       <a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank" style="color: #1e6bb8; text-decoration: none;">
-        The FAST all sky H I survey (FASHI DR1): The first release of catalog
+        The FAST All Sky H I Survey DR1: The first release of catalog
       </a>
     </h2>
 
