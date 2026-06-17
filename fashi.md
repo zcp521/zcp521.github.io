@@ -7,7 +7,7 @@ tagline: "&nbsp;"
 
   <!-- 页眉区域 -->
   <header style="text-align: center; padding: 2rem 0 1rem 0; border-bottom: 3px solid #159957; margin-bottom: 2rem;">
-    <h1 style="font-size: 2.8rem; margin-bottom: 0.1rem; color: #159957;">FASHI</h1>
+    <h1 style="font-size: 2.8rem; margin-bottom: 0.2rem; color: #159957;">FASHI</h1>
     <p style="font-size: 1.3rem; color: #555; margin-top: 0;">The FAST All Sky H I Survey</p>
     <p style="font-size: 1.0rem; color: #777; font-style: italic;">读作 /fɑːʃ/ 或 “法师”</p>
   </header>
