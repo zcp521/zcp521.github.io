@@ -3,7 +3,7 @@ layout: moments
 title: "Time flies, but memories last forever."
 tagline: "&nbsp;"
 ---
-
+<div style="max-width: 1000px; margin: 0 auto; padding: 0 1rem;">
 <style>
   .photo-grid {
     display: grid;
