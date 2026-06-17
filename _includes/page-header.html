@@ -1,4 +1,7 @@
-<section class="page-header"  style="background-image: url('{{ site.baseurl }}/{{ site.header-img }}')">
+<section class="page-header" style="background-image: url('{{ site.baseurl }}/{{ site.header-img }}'); background-size: cover; background-position: center;">
+  <!-- 透明占位块：用来把内容顶下去，但背景不变 -->
+  <div style="height: 3rem;"></div>
+  
   <h1 class="moments-name">{{page.title }}</h1>
   <h2 class="moments-tagline">{{page.tagline}}</h2>
   <a href={{ site.baseurl }}/index.html class="btn">Home</a>
