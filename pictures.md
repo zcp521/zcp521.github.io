@@ -1,89 +1,244 @@
 ---
 layout: moments
 title: "Pictures"
-tagline: "Probing my daily time" 
+tagline: "Probing my daily time"
 ---
 
-21. Heidelberg from Philosophenweg @16.06.2018
-    <img src="/img/view_hd.jpg" width="100%">
-    <br />
+<style>
+  .photo-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    padding: 0.5rem 0;
+  }
 
-20. Schwetzingen @08.04.2018
-    <img src="/img/Schwetzingen.jpg" width="100%">
-    <br />
+  .photo-item {
+    background: #f9f9f9;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
 
-19. FIRA St. Gerasimos Christian Church @14.02.2018
-    <img src="/img/Church.jpg" width="100%">
-    <br />
+  .photo-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.14);
+  }
 
-18. Happy New Year！@Heidelberg Castle @31.12.2017
-    <img src="/img/castle.jpg" width="100%">
-    <br />
+  .photo-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
 
-17. CCOSMA on Yangbajing, Tibet
-    <img src="/img/CCOSMA.JPG" width="100%">
-    <br />
+  .photo-caption {
+    padding: 0.8rem 1.2rem;
+    font-size: 0.95rem;
+    color: #333;
+    background: #f9f9f9;
+    border-top: 1px solid #eee;
+    font-weight: 500;
+  }
 
-16. Prayer on Jokhang (chin. 大昭寺), Lhasa, Tibet
-    <img src="/img/prayer.JPG" width="100%">
-    <br />
+  .photo-caption .number {
+    display: inline-block;
+    background: #159957;
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: bold;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 0.6rem;
+  }
 
-15. Night at MPIA
-    <img src="/img/Night_mpia.jpg" width="100%">
-    <br />
+  /* 响应式：中等屏幕两列 */
+  @media (min-width: 600px) {
+    .photo-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+    }
+  }
 
-14. Yehliu Geopark on the north coast of Taiwan
-    <img src="/img/Yehliu.JPG" width="100%">
-    <br />
+  /* 大屏幕三列 */
+  @media (min-width: 1000px) {
+    .photo-grid {
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 2rem;
+    }
+  }
+</style>
 
-13. Plant inside the greenhouse (my bed room)
-    <img src="/img/plant.jpg" width="100%">
-    <br />
+<div class="photo-grid">
 
-12. Running
-    <img src="/img/running.JPG" width="100%">
-    <br />
+  <!-- 21 -->
+  <div class="photo-item">
+    <img src="/img/view_hd.jpg" alt="Heidelberg from Philosophenweg">
+    <div class="photo-caption">
+      <span class="number">21</span> Heidelberg from Philosophenweg &middot; 16.06.2018
+    </div>
+  </div>
 
-11. Telescope
-    <img src="/img/Zhang.jpg" width="100%">
-    <br />
+  <!-- 20 -->
+  <div class="photo-item">
+    <img src="/img/Schwetzingen.jpg" alt="Schwetzingen">
+    <div class="photo-caption">
+      <span class="number">20</span> Schwetzingen &middot; 08.04.2018
+    </div>
+  </div>
 
-10. Snow at MPIA
-    <img src="/img/snow_mpia.jpg" width="100%">
-    <br />
+  <!-- 19 -->
+  <div class="photo-item">
+    <img src="/img/Church.jpg" alt="FIRA St. Gerasimos Christian Church">
+    <div class="photo-caption">
+      <span class="number">19</span> FIRA St. Gerasimos Christian Church &middot; 14.02.2018
+    </div>
+  </div>
 
-9.  Bus stop at Sternwarte, Königstuhl
-    <img src="/img/Sternwarte.jpg" width="100%">
-    <br />
+  <!-- 18 -->
+  <div class="photo-item">
+    <img src="/img/castle.jpg" alt="Heidelberg Castle">
+    <div class="photo-caption">
+      <span class="number">18</span> Happy New Year! Heidelberg Castle &middot; 31.12.2017
+    </div>
+  </div>
 
-8.  House at Königstuhl in Winter
-    <img src="/img/house.jpg" width="100%">
-    <br />
+  <!-- 17 -->
+  <div class="photo-item">
+    <img src="/img/CCOSMA.JPG" alt="CCOSMA on Yangbajing, Tibet">
+    <div class="photo-caption">
+      <span class="number">17</span> CCOSMA on Yangbajing, Tibet
+    </div>
+  </div>
 
-7.  House at Königstuhl in Autumn
-    <img src="/img/house1.jpg" width="100%">
-    <br />
+  <!-- 16 -->
+  <div class="photo-item">
+    <img src="/img/prayer.JPG" alt="Prayer on Jokhang, Lhasa">
+    <div class="photo-caption">
+      <span class="number">16</span> Prayer on Jokhang (大昭寺), Lhasa, Tibet
+    </div>
+  </div>
 
-6.  Heidelberg Night viewed from Königstuhl
-    <img src="/img/heidelberg_night.jpg" width="100%">
-    <br />
+  <!-- 15 -->
+  <div class="photo-item">
+    <img src="/img/Night_mpia.jpg" alt="Night at MPIA">
+    <div class="photo-caption">
+      <span class="number">15</span> Night at MPIA
+    </div>
+  </div>
 
-5.  Mannheimer Wasserturm
-    <img src="/img/Mannheimer_Wasserturm.jpg" width="100%">
-    <br />
+  <!-- 14 -->
+  <div class="photo-item">
+    <img src="/img/Yehliu.JPG" alt="Yehliu Geopark">
+    <div class="photo-caption">
+      <span class="number">14</span> Yehliu Geopark on the north coast of Taiwan
+    </div>
+  </div>
 
-4.  Rainbow at MPIA
-    <img src="/img/rainbow.jpg" width="100%">
-    <br />
+  <!-- 13 -->
+  <div class="photo-item">
+    <img src="/img/plant.jpg" alt="Plant inside the greenhouse">
+    <div class="photo-caption">
+      <span class="number">13</span> Plant inside the greenhouse (my bed room)
+    </div>
+  </div>
 
-3.  JCMT and CSO at Mauna Kea, Hawaii
-    <img src="/img/jcmt.jpg" width="100%">
-    <br />
+  <!-- 12 -->
+  <div class="photo-item">
+    <img src="/img/running.JPG" alt="Running">
+    <div class="photo-caption">
+      <span class="number">12</span> Running
+    </div>
+  </div>
 
-2.  Telescope at Mauna Kea, Hawaii
-    <img src="/img/telescope_mk.jpg" width="100%">
-    <br />
+  <!-- 11 -->
+  <div class="photo-item">
+    <img src="/img/Zhang.jpg" alt="Telescope">
+    <div class="photo-caption">
+      <span class="number">11</span> Telescope
+    </div>
+  </div>
 
-1.  Sunset at Hale Pohaku, Hawaii
-    <img src="/img/Sunset_hawaii.jpg" width="100%">
-    <br />
+  <!-- 10 -->
+  <div class="photo-item">
+    <img src="/img/snow_mpia.jpg" alt="Snow at MPIA">
+    <div class="photo-caption">
+      <span class="number">10</span> Snow at MPIA
+    </div>
+  </div>
+
+  <!-- 9 -->
+  <div class="photo-item">
+    <img src="/img/Sternwarte.jpg" alt="Bus stop at Sternwarte">
+    <div class="photo-caption">
+      <span class="number">9</span> Bus stop at Sternwarte, Königstuhl
+    </div>
+  </div>
+
+  <!-- 8 -->
+  <div class="photo-item">
+    <img src="/img/house.jpg" alt="House at Königstuhl in Winter">
+    <div class="photo-caption">
+      <span class="number">8</span> House at Königstuhl in Winter
+    </div>
+  </div>
+
+  <!-- 7 -->
+  <div class="photo-item">
+    <img src="/img/house1.jpg" alt="House at Königstuhl in Autumn">
+    <div class="photo-caption">
+      <span class="number">7</span> House at Königstuhl in Autumn
+    </div>
+  </div>
+
+  <!-- 6 -->
+  <div class="photo-item">
+    <img src="/img/heidelberg_night.jpg" alt="Heidelberg Night">
+    <div class="photo-caption">
+      <span class="number">6</span> Heidelberg Night viewed from Königstuhl
+    </div>
+  </div>
+
+  <!-- 5 -->
+  <div class="photo-item">
+    <img src="/img/Mannheimer_Wasserturm.jpg" alt="Mannheimer Wasserturm">
+    <div class="photo-caption">
+      <span class="number">5</span> Mannheimer Wasserturm
+    </div>
+  </div>
+
+  <!-- 4 -->
+  <div class="photo-item">
+    <img src="/img/rainbow.jpg" alt="Rainbow at MPIA">
+    <div class="photo-caption">
+      <span class="number">4</span> Rainbow at MPIA
+    </div>
+  </div>
+
+  <!-- 3 -->
+  <div class="photo-item">
+    <img src="/img/jcmt.jpg" alt="JCMT and CSO at Mauna Kea">
+    <div class="photo-caption">
+      <span class="number">3</span> JCMT and CSO at Mauna Kea, Hawaii
+    </div>
+  </div>
+
+  <!-- 2 -->
+  <div class="photo-item">
+    <img src="/img/telescope_mk.jpg" alt="Telescope at Mauna Kea">
+    <div class="photo-caption">
+      <span class="number">2</span> Telescope at Mauna Kea, Hawaii
+    </div>
+  </div>
+
+  <!-- 1 -->
+  <div class="photo-item">
+    <img src="/img/Sunset_hawaii.jpg" alt="Sunset at Hale Pohaku">
+    <div class="photo-caption">
+      <span class="number">1</span> Sunset at Hale Pohaku, Hawaii
+    </div>
+  </div>
+
+</div>
