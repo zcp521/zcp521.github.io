@@ -1,6 +1,10 @@
-<section class="page-header"  style="background-image: url('{{ site.baseurl }}/{{ site.header-img }}')">
+<section class="page-header" style="background-image: url('{{ site.baseurl }}/{{ site.header-img }}'); background-size: cover; background-position: center;">
   <h1 class="moments-name">{{page.title }}</h1>
   <h2 class="moments-tagline">{{page.tagline}}</h2>
+  
+  <!-- 空白占位：调整高度控制按钮位置 -->
+  <div style="height: 2.5rem;"></div>
+  
   <a href={{ site.baseurl }}/index.html class="btn">Home</a>
   <a href={{ site.baseurl }}/research.html class="btn">Research</a>
   <a href={{ site.baseurl }}/pub.html class="btn">Publications</a>
