@@ -59,7 +59,7 @@ tagline: "&nbsp;"
     </div>
 
     <div style="text-align: center; margin: 1rem 0;">
-      <img src="{{ site.baseurl }}/img/fashi_dr1_sky.png" alt="FASHI DR1 sky coverage" style="max-width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <img src="{{ site.baseurl }}/img/fashi_dr1_sky.png" alt="FASHI DR1 sky coverage" style="max-width: 90%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
   </section>
 
