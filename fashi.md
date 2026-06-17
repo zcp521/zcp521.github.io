@@ -21,8 +21,17 @@ tagline: "&nbsp;"
     </div>
 
     <div style="font-size: 1rem; line-height: 1.8; color: #333;">
+
       <p>
-        The <strong>FAST All-Sky H I Survey (FASHI)</strong> is a pioneering neutral hydrogen survey conducted using the <strong>Five-hundred-meter Aperture Spherical radio Telescope (FAST)</strong>, the world's most sensitive single-dish radio telescope. The survey is designed to map the entire sky accessible to FAST, covering declinations from −14° to +66° (~22,000 deg²) in the frequency range 1.0–1.5 GHz.
+        The <strong>FAST All-Sky H I Survey (FASHI)</strong> is a pioneering neutral hydrogen (H I) survey conducted using the <strong>Five-hundred-meter Aperture Spherical radio Telescope (FAST)</strong>, the world's most sensitive single-dish radio telescope. FASHI represents the first all-sky H I survey undertaken with FAST, leveraging the telescope's unprecedented sensitivity and wide field of view to conduct a comprehensive census of neutral atomic hydrogen in the local Universe.
+      </p>
+
+      <p>
+        Neutral hydrogen is the fundamental building block of galaxies, serving as the primary reservoir of fuel for star formation. Mapping the distribution and content of H I across the sky is essential for understanding the formation and evolution of galaxies, the growth of large-scale structure, and the cycling of baryonic matter in the cosmos. FASHI is designed to detect H I emission from galaxies out to redshifts <em>z</em> &lt; 0.09, probing the local Universe with a sensitivity and source density that far surpasses previous surveys.
+      </p>
+
+      <p>
+        The survey is designed to map the entire sky accessible to FAST, covering declinations from −14° to +66° (~22,000 deg²) in the frequency range 1.0–1.5 GHz. As of the second data release (DR2), FASHI has mapped approximately 19,500 deg² of the sky, detecting over 156,000 extragalactic H I sources — making it the largest and most sensitive H I survey ever conducted.
       </p>
     </div>
   </section>
