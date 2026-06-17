@@ -166,8 +166,8 @@ tagline: "&nbsp;"
       <span class="label">Observations (PI/Co-I)</span>
     </div>
     <div class="stat-card">
-      <span class="number">1</span>
-      <span class="label">PhD + 1 Master thesis</span>
+      <span class="number">2</span>
+      <span class="label">PhD + Master thesis</span>
     </div>
   </div>
 
