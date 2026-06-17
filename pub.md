@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Every image is a footprint of a fleeting moment."
+tagline: " "
 ---
 
 <style>
