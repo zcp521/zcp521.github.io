@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Publications"
-tagline: "My publication list"
 ---
 
 <style>
