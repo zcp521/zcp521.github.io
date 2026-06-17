@@ -278,7 +278,7 @@ tagline: "&nbsp;"
   <header class="fashi-header">
     <h1>FASHI</h1>
     <p class="subtitle">The FAST All-Sky H I Survey</p>
-    <p class="pronounce">读作 /fɑːʃ/ 或 “法师”</p>
+    <p class="pronounce">read as /fɑːʃ/ or “法师”</p>
   </header>
 
   <!-- ============ OVERVIEW ============ -->
