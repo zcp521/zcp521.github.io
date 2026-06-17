@@ -13,8 +13,12 @@ tagline: "&nbsp;"
   </header>
 
   <!-- ============ OVERVIEW ============ -->
-  <section style="margin-bottom: 2.5rem; padding: 0 1rem;">
+  <section style="margin-bottom: 2.5rem; padding: 0 1rem; overflow: hidden;">
     <h2 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.6rem; color: #159957;">Overview</h2>
+
+    <div style="float: right; width: 35%; max-width: 300px; margin-left: 1.8rem; margin-bottom: 0.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+      <img src="{{ site.baseurl }}/img/fast_telescope.png" alt="FAST Telescope" style="width: 100%; border-radius: 8px; display: block;">
+    </div>
 
     <div style="font-size: 1rem; line-height: 1.8; color: #333;">
       <p>
@@ -41,69 +45,35 @@ tagline: "&nbsp;"
   <section style="margin-bottom: 2.5rem; padding: 0 1rem;">
     <h2 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.6rem; color: #159957;">Data Releases</h2>
 
-    <!-- FASHI DR1 -->
-    <h3 style="color: #159957; margin-top: 1.5rem; border-bottom: 1px solid #d4e8de; padding-bottom: 0.2rem;">FASHI DR1 (2024)</h3>
-    <div style="font-size: 1rem; line-height: 1.8; color: #333; padding-left: 0.2rem;">
+    <div style="font-size: 1rem; line-height: 1.8; color: #333; margin-bottom: 1rem;">
       <p>
-        The first data release (DR1) was published as a cover article in <em>Science China: Physics, Mechanics &amp; Astronomy</em> (<strong>Zhang et al. 2024</strong>). Key statistics include:
+        FASHI has released two major data releases, each representing significant milestones in the survey's progress and scientific impact.
       </p>
-      <ul style="line-height: 2.0; padding-left: 1.5rem;">
-        <li><strong>Sky coverage:</strong> 7,600 deg²</li>
-        <li><strong>H I sources detected:</strong> 41,741 extragalactic sources</li>
-        <li><strong>Redshift range:</strong> <em>z</em> &lt; 0.09</li>
-        <li><strong>Median sensitivity:</strong> ~0.76 mJy beam<sup>−1</sup> at 6.4 km s<sup>−1</sup> resolution</li>
-        <li><strong>Detection rate:</strong> ~5.5 sources per deg²</li>
-      </ul>
     </div>
 
-    <!-- FASHI DR2 -->
-    <h3 style="color: #159957; margin-top: 1.5rem; border-bottom: 1px solid #d4e8de; padding-bottom: 0.2rem;">FASHI DR2 (2026)</h3>
-    <div style="font-size: 1rem; line-height: 1.8; color: #333; padding-left: 0.2rem;">
-      <p>
-        The second data release (DR2) represents a significant leap forward in our ability to study the atomic gas content of the local Universe. Key statistics include:
-      </p>
-      <ul style="line-height: 2.0; padding-left: 1.5rem;">
-        <li><strong>Sky coverage:</strong> ~19,500 deg² (47.3% of the full sky)</li>
-        <li><strong>H I sources detected:</strong> 156,411 extragalactic sources</li>
-        <li><strong>Redshift range:</strong> <em>z</em> &lt; 0.09</li>
-        <li><strong>Median sensitivity:</strong> 0.57 mJy beam<sup>−1</sup> at 6.4 km s<sup>−1</sup> resolution</li>
-        <li><strong>Detection rate:</strong> ~8.0 sources per deg²</li>
-        <li><strong>Completeness-corrected sample:</strong> &gt;109,000 sources for HIMF measurement</li>
-      </ul>
-    </div>
-  </section>
-
-  <!-- ============ SOURCE EXTRACTION ============ -->
-  <section style="margin-bottom: 2.5rem; padding: 0 1rem;">
-    <h2 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.6rem; color: #159957;">Source Extraction</h2>
-
-    <div style="font-size: 1rem; line-height: 1.8; color: #333;">
-      <p>
-        Source extraction for FASHI employs a two-step approach combining automated detection with visual validation:
-      </p>
-      <ol style="line-height: 2.0; padding-left: 1.5rem;">
-        <li>
-          <strong>Blind detection:</strong> Initial candidates are identified using SoFiA (Serra et al. 2015; Westmeier et al. 2021) with a 4.5σ detection threshold, which was empirically chosen to provide the optimal trade-off between completeness and reliability.
-        </li>
-        <li>
-          <strong>Optically guided extraction:</strong> Given the substantial sky overlap (&gt;12,000 deg²) between FASHI and DESI/SDSS spectroscopic surveys, optical data are leveraged to complement source extraction and improve sample completeness. For each optical counterpart, an emission signal exceeding 3σ is required for detection.
-        </li>
-        <li>
-          <strong>Visual validation:</strong> All candidates are inspected interactively using moment maps and integrated profiles to reject false detections and refine source boundaries.
-        </li>
-      </ol>
-    </div>
-  </section>
-
-  <!-- ============ DR2 PAPER ============ -->
-  <section style="margin-bottom: 2.5rem; padding: 0 1rem;">
-    <h2 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem;">
+    <!-- DR1 -->
+    <h3 style="color: #159957; margin-top: 1.5rem; border-bottom: 1px solid #d4e8de; padding-bottom: 0.2rem;">
       <a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank" style="color: #1e6bb8; text-decoration: none;">
-        The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function
+        FASHI DR1 (2024): The First Release of Catalog
       </a>
-    </h2>
+    </h3>
 
-    <div style="background: #f9f9f9; padding: 1.2rem 1.8rem; border-radius: 8px; border-left: 5px solid #159957; margin: 1rem 0; font-size: 0.95rem; line-height: 1.7;">
+    <div style="background: #f9f9f9; padding: 1.2rem 1.8rem; border-radius: 8px; border-left: 5px solid #159957; margin: 0.8rem 0; font-size: 0.95rem; line-height: 1.7;">
+      <strong>Abstract:</strong> The <strong>F</strong>AST <strong>A</strong>ll <strong>S</strong>ky <strong>H <small>I</small></strong> survey (FASHI) was designed to cover the entire sky observable by the Five-hundred-meter Aperture Spherical radio Telescope (FAST), spanning approximately 22,000 square degrees of declination between −14° and +66°, and in the frequency range of 1050–1450 MHz, with the expectation of eventually detecting more than 100,000 H I sources. Between August 2020 and June 2023, FASHI covered more than 7,600 square degrees, approximately 35% of the total sky observable by FAST. It has a median detection sensitivity of around 0.76 mJy beam<sup>−1</sup> and a spectral line velocity resolution of ∼6.4 km s<sup>−1</sup> at a frequency of ∼1.4 GHz. As of now, a total of 41,741 extragalactic H I sources have been detected in the frequency range 1305.5–1419.5 MHz, corresponding to a redshift limit of <em>z</em> ≲ 0.09. By cross-matching FASHI sources with the Siena Galaxy Atlas (SGA) and the Sloan Digital Sky Survey (SDSS) catalogs, we found that 16,972 (40.7%) sources have spectroscopic redshifts and 10,975 (26.3%) sources have only photometric redshifts. Most of the remaining 13,794 (33.0%) H I sources are located in the direction of the Galactic plane, making their optical counterparts difficult to identify due to high extinction or high contamination of Galactic stellar sources. Based on current survey results, the FASHI survey is an unprecedented blind extragalactic H I survey. It has higher spectral and spatial resolution and broader coverage than the Arecibo Legacy Fast ALFA Survey (ALFALFA). When completed, FASHI will provide the largest extragalactic H I catalog and an objective view of H I content and large-scale structure in the local universe.
+    </div>
+
+    <div style="text-align: center; margin: 1rem 0 1.5rem 0;">
+      <img src="{{ site.baseurl }}/img/fashi_dr1_sky.png" alt="FASHI DR1 sky coverage" style="max-width: 80%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    </div>
+
+    <!-- DR2 -->
+    <h3 style="color: #159957; margin-top: 2rem; border-bottom: 1px solid #d4e8de; padding-bottom: 0.2rem;">
+      <a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank" style="color: #1e6bb8; text-decoration: none;">
+        FASHI DR2 (2026): The FASHI Catalog and the H I Mass Function
+      </a>
+    </h3>
+
+    <div style="background: #f9f9f9; padding: 1.2rem 1.8rem; border-radius: 8px; border-left: 5px solid #159957; margin: 0.8rem 0; font-size: 0.95rem; line-height: 1.7;">
       <strong>Abstract:</strong> The FAST All Sky H I survey (FASHI, read as /fɑːʃ/ or 法师 in Chinese) 
       conducted with the Five-hundred-meter Aperture Spherical radio Telescope (FAST) has 
       mapped ∼19 500 deg<sup>2</sup> of the sky north of DEC = −14°, detecting 156 411 extragalactic H I sources at 
@@ -128,20 +98,41 @@ tagline: "&nbsp;"
     </div>
   </section>
 
-  <!-- ============ DR1 PAPER ============ -->
+  <!-- ============ ACCESSING FASHI DATA ============ -->
   <section style="margin-bottom: 2.5rem; padding: 0 1rem;">
-    <h2 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem;">
-      <a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank" style="color: #1e6bb8; text-decoration: none;">
-        The FAST All Sky H I Survey DR1: The First Release of Catalog
-      </a>
-    </h2>
+    <h2 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.6rem; color: #159957;">Accessing FASHI Data</h2>
 
-    <div style="background: #f9f9f9; padding: 1.2rem 1.8rem; border-radius: 8px; border-left: 5px solid #159957; margin: 1rem 0; font-size: 0.95rem; line-height: 1.7;">
-      <strong>Abstract:</strong> The <strong>F</strong>AST <strong>A</strong>ll <strong>S</strong>ky <strong>H <small>I</small></strong> survey (FASHI) was designed to cover the entire sky observable by the Five-hundred-meter Aperture Spherical radio Telescope (FAST), spanning approximately 22,000 square degrees of declination between −14° and +66°, and in the frequency range of 1050–1450 MHz, with the expectation of eventually detecting more than 100,000 H I sources. Between August 2020 and June 2023, FASHI covered more than 7,600 square degrees, approximately 35% of the total sky observable by FAST. It has a median detection sensitivity of around 0.76 mJy beam<sup>−1</sup> and a spectral line velocity resolution of ∼6.4 km s<sup>−1</sup> at a frequency of ∼1.4 GHz. As of now, a total of 41,741 extragalactic H I sources have been detected in the frequency range 1305.5–1419.5 MHz, corresponding to a redshift limit of <em>z</em> ≲ 0.09. By cross-matching FASHI sources with the Siena Galaxy Atlas (SGA) and the Sloan Digital Sky Survey (SDSS) catalogs, we found that 16,972 (40.7%) sources have spectroscopic redshifts and 10,975 (26.3%) sources have only photometric redshifts. Most of the remaining 13,794 (33.0%) H I sources are located in the direction of the Galactic plane, making their optical counterparts difficult to identify due to high extinction or high contamination of Galactic stellar sources. Based on current survey results, the FASHI survey is an unprecedented blind extragalactic H I survey. It has higher spectral and spatial resolution and broader coverage than the Arecibo Legacy Fast ALFA Survey (ALFALFA). When completed, FASHI will provide the largest extragalactic H I catalog and an objective view of H I content and large-scale structure in the local universe.
-    </div>
+    <div style="font-size: 1rem; line-height: 1.8; color: #333;">
 
-    <div style="text-align: center; margin: 1rem 0;">
-      <img src="{{ site.baseurl }}/img/fashi_dr1_sky.png" alt="FASHI DR1 sky coverage" style="max-width: 80%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <p>
+        In addition to the catalog listed in the DR2 Technical Details table, integrated one-dimensional H I line spectra for all cataloged sources have been extracted from the reduced three-dimensional FITS data cubes. The full FASHI H I source catalog will be made publicly available upon publication of this paper.
+      </p>
+
+      <p>
+        The reduced one-dimensional spectral cubelets associated with individual sources are available upon request from the corresponding authors. Access to the reduced three-dimensional data cubes is currently restricted to internal collaboration use; however, a limited subset of these data may be provided upon reasonable request for specific scientific purposes.
+      </p>
+
+      <p>
+        All raw observational data from the FASHI project will be released to the public following a <strong>twelve-month proprietary period</strong>, in accordance with the FAST data release policy. The twelve-month proprietary period applies to each individual scan observation, rather than to the completion of the full survey.
+      </p>
+
+      <div style="background: #f9f9f9; padding: 1.2rem 1.8rem; border-radius: 8px; border-left: 5px solid #159957; margin: 1rem 0; font-size: 0.95rem; line-height: 1.7;">
+        <p style="margin: 0;">
+          <strong>FAST Data Policy Summary:</strong>
+        </p>
+        <ul style="line-height: 2.0; padding-left: 1.5rem; margin-top: 0.3rem;">
+          <li><strong>Proprietary Period:</strong> 12 months from the date of data collection for PI-time projects and priority/key science projects.</li>
+          <li><strong>Data Access During Proprietary Period:</strong> External researchers may apply to the project PI or the FAST Scientific Committee for access to data during the proprietary period for collaborative or independent research.</li>
+          <li><strong>Data Release After Proprietary Period:</strong> Data are publicly released by the FAST Operation and Development Center after the proprietary period and can be used without restriction.</li>
+          <li><strong>Data Transfer:</strong> Due to bandwidth limitations, it is encouraged to make direct copies of released FAST data using hard disks at the FAST Data Center.</li>
+          <li><strong>Acknowledgment:</strong> Publications using FAST data must include the proper acknowledgment: <em>"This work has used the data from the Five-hundred-meter Aperture Spherical radio Telescope (FAST). FAST is a Chinese national mega-science facility, operated by the National Astronomical Observatories of Chinese Academy of Sciences (NAOC)."</em></li>
+        </ul>
+      </div>
+
+      <p>
+        Further details regarding FAST data access and release policies are available at <a href="https://fast.bao.ac.cn/cms/article/129/" target="_blank" style="color: #1e6bb8;">FAST Data Policy</a>.
+      </p>
+
     </div>
   </section>
 
@@ -183,6 +174,28 @@ tagline: "&nbsp;"
     <p style="font-size: 0.9rem; color: #666; margin-top: 0.2rem;">
       <strong>Notes:</strong> The definitions of the spectral rms σ<sub>rms</sub> and the per-source detection sensitivity f<sub>σ</sub> are provided in Column 9 of Section 2.4.
     </p>
+  </section>
+
+  <!-- ============ SOURCE EXTRACTION ============ -->
+  <section style="margin-bottom: 2.5rem; padding: 0 1rem;">
+    <h2 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.6rem; color: #159957;">Source Extraction</h2>
+
+    <div style="font-size: 1rem; line-height: 1.8; color: #333;">
+      <p>
+        Source extraction for FASHI employs a two-step approach combining automated detection with visual validation:
+      </p>
+      <ol style="line-height: 2.0; padding-left: 1.5rem;">
+        <li>
+          <strong>Blind detection:</strong> Initial candidates are identified using SoFiA (Serra et al. 2015; Westmeier et al. 2021) with a 4.5σ detection threshold, which was empirically chosen to provide the optimal trade-off between completeness and reliability.
+        </li>
+        <li>
+          <strong>Optically guided extraction:</strong> Given the substantial sky overlap (&gt;12,000 deg²) between FASHI and DESI/SDSS spectroscopic surveys, optical data are leveraged to complement source extraction and improve sample completeness. For each optical counterpart, an emission signal exceeding 3σ is required for detection.
+        </li>
+        <li>
+          <strong>Visual validation:</strong> All candidates are inspected interactively using moment maps and integrated profiles to reject false detections and refine source boundaries.
+        </li>
+      </ol>
+    </div>
   </section>
 
   <!-- ============ SUPPLEMENTARY MATERIALS ============ -->
