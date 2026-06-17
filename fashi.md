@@ -3,7 +3,7 @@ layout: default
 title: "Every galaxy tells a story; we are just learning to read."
 tagline: "&nbsp;"
 ---
-
+<div style="max-width: 1000px; margin: 0 auto; padding: 0 1rem;">
 <div class="fashi-page">
 
   <!-- 页眉区域 -->
