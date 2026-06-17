@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Every galaxy tells a story; we are just learning to read."
-tagline: " "
+tagline: "&nbsp;"
 ---
 
 <div class="fashi-page">
