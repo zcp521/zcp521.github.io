@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "FASHI — 法师"
-tagline: "The FAST All Sky H I Survey"
+title: "Every galaxy tells a story; we are just learning to read."
 ---
 
 <div class="fashi-page">
