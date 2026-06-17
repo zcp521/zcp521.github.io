@@ -1,7 +1,6 @@
 ---
 layout: moments
-title: "Pictures"
-tagline: "Probing my daily time"
+title: "Time flies, but memories last forever."
 ---
 
 <style>
