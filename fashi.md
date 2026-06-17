@@ -144,6 +144,7 @@ tagline: "&nbsp;"
     background: #fff;
     border-radius: 10px;
     overflow: hidden;
+    border-bottom: 2px solid #159957;  /* ← 表格底部边框 */
   }
 
   .fashi-table-wrap thead tr {
