@@ -3,7 +3,7 @@ layout: moments
 title: "Moments"
 tagline: "Probing my daily time"
 ---
-
+<div style="max-width: 1000px; margin: 0 auto; padding: 0 1rem;">
 ## Jan. 20, 2018, Heidelberg Germany, Rainy
 
 爱我所爱，行我所行，听从内心，无问西东！
