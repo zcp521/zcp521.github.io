@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Publications"
+title: "Every image is a footprint of a fleeting moment."
 ---
 
 <style>
