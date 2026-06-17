@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Research"
-tagline: "My research highlights"
+title: "The sky is not the limit — it is only the beginning."
 ---
 
 <style>
