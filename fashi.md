@@ -163,7 +163,7 @@ tagline: "&nbsp;"
   }
 
   .fashi-table-wrap tbody tr:last-child td {
-    border-bottom: 2px solid #159957;
+    border-bottom: 2px solid #eee;
     font-weight: bold;
     background: #f9f9f9;
   }
