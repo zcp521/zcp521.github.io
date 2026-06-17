@@ -3,8 +3,7 @@ layout: default
 title: "The sky is not the limit — it is only the beginning."
 tagline: "&nbsp;"
 ---
-<div style="max-width: 1000px; margin: 0 auto; padding: 0 1rem;">
-  
+ 
 <style>
   .research-page {
     max-width: 1000px;
