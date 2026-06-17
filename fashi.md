@@ -348,7 +348,7 @@ tagline: "&nbsp;"
     </h3>
 
     <div class="fashi-abstract">
-      <strong>Abstract:</strong> The FAST All Sky H I survey (FASHI, read as /fɑːʃ/ or 法师 in Chinese) 
+      <strong>Abstract:</strong> The FAST All Sky H I survey (FASHI) 
       conducted with the Five-hundred-meter Aperture Spherical radio Telescope (FAST) has 
       mapped ∼19 500 deg<sup>2</sup> of the sky north of DEC = −14°, detecting 156 411 extragalactic H I sources at 
       <em>z</em> &lt; 0.09 with a median sensitivity of 0.57 mJy beam<sup>−1</sup> at a velocity resolution of 6.4 km s<sup>−1</sup>. 
