@@ -1,6 +1,6 @@
 ---
 layout: moments
-title: "Moments"
+title: "Time flies, memories last."
 tagline: "&nbsp;"
 ---
 <style>
