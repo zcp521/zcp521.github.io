@@ -204,6 +204,27 @@ tagline: "&nbsp;"
     font-size: 0.85rem;
   }
 
+  /* ===== 相关出版物条目 ===== */
+  .pub-item {
+    margin-bottom: 0.8rem;
+    line-height: 1.8;
+  }
+
+  .pub-item .pub-title {
+    font-weight: bold;
+    color: #159957;
+    font-size: 1.05rem;
+  }
+
+  .pub-item .pub-authors {
+    color: #555;
+    font-size: 0.95rem;
+  }
+
+  .pub-item .pub-ref {
+    font-size: 0.9rem;
+  }
+
   /* ===== 响应式 ===== */
   @media (max-width: 768px) {
     .fashi-container {
@@ -245,6 +266,10 @@ tagline: "&nbsp;"
     .fashi-table-wrap th,
     .fashi-table-wrap td {
       padding: 8px 10px;
+    }
+
+    .pub-item .pub-title {
+      font-size: 0.95rem;
     }
   }
 
@@ -484,23 +509,32 @@ tagline: "&nbsp;"
   <section class="fashi-section">
     <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">Important Publications Related to FASHI</h3>
 
-    <ol reversed class="fashi-list">
-      <li>Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; <strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng<br>
-        <em>"The H I Mass Function of the Local Universe: Combining Measurements from HIPASS, ALFALFA, and FASHI"</em><br>
-        <a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.241M/abstract" target="_blank" class="fashi-link">2025A&A...695A.241M</a>
+    <ol reversed style="list-style: none; padding-left: 0;">
+
+      <li class="pub-item" style="margin-bottom: 1.2rem;">
+        <div class="pub-title">The H I Mass Function of the Local Universe: Combining Measurements from HIPASS, ALFALFA, and FASHI</div>
+        <div class="pub-authors">Ma, Wenlin; Guo, Hong; Xu, Haojie; Jones, Michael G.; Zhang, Chuan-Peng; Zhu, Ming; Wang, Jing; Wang, Jie; Jiang, Peng</div>
+        <div class="pub-ref"><a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.241M/abstract" target="_blank" class="fashi-link">2025A&A...695A.241M</a></div>
       </li>
-      <li><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo<br>
-        <em>"FASHI: An Untargeted Survey of the 21 cm H I Absorption Galaxies with FAST"</em><br>
-        <a href="https://ui.adsabs.harvard.edu/abs/2025ApJS..276....6Z/abstract" target="_blank" class="fashi-link">2025ApJS..276....6Z</a>
+
+      <li class="pub-item" style="margin-bottom: 1.2rem;">
+        <div class="pub-title">FASHI: An Untargeted Survey of the 21 cm H I Absorption Galaxies with FAST</div>
+        <div class="pub-authors">Zhang, Chuan-Peng; Zhu, Ming; Jiang, Peng; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo</div>
+        <div class="pub-ref"><a href="https://ui.adsabs.harvard.edu/abs/2025ApJS..276....6Z/abstract" target="_blank" class="fashi-link">2025ApJS..276....6Z</a></div>
       </li>
-      <li><strong>Zhang, Chuan-Peng</strong>; Cheng, Cheng; Zhu, Ming; Jiang, Peng<br>
-        <em>"FASHI: A Search for Extragalactic OH Megamasers with FAST"</em><br>
-        <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...971..131Z/abstract" target="_blank" class="fashi-link">2024ApJ...971..131Z</a>
+
+      <li class="pub-item" style="margin-bottom: 1.2rem;">
+        <div class="pub-title">FASHI: A Search for Extragalactic OH Megamasers with FAST</div>
+        <div class="pub-authors">Zhang, Chuan-Peng; Cheng, Cheng; Zhu, Ming; Jiang, Peng</div>
+        <div class="pub-ref"><a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...971..131Z/abstract" target="_blank" class="fashi-link">2024ApJ...971..131Z</a></div>
       </li>
-      <li><strong>Zhang, Chuan-Peng</strong>; Zhu, M.; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J.-L.; Liu, X.-L.; Yu, N.-P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration<br>
-        <em>"The FAST All Sky H I Survey (FASHI): The First Release of Catalog"</em><br>
-        <a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank" class="fashi-link">2024SCPMA..6719511Z</a>
+
+      <li class="pub-item" style="margin-bottom: 1.2rem;">
+        <div class="pub-title">The FAST All Sky H I Survey (FASHI): The First Release of Catalog</div>
+        <div class="pub-authors">Zhang, Chuan-Peng; Zhu, M.; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J.-L.; Liu, X.-L.; Yu, N.-P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration</div>
+        <div class="pub-ref"><a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank" class="fashi-link">2024SCPMA..6719511Z</a></div>
       </li>
+
     </ol>
   </section>
 
