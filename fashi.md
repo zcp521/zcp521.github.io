@@ -377,7 +377,7 @@ tagline: "&nbsp;"
 
     <!-- DR2 -->
     <h3 style="margin-top: 2.5rem;">
-      <a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank" class="fashi-link">
+      <a href="https://arxiv.org/abs/2606.31539" target="_blank" class="fashi-link">
         FASHI DR2 (2026): The FASHI Catalog and the H I Mass Function
       </a>
     </h3>
