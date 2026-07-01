@@ -184,6 +184,15 @@ tagline: "&nbsp;"
     </span>
   </div>
 
+  <div class="pub-item-wrapper">
+    <span class="pub-number">2</span>
+    <span class="pub-item">
+      <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</span><br>
+      <span class="title">"The FAST All Sky HI Survey DR2: the FASHI Catalog and the HI Mass Function"</span><br>
+      <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank">2026arXiv260631539Z</a></span>
+    </span>
+</div>
+
   <!-- ============================== -->
   <!-- Theses -->
   <!-- ============================== -->
