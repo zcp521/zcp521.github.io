@@ -153,7 +153,7 @@ tagline: "&nbsp;"
   <!-- ====== 统计卡片 ====== -->
   <div class="stat-grid">
     <div class="stat-card">
-      <span class="number">93+</span>
+      <span class="number">94+</span>
       <span class="label">Peer-reviewed papers</span>
     </div>
     <div class="stat-card">
@@ -170,35 +170,27 @@ tagline: "&nbsp;"
     </div>
   </div>
 
-  <!-- ============================== -->
-  <!-- FASHI -->
-  <!-- ============================== -->
-  <h2 class="section-title" style="margin-top: 0;">The FAST All Sky H I Survey (FASHI)</h2>
+<!-- ============================== -->
+<!-- FASHI -->
+<!-- ============================== -->
+<h2 class="section-title" style="margin-top: 0;">The FAST All Sky H I Survey (FASHI)</h2>
 
-  <div class="pub-item-wrapper">
-    <span class="pub-number">1</span>
-    <span clas<!-- 94 -->
-  <div class="pub-item-wrapper">
-    <span class="pub-number">94</span>
-    <span class="pub-item">
-      <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</span><br>
-      <span class="title">"The FAST All Sky HI Survey DR2: the FASHI Catalog and the HI Mass Function"</span><br>
-      <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank">2026arXiv260631539Z</a></span>
-    </span>
-  </div>s="pub-item">
-      <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, M.; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J.-L.; Liu, X.-L.; Yu, N.-P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration</span><br>
-      <span class="title">"The FAST all sky H I survey (FASHI): The first release of catalog"</span><br>
-      <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank">2024SCPMA..6719511Z</a></span>
-    </span>
-  </div>
+<div class="pub-item-wrapper">
+  <span class="pub-number">1</span>
+  <span class="pub-item">
+    <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, M.; Jiang, P.; Cheng, C.; Wang, J.; Wang, J.; Xu, J.-L.; Liu, X.-L.; Yu, N.-P.; Qian, L.; Yu, H.; Ai, M.; Jing, Y.; Xu, C.; Liu, Z.; Guan, X.; Sun, C.; Yang, Q.; Huang, M.; Hao, Q.; FAST Collaboration</span><br>
+    <span class="title">"The FAST all sky H I survey (FASHI): The first release of catalog"</span><br>
+    <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank">2024SCPMA..6719511Z</a></span>
+  </span>
+</div>
 
-  <div class="pub-item-wrapper">
-    <span class="pub-number">2</span>
-    <span class="pub-item">
-      <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</span><br>
-      <span class="title">"The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function"</span><br>
-      <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank">2026arXiv260631539Z</a></span>
-    </span>
+<div class="pub-item-wrapper">
+  <span class="pub-number">2</span>
+  <span class="pub-item">
+    <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</span><br>
+    <span class="title">"The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function"</span><br>
+    <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank">2026arXiv260631539Z</a></span>
+  </span>
 </div>
 
   <!-- ============================== -->
