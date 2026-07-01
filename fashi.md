@@ -377,7 +377,7 @@ tagline: "&nbsp;"
 
     <!-- DR2 -->
     <h3 style="margin-top: 2.5rem;">
-      <a href="https://arxiv.org/abs/2606.31539" target="_blank" class="fashi-link">
+      <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank" class="fashi-link">
         FASHI DR2 (2026): The FASHI Catalog and the H I Mass Function
       </a>
     </h3>
@@ -520,6 +520,12 @@ tagline: "&nbsp;"
     <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">Important Publications Related to FASHI</h3>
 
     <div style="list-style: none; padding-left: 0;">
+
+      <div class="pub-item">
+        <div class="pub-title">The FAST All Sky HI Survey DR2: the FASHI Catalog and the HI Mass Function</div>
+        <div class="pub-authors">Zhang, Chuan-Peng; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</div>
+        <div class="pub-ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank" class="fashi-link">2026arXiv260631539Z</a></div>
+      </div>
 
       <div class="pub-item">
         <div class="pub-title">FASHI: An Untargeted Survey of the 21 cm H I Absorption Galaxies with FAST</div>
