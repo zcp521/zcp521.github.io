@@ -521,6 +521,12 @@ tagline: "&nbsp;"
 
     <div style="list-style: none; padding-left: 0;">
 
+     <div class="pub-item">
+      <div class="pub-title">Weak Evolution of Cosmic Atomic Hydrogen over the Past 4.5 Billion Years</div>
+      <div class="pub-authors">Zhang, Chuan-Peng; Guo, Hong; Gu, Yizhou; Saintonge, Amélie; Yang, Xiaohu; Scholte, Dirk; Zhu, Ming; Jiang, Peng; Zou, Hu; Saraf, Manasvee; Ma, Wenlin; Wang, Yirong; Jing, Y. P.; Zheng, Zheng; Ding, Zhejie; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brooks, D.; Claybaugh, T.; de la Macorra, A.; Doel, P.; Gaztañaga, E.; Gutierrez, G.; Ishak, M.; Joyce, R.; Juneau, S.; Kehoe, R.; Kirkby, D.; Kremin, A.; Lahav, O.; Lamman, C.; Landriau, M.; Le Guillou, L.; Manera, M.; Meisner, A.; Miquel, R.; Moustakas, J.; Nadathur, S.; Percival, W. J.; Prada, F.; Pérez-Ràfols, I.; Rossi, G.; Sanchez, E.; Schlegel, D.; Schubnell, M.; Seo, H.; Silber, J.; Sprayberry, D.; Tarlé, G.; Weaver, B. A.; FASHI Collaboration</div>
+       <div class="pub-ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260705326Z/abstract" target="_blank" class="fashi-link">2026arXiv260705326Z</a></div>
+     </div>
+
       <div class="pub-item">
         <div class="pub-title">The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function</div>
         <div class="pub-authors">Zhang, Chuan-Peng; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</div>
