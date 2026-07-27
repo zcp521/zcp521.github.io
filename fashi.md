@@ -521,7 +521,7 @@ tagline: "&nbsp;"
 
     <ol class="fashi-list">
       <li>The full paper can be downloaded in <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank" class="fashi-link">The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function</a></li>
-      <li>The complete Table 2 containing 156,411 sources can be accessed in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">FASHI DR2 Extragalactic HI Source Catalog</a></li>
+      <li>The complete Table 2 containing 156,411 sources can be accessed in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">FASHI DR2 Extragalactic H I Source Catalog</a></li>
       <li>The complete Table 3 containing 28,352 sources can be accessed in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">Cross-matched catalog of FASHI and ALFALFA sources</a></li>
     </ol>
   </section>
