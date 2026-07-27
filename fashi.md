@@ -439,6 +439,31 @@ tagline: "&nbsp;"
     </div>
   </section>
 
+    <!-- ============ SUPPLEMENTARY MATERIALS ============ -->
+  <section class="fashi-section">
+    <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">FASHI DR1 Supplementary Materials</h3>
+
+    <ol class="fashi-list">
+      <li>The full paper can be downloaded in <a href="{{ site.baseurl }}/pub/fashi.pdf" target="_blank" class="fashi-link">The FAST All Sky HI Survey (FASHI): The First Release of Catalog</a></li>
+      <li>The complete Table 2 containing 41,741 sources can be accessed in <a href="{{ site.baseurl }}/img/Table2-FASHI_extragalactic_HI_source_catalog.csv" target="_blank" class="fashi-link">FASHI Extragalactic H I Source Catalog</a></li>
+      <li>The complete Table 3 containing 3,620 sources can be accessed in <a href="{{ site.baseurl }}/img/Table3-FASHI_and_ALFALFA_cross-matching_catalog.csv" target="_blank" class="fashi-link">FASHI and ALFALFA Cross-Matching Catalog</a></li>
+      <li>The complete Table 4 containing 14,072 sources can be accessed in <a href="{{ site.baseurl }}/img/Table4-The_identified_optical_counterparts_from_the_SGA_catalog.csv" target="_blank" class="fashi-link">Identified Optical Counterparts from the SGA Catalog</a></li>
+      <li>The complete Table 5 containing 2,900 sources can be accessed in <a href="{{ site.baseurl }}/img/Table5-The_identified_optical_counterparts_from_the_SDSS_spectroscopic_catalog.csv" target="_blank" class="fashi-link">Identified Optical Counterparts from the SDSS Spectroscopic Catalog</a></li>
+      <li>The complete Table 6 containing 10,975 sources can be accessed in <a href="{{ site.baseurl }}/img/Table6-The_identified_optical_counterparts_from_the_SDSS_photometric_catalog.csv" target="_blank" class="fashi-link">Identified Optical Counterparts from the SDSS Photometric Catalog</a></li>
+    </ol>
+  </section>
+
+  <!-- ============ SUPPLEMENTARY MATERIALS ============ -->
+  <section class="fashi-section">
+    <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">FASHI DR2 Supplementary Materials</h3>
+
+    <ol class="fashi-list">
+      <li>The full paper can be downloaded in <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank" class="fashi-link">The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function</a></li>
+      <li>The complete Table 2 containing 156,411 sources can be accessed in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">FASHI DR2 Extragalactic H I Source Catalog</a></li>
+      <li>The complete Table 3 containing 28,352 sources can be accessed in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">Cross-matched catalog of FASHI and ALFALFA sources</a></li>
+    </ol>
+  </section>
+
   <!-- ============ DR2 TECHNICAL TABLE ============ -->
   <section class="fashi-section">
     <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">FASHI DR2 Technical Details</h3>
@@ -501,30 +526,6 @@ tagline: "&nbsp;"
     </div>
   </section>
 
-  <!-- ============ SUPPLEMENTARY MATERIALS ============ -->
-  <section class="fashi-section">
-    <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">FASHI DR1 Supplementary Materials</h3>
-
-    <ol class="fashi-list">
-      <li>The full paper can be downloaded in <a href="{{ site.baseurl }}/pub/fashi.pdf" target="_blank" class="fashi-link">The FAST All Sky HI Survey (FASHI): The First Release of Catalog</a></li>
-      <li>The complete Table 2 containing 41,741 sources can be accessed in <a href="{{ site.baseurl }}/img/Table2-FASHI_extragalactic_HI_source_catalog.csv" target="_blank" class="fashi-link">FASHI Extragalactic H I Source Catalog</a></li>
-      <li>The complete Table 3 containing 3,620 sources can be accessed in <a href="{{ site.baseurl }}/img/Table3-FASHI_and_ALFALFA_cross-matching_catalog.csv" target="_blank" class="fashi-link">FASHI and ALFALFA Cross-Matching Catalog</a></li>
-      <li>The complete Table 4 containing 14,072 sources can be accessed in <a href="{{ site.baseurl }}/img/Table4-The_identified_optical_counterparts_from_the_SGA_catalog.csv" target="_blank" class="fashi-link">Identified Optical Counterparts from the SGA Catalog</a></li>
-      <li>The complete Table 5 containing 2,900 sources can be accessed in <a href="{{ site.baseurl }}/img/Table5-The_identified_optical_counterparts_from_the_SDSS_spectroscopic_catalog.csv" target="_blank" class="fashi-link">Identified Optical Counterparts from the SDSS Spectroscopic Catalog</a></li>
-      <li>The complete Table 6 containing 10,975 sources can be accessed in <a href="{{ site.baseurl }}/img/Table6-The_identified_optical_counterparts_from_the_SDSS_photometric_catalog.csv" target="_blank" class="fashi-link">Identified Optical Counterparts from the SDSS Photometric Catalog</a></li>
-    </ol>
-  </section>
-
-  <!-- ============ SUPPLEMENTARY MATERIALS ============ -->
-  <section class="fashi-section">
-    <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">FASHI DR2 Supplementary Materials</h3>
-
-    <ol class="fashi-list">
-      <li>The full paper can be downloaded in <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank" class="fashi-link">The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function</a></li>
-      <li>The complete Table 2 containing 156,411 sources can be accessed in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">FASHI DR2 Extragalactic H I Source Catalog</a></li>
-      <li>The complete Table 3 containing 28,352 sources can be accessed in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">Cross-matched catalog of FASHI and ALFALFA sources</a></li>
-    </ol>
-  </section>
 
   <!-- ============ RELATED PUBLICATIONS ============ -->
   <section class="fashi-section">
