@@ -515,6 +515,16 @@ tagline: "&nbsp;"
     </ol>
   </section>
 
+    <section class="fashi-section">
+    <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">FASHI DR2 Supplementary Materials</h3>
+
+    <ol class="fashi-list">
+      <li>The full paper can be downloaded in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">The FAST All Sky HI Survey (FASHI): The First Release of Catalog</a></li>
+      <li>The complete Table 2 containing 156,411 sources can be accessed in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">FASHI DR2 Extragalactic HI Source Catalog</a></li>
+      <li>The complete Table 3 containing 28,352 sources can be accessed in <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">Cross-matched catalog of FASHI and ALFALFA sources</a></li>
+    </ol>
+  </section>
+
   <!-- ============ RELATED PUBLICATIONS ============ -->
   <section class="fashi-section">
     <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">Important Publications Related to FASHI</h3>
