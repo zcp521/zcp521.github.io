@@ -515,7 +515,8 @@ tagline: "&nbsp;"
     </ol>
   </section>
 
-    <section class="fashi-section">
+  <!-- ============ SUPPLEMENTARY MATERIALS ============ -->
+  <section class="fashi-section">
     <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">FASHI DR2 Supplementary Materials</h3>
 
     <ol class="fashi-list">
