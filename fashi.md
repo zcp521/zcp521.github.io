@@ -364,7 +364,7 @@ tagline: "&nbsp;"
 
     <!-- DR1 -->
     <h3>
-      <a href="https://ui.adsabs.harvard.edu/abs/2024SCPMA..6719511Z/abstract" target="_blank" class="fashi-link">
+      <a href="https://fast.bao.ac.cn/cms/article/271" target="_blank" class="fashi-link">
         FASHI DR1 (2024): The First Release of Catalog
       </a>
     </h3>
@@ -377,7 +377,7 @@ tagline: "&nbsp;"
 
     <!-- DR2 -->
     <h3 style="margin-top: 2.5rem;">
-      <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank" class="fashi-link">
+      <a href="https://pan.cstcloud.cn/s/XfSZ82LQc4" target="_blank" class="fashi-link">
         FASHI DR2 (2026): The FASHI Catalog and the H I Mass Function
       </a>
     </h3>
