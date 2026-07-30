@@ -153,7 +153,7 @@ tagline: "&nbsp;"
   <!-- ====== 统计卡片 ====== -->
   <div class="stat-grid">
     <div class="stat-card">
-      <span class="number">97+</span>
+      <span class="number">98+</span>
       <span class="label">Peer-reviewed papers</span>
     </div>
     <div class="stat-card">
@@ -228,9 +228,9 @@ tagline: "&nbsp;"
     <a href="https://arxiv.org/a/zhang_c_2.html" target="_blank" style="color: #1e6bb8;">arXiv</a>
   </div>
 
-<!-- 97 -->
+<!-- 98 -->
 <div class="pub-item-wrapper">
-  <span class="pub-number">97</span>
+  <span class="pub-number">98</span>
   <span class="pub-item">
     <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Guo, Hong; Gu, Yizhou; Saintonge, Amélie; Yang, Xiaohu; Scholte, Dirk; Zhu, Ming; Jiang, Peng; Zou, Hu; Saraf, Manasvee; Ma, Wenlin; Wang, Yirong; Jing, Y. P.; Zheng, Zheng; Ding, Zhejie; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brooks, D.; Claybaugh, T.; de la Macorra, A.; Doel, P.; Gaztañaga, E.; Gutierrez, G.; Ishak, M.; Joyce, R.; Juneau, S.; Kehoe, R.; Kirkby, D.; Kremin, A.; Lahav, O.; Lamman, C.; Landriau, M.; Le Guillou, L.; Manera, M.; Meisner, A.; Miquel, R.; Moustakas, J.; Nadathur, S.; Percival, W. J.; Prada, F.; Pérez-Ràfols, I.; Rossi, G.; Sanchez, E.; Schlegel, D.; Schubnell, M.; Seo, H.; Silber, J.; Sprayberry, D.; Tarlé, G.; Weaver, B. A.; FASHI Collaboration</span><br>
     <span class="title">"Weak Evolution of Cosmic Atomic Hydrogen over the Past 4.5 Billion Years"</span><br>
@@ -238,9 +238,9 @@ tagline: "&nbsp;"
   </span>
 </div>
 
-  <!-- 96 -->
+  <!-- 97 -->
   <div class="pub-item-wrapper">
-    <span class="pub-number">96</span>
+    <span class="pub-number">97</span>
     <span class="pub-item">
       <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</span><br>
       <span class="title">"The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function"</span><br>
@@ -248,9 +248,9 @@ tagline: "&nbsp;"
     </span>
   </div>
 
-<!-- 95 -->
+<!-- 96 -->
 <div class="pub-item-wrapper">
-  <span class="pub-number">95</span>
+  <span class="pub-number">96</span>
   <span class="pub-item">
     <span class="authors">Cheng, Cheng; <strong>Zhang, Chuan-Peng</strong>; Ibar, Edo; Smith, Rory; Xu, Weiwei; Kim, Hyowon; Huang, Jia-Sheng; Zhang, Wei; Zuo, Pei; Méndez-Hernández, Hugo; Molina, Juan; Zhu, Ming; Yu, Qian</span><br>
     <span class="title">"HI Depletion Begins Well Beyond the Virial Radius: A FAST Stacking Study of 36 Galaxy Clusters to 5R200"</span><br>
@@ -258,15 +258,25 @@ tagline: "&nbsp;"
   </span>
 </div>
 
-  <!-- 94 -->
+  <!-- 95 -->
   <div class="pub-item-wrapper">
-    <span class="pub-number">94</span>
+    <span class="pub-number">95</span>
     <span class="pub-item">
       <span class="authors">Xu, Jin-Long; <strong>Zhang, Chuan-Peng</strong>strong>; Liu, Xiao-Lan; Yu, Nai-Ping; Ai, Mei; Zhu, Ming</span><br>
       <span class="title">"A Catalog of Compact High-Velocity Clouds from the FAST All-Sky HI Survey (FASHI) DR2"</span><br>
       <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260714584X/abstract" target="_blank">2026arXiv260714584X</a></span>
     </span>
   </div>
+
+<!-- 94 -->
+<div class="pub-item-wrapper">
+  <span class="pub-number">94</span>
+  <span class="pub-item">
+    <span class="authors">Zhou, Ruilei; Zhu, Ming; <strong>Zhang, Chuan-Peng</strong>; Xu, Jinlong</span><br>
+    <span class="title">"The nature of Cloud-9: a compact core embedded in a diffuse envelope"</span><br>
+    <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026MNRAS.550g1293Z/abstract" target="_blank">2026MNRAS.550g1293Z</a></span>
+  </span>
+</div>
 
   <!-- 93 -->
   <div class="pub-item-wrapper">
