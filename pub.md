@@ -262,7 +262,7 @@ tagline: "&nbsp;"
   <div class="pub-item-wrapper">
     <span class="pub-number">95</span>
     <span class="pub-item">
-      <span class="authors">Xu, Jin-Long; <strong>Zhang, Chuan-Peng</strong>strong>; Liu, Xiao-Lan; Yu, Nai-Ping; Ai, Mei; Zhu, Ming</span><br>
+      <span class="authors">Xu, Jin-Long; <strong>Zhang, Chuan-Peng</strong>; Liu, Xiao-Lan; Yu, Nai-Ping; Ai, Mei; Zhu, Ming</span><br>
       <span class="title">"A Catalog of Compact High-Velocity Clouds from the FAST All-Sky HI Survey (FASHI) DR2"</span><br>
       <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260714584X/abstract" target="_blank">2026arXiv260714584X</a></span>
     </span>
