@@ -1339,7 +1339,7 @@ tagline: "&nbsp;"
   </div>
 
   <div class="pub-item-wrapper">
-    <span class="pub-number" style="background: #159957;">13</span>
+    <span class="pub-number" style="background: #888;">13</span>
     <span class="pub-item">
       <span class="authors">Zhou, C.-L.; <strong>Zhang, C.-P.</strong>; Yuan, L.-X.</span><br>
       <span class="title">JCMT 15m, #M18BP069, 3.0h — "Warm gas observation in bubble N131"</span>
@@ -1347,7 +1347,7 @@ tagline: "&nbsp;"
   </div>
 
   <div class="pub-item-wrapper">
-    <span class="pub-number" style="background: #159957;">12</span>
+    <span class="pub-number" style="background: #888;">12</span>
     <span class="pub-item">
       <span class="authors">Zhou, C.-L.; Yuan, L.-X.; <strong>Zhang, C.-P.</strong>; Zhu, M.</span><br>
       <span class="title">JCMT 15m, #M17BP077, 10.5h — "Warm gas observation in bubble N131"</span>
