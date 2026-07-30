@@ -153,7 +153,7 @@ tagline: "&nbsp;"
   <!-- ====== 统计卡片 ====== -->
   <div class="stat-grid">
     <div class="stat-card">
-      <span class="number">95+</span>
+      <span class="number">97+</span>
       <span class="label">Peer-reviewed papers</span>
     </div>
     <div class="stat-card">
