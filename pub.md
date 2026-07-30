@@ -1275,7 +1275,7 @@ tagline: "&nbsp;"
   </div>
 
   <div class="pub-item-wrapper">
-    <span class="pub-number" style="background: #888;">21</span>
+    <span class="pub-number" style="background: #159957;">21</span>
     <span class="pub-item">
       <span class="authors"><strong>Zhang, C.-P.</strong>; Li, G.-X.</span><br>
       <span class="title">JCMT 15m, #M20BP059, 3.0h — "To detect shock and PDR in the inner rims of a bubble shell"</span>
@@ -1283,7 +1283,7 @@ tagline: "&nbsp;"
   </div>
 
   <div class="pub-item-wrapper">
-    <span class="pub-number" style="background: #888;">20</span>
+    <span class="pub-number" style="background: #159957;">20</span>
     <span class="pub-item">
       <span class="authors"><strong>Zhang, C.-P.</strong>; Li, G.-X.</span><br>
       <span class="title">JCMT 15m, #M20AP058, 5.0h — "To detect shock and PDR in the inner rims of a bubble shell"</span>
@@ -1339,7 +1339,7 @@ tagline: "&nbsp;"
   </div>
 
   <div class="pub-item-wrapper">
-    <span class="pub-number" style="background: #888;">13</span>
+    <span class="pub-number" style="background: #159957;">13</span>
     <span class="pub-item">
       <span class="authors">Zhou, C.-L.; <strong>Zhang, C.-P.</strong>; Yuan, L.-X.</span><br>
       <span class="title">JCMT 15m, #M18BP069, 3.0h — "Warm gas observation in bubble N131"</span>
@@ -1347,7 +1347,7 @@ tagline: "&nbsp;"
   </div>
 
   <div class="pub-item-wrapper">
-    <span class="pub-number" style="background: #888;">12</span>
+    <span class="pub-number" style="background: #159957;">12</span>
     <span class="pub-item">
       <span class="authors">Zhou, C.-L.; Yuan, L.-X.; <strong>Zhang, C.-P.</strong>; Zhu, M.</span><br>
       <span class="title">JCMT 15m, #M17BP077, 10.5h — "Warm gas observation in bubble N131"</span>
@@ -1411,7 +1411,7 @@ tagline: "&nbsp;"
   </div>
 
   <div class="pub-item-wrapper">
-    <span class="pub-number" style="background: #888;">4</span>
+    <span class="pub-number" style="background: #159957;">4</span>
     <span class="pub-item">
       <span class="authors"><strong>Astronomer On Duty (AoD)</strong> of Effelsberg 100m, June 2014 in Effelsberg</span><br>
       <span class="title">"IDV observations"</span>
