@@ -228,9 +228,11 @@ tagline: "&nbsp;"
     <a href="https://arxiv.org/a/zhang_c_2.html" target="_blank" style="color: #1e6bb8;">arXiv</a>
   </div>
 
-<!-- 98 -->
+
+
+<!-- 101 -->
 <div class="pub-item-wrapper">
-  <span class="pub-number">98</span>
+  <span class="pub-number">101</span>
   <span class="pub-item">
     <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Guo, Hong; Gu, Yizhou; Saintonge, Amélie; Yang, Xiaohu; Scholte, Dirk; Zhu, Ming; Jiang, Peng; Zou, Hu; Saraf, Manasvee; Ma, Wenlin; Wang, Yirong; Jing, Y. P.; Zheng, Zheng; Ding, Zhejie; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brooks, D.; Claybaugh, T.; de la Macorra, A.; Doel, P.; Gaztañaga, E.; Gutierrez, G.; Ishak, M.; Joyce, R.; Juneau, S.; Kehoe, R.; Kirkby, D.; Kremin, A.; Lahav, O.; Lamman, C.; Landriau, M.; Le Guillou, L.; Manera, M.; Meisner, A.; Miquel, R.; Moustakas, J.; Nadathur, S.; Percival, W. J.; Prada, F.; Pérez-Ràfols, I.; Rossi, G.; Sanchez, E.; Schlegel, D.; Schubnell, M.; Seo, H.; Silber, J.; Sprayberry, D.; Tarlé, G.; Weaver, B. A.; FASHI Collaboration</span><br>
     <span class="title">"Weak Evolution of Cosmic Atomic Hydrogen over the Past 4.5 Billion Years"</span><br>
@@ -238,15 +240,23 @@ tagline: "&nbsp;"
   </span>
 </div>
 
-  <!-- 97 -->
+  <!-- 100 -->
   <div class="pub-item-wrapper">
-    <span class="pub-number">97</span>
+    <span class="pub-number">100</span>
     <span class="pub-item">
       <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</span><br>
       <span class="title">"The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function"</span><br>
       <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank">2026arXiv260631539Z</a></span>
     </span>
   </div>
+
+
+<!-- 99 --><div class="pub-item-wrapper"> <span class="pub-number">99</span> <span class="pub-item"> <span class="authors"><strong>Ouyang, Xu-Jia</strong>; Zhang, Yong; Zhang, Chuan-Peng; Zhang, Li-Yun</span><br> <span class="title">"HI envelope around the carbon star V420 Vul"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260806245O/abstract" target="_blank">2026arXiv260806245O</a></span> </span> </div>
+
+<!-- 98 --><div class="pub-item-wrapper"> <span class="pub-number">98</span> <span class="pub-item"> <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Gu, Yizhou; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo</span><br> <span class="title">"FASHI DR2: A Catalog of 132 Low-Redshift HI 21 cm Absorption Systems"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260823385Z/abstract" target="_blank">2026arXiv260823385Z</a></span> </span> </div>
+
+<!-- 97 --><div class="pub-item-wrapper"> <span class="pub-number">97</span> <span class="pub-item"> <span class="authors"><strong>Zhou, Ruilei</strong>; Zhu, Ming; Zhang, Chuan-Peng; Du, Lin; Cheng, Cheng; Guo, Qi; Cao, Tian-Wen; Xi, Wenzhe</span><br> <span class="title">"An HI study of a large sample of ultra-diffuse galaxies"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260824225Z/abstract" target="_blank">2026arXiv260824225Z</a></span> </span> </div>
+
 
 <!-- 96 -->
 <div class="pub-item-wrapper">
