@@ -251,11 +251,11 @@ tagline: "&nbsp;"
   </div>
 
 
-<!-- 99 --><div class="pub-item-wrapper"> <span class="pub-number">99</span> <span class="pub-item"> <span class="authors"><strong>Ouyang, Xu-Jia</strong>; Zhang, Yong; Zhang, Chuan-Peng; Zhang, Li-Yun</span><br> <span class="title">"HI envelope around the carbon star V420 Vul"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260806245O/abstract" target="_blank">2026arXiv260806245O</a></span> </span> </div>
+<!-- 99 --><div class="pub-item-wrapper"> <span class="pub-number">99</span> <span class="pub-item"> <span class="authors">Ouyang, Xu-Jia; Zhang, Yong; <strong>Zhang, Chuan-Peng</strong>; Zhang, Li-Yun</span><br> <span class="title">"HI envelope around the carbon star V420 Vul"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260806245O/abstract" target="_blank">2026arXiv260806245O</a></span> </span> </div>
 
 <!-- 98 --><div class="pub-item-wrapper"> <span class="pub-number">98</span> <span class="pub-item"> <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Gu, Yizhou; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo</span><br> <span class="title">"FASHI DR2: A Catalog of 132 Low-Redshift HI 21 cm Absorption Systems"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260823385Z/abstract" target="_blank">2026arXiv260823385Z</a></span> </span> </div>
 
-<!-- 97 --><div class="pub-item-wrapper"> <span class="pub-number">97</span> <span class="pub-item"> <span class="authors"><strong>Zhou, Ruilei</strong>; Zhu, Ming; Zhang, Chuan-Peng; Du, Lin; Cheng, Cheng; Guo, Qi; Cao, Tian-Wen; Xi, Wenzhe</span><br> <span class="title">"An HI study of a large sample of ultra-diffuse galaxies"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260824225Z/abstract" target="_blank">2026arXiv260824225Z</a></span> </span> </div>
+<!-- 97 --><div class="pub-item-wrapper"> <span class="pub-number">97</span> <span class="pub-item"> <span class="authors">Zhou, Ruilei; Zhu, Ming; <strong>Zhang, Chuan-Peng</strong>; Du, Lin; Cheng, Cheng; Guo, Qi; Cao, Tian-Wen; Xi, Wenzhe</span><br> <span class="title">"An HI study of a large sample of ultra-diffuse galaxies"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260824225Z/abstract" target="_blank">2026arXiv260824225Z</a></span> </span> </div>
 
 
 <!-- 96 -->
