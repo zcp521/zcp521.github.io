@@ -193,6 +193,33 @@ tagline: "&nbsp;"
   </span>
 </div>
 
+
+  <!-- ============================== -->
+  <!-- Theses -->
+  <!-- ============================== -->
+  <h2 class="section-title">PhD and Master Theses</h2>
+
+  <div class="pub-item-wrapper">
+    <span class="pub-number">2</span>
+    <span class="pub-item">
+      <span class="authors"><strong>Zhang, Chuan-Peng</strong></span><br>
+      <span class="title">"<a href="{{ site.baseurl }}/pub/thesis_phd.pdf" target="_blank" style="color: #1e6bb8;">High-Mass Star Formation and Its Initial Conditions</a>"</span><br>
+      2015, University of Chinese Academy of Sciences<br>
+      Supervised by <a href="http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html" target="_blank" style="color: #1e6bb8;">Prof. Jun-Jie Wang</a> and <a href="https://blog.mpifr-bonn.mpg.de/karlmenten/" target="_blank" style="color: #1e6bb8;">Prof. Karl Menten</a>
+    </span>
+  </div>
+
+  <div class="pub-item-wrapper">
+    <span class="pub-number">1</span>
+    <span class="pub-item">
+      <span class="authors"><strong>Zhang, Chuan-Peng</strong></span><br>
+      <span class="title">"<a href="{{ site.baseurl }}/pub/thesis_master.pdf" target="_blank" style="color: #1e6bb8;">The Formaldehyde Observations and Studies of W49, W3, DR21 and NGC2024 GMCs</a>"</span><br>
+      2011, Graduate University of Chinese Academy of Sciences<br>
+      Supervised by <a href="http://english.xao.cas.cn/ed/sups/201607/t20160715_165785.html" target="_blank" style="color: #1e6bb8;">Prof. Jarken Esimbek</a>
+    </span>
+  </div>
+
+
   <!-- ============================== -->
   <!-- Peer-reviewed -->
   <!-- ============================== -->
@@ -202,8 +229,6 @@ tagline: "&nbsp;"
     <a href="https://ui.adsabs.harvard.edu/public-libraries/RijjUuncQru3dbS8Amb6eA" target="_blank" style="color: #1e6bb8;">ADS Library</a> &middot;
     <a href="https://arxiv.org/a/zhang_c_2.html" target="_blank" style="color: #1e6bb8;">arXiv</a>
   </div>
-
-
 
 <!-- 101 -->
 <div class="pub-item-wrapper">
@@ -1426,34 +1451,10 @@ tagline: "&nbsp;"
       <span class="title">"A H<sub>2</sub>CO and H110α survey of H II regions with the 25m radio telescope"</span>
     </span>
   </div>
-  <!-- ============================== -->
-  <!-- Theses -->
-  <!-- ============================== -->
-  <h2 class="section-title">PhD and Master Theses</h2>
-
-  <div class="pub-item-wrapper">
-    <span class="pub-number">2</span>
-    <span class="pub-item">
-      <span class="authors"><strong>Zhang, Chuan-Peng</strong></span><br>
-      <span class="title">"<a href="{{ site.baseurl }}/pub/thesis_phd.pdf" target="_blank" style="color: #1e6bb8;">High-Mass Star Formation and Its Initial Conditions</a>"</span><br>
-      2015, University of Chinese Academy of Sciences<br>
-      Supervised by <a href="http://sourcedb.naoc.cas.cn/en/enaoexpert/201304/t20130411_3817941.html" target="_blank" style="color: #1e6bb8;">Prof. Jun-Jie Wang</a> and <a href="https://blog.mpifr-bonn.mpg.de/karlmenten/" target="_blank" style="color: #1e6bb8;">Prof. Karl Menten</a>
-    </span>
-  </div>
-
-  <div class="pub-item-wrapper">
-    <span class="pub-number">1</span>
-    <span class="pub-item">
-      <span class="authors"><strong>Zhang, Chuan-Peng</strong></span><br>
-      <span class="title">"<a href="{{ site.baseurl }}/pub/thesis_master.pdf" target="_blank" style="color: #1e6bb8;">The Formaldehyde Observations and Studies of W49, W3, DR21 and NGC2024 GMCs</a>"</span><br>
-      2011, Graduate University of Chinese Academy of Sciences<br>
-      Supervised by <a href="http://english.xao.cas.cn/ed/sups/201607/t20160715_165785.html" target="_blank" style="color: #1e6bb8;">Prof. Jarken Esimbek</a>
-    </span>
-  </div>
 
   <!-- ====== 底部 ====== -->
   <div style="text-align: center; padding: 1.5rem 0 0.5rem 0; border-top: 2px solid #eee; margin-top: 2.5rem;">
-    <span style="color: #aaa; font-size: 0.85rem;">Last updated: June 2026</span>
+    <span style="color: #aaa; font-size: 0.85rem;">Last updated: Sep. 2026</span>
   </div>
 
 </div>
