@@ -577,25 +577,25 @@ tagline: "&nbsp;"
     <h3 style="border-bottom: 2px solid #159957; padding-bottom: 0.3rem; font-size: 1.4rem; color: #159957;">News Related to FASHI</h3>
 
     <ul class="fashi-list">
-      <li><a href="https://tv.cctv.com/2026/09/10/VIDETXFGLOSBkEpURjN56rYR260910.shtml" target="_blank" class="fashi-link">【新闻直播间】中国天眼构建世界最大中性氢星系样本库</a></li>
-      <li><a href="https://tv.cctv.com/2026/09/11/VIDEuSzcOU5dMQiGFqgKR81W260911.shtml" target="_blank" class="fashi-link">【午夜新闻】中国天眼构建世界最大中性氢星系样本库</a></li>
-      <li><a href="https://www.cas.cn/spx/202609/t20260910_5120153.shtml" target="_blank" class="fashi-link">【中国科学院】中国天眼构建世界最大中性氢星系样本库</a></li>
-      <li><a href="https://www.chinanews.com.cn/sh/2026/09-08/10692871.shtml" target="_blank" class="fashi-link">【中国新闻网】“中国天眼”构建世界最大中性氢星系样本库 绘就最大宇宙气体图谱</a></li>
-      <li><a href="https://news.sciencenet.cn/htmlnews/2026/9/571120.shtm" target="_blank" class="fashi-link">【科学网】中国天眼绘就最大宇宙气体图谱</a></li>
-      <li><a href="https://www.bao.ac.cn/news/gd/202609/t20260908_8279679.html" target="_blank" class="fashi-link">【国家天文台】从追光者到掌灯人,FAST绘就最大宇宙气体图谱</a></li>
-      <li><a href="https://www.news.cn/politics/20260901/5b121c93afb34fa0a24f5ee1e5d4bb2b/c.html" target="_blank" class="fashi-link">【新华网】十载望星河 中国天眼重绘宇宙演化图景</a></li>
-      <li><a href="https://www.bao.ac.cn/news/ky/202609/t20260910_8280407.html" target="_blank" class="fashi-link">【国家天文台】恒星的迟暮与未尽的氢海：中国天眼重绘宇宙演化图景</a></li>
-      <li><a href="https://cn.chinadaily.com.cn/a/202609/01/WS6a96ea8de4b09a165c787672.html" target="_blank" class="fashi-link">【中国日报网】恒星的迟暮与未尽的氢海：中国天眼重绘宇宙演化图景</a></li>
-      <li><a href="https://www3.xinhuanet.com/politics/20260901/5b121c93afb34fa0a24f5ee1e5d4bb2b/c.html" target="_blank" class="fashi-link">【新华鲜报】十载望星河 中国天眼重绘宇宙演化图景</a></li>
-      <li><a href="https://blog.sciencenet.cn/blog-528739-1413561.html" target="_blank" class="fashi-link">【科学网】中国天眼探测并构建世界最大的中性氢星系样本</a></li>
-      <li><a href="http://news.gzu.edu.cn/2023/1211/c11069a210339/page.htm" target="_blank" class="fashi-link">【贵大新闻网讯】贵州射电天文台参与中国天眼探测 构建世界最大的中性氢星系样本</a></li>
-      <li><a href="https://tv.cctv.com/2023/12/13/VIDEQFOsBrEMP1RpItMx6eG6231213.shtml" target="_blank" class="fashi-link">【CCTV】中国天眼最新巡天成果发布 探测并构建世界最大中性氢星系样本</a></li>
-      <li><a href="https://english.news.cn/20231213/99a9ce6bcf1b461bb1b319157ab250f2/c.html" target="_blank" class="fashi-link">【Xinhua】Chinese Scientists Build Largest-Ever Neutral Hydrogen Catalog in Deep Space</a></li>
-      <li><a href="https://www.zhihu.com/question/634798604" target="_blank" class="fashi-link">【知乎】中国天眼探测并构建世界最大的中性氢星系样本，这一巡天成果有哪些意义？</a></li>
-      <li><a href="https://mp.weixin.qq.com/s/J7i9y-Bz1x353xkEI67zUw" target="_blank" class="fashi-link">【虚拟天文台】中国天眼（FAST）中性氢巡天源表：首次发布</a></li>
-      <li><a href="http://news.china.com.cn/2023-12/26/content_116904209.shtml" target="_blank" class="fashi-link">【新华网】点赞科技“热词”丨2023那些振奋人心的科技成果</a></li>
-      <li><a href="https://www.eurekalert.org/news-releases/1029943" target="_blank" class="fashi-link">【EurekAlert】FASHI Releases the Largest Extragalactic H I Catalog with FAST</a></li>
-    </ul>
+  <li><a href="https://tv.cctv.com/2026/09/10/VIDETXFGLOSBkEpURjN56rYR260910.shtml" target="_blank" class="fashi-link">【新闻直播间】中国天眼构建世界最大中性氢星系样本库</a></li>
+  <li><a href="https://tv.cctv.com/2026/09/11/VIDEuSzcOU5dMQiGFqgKR81W260911.shtml" target="_blank" class="fashi-link">【午夜新闻】中国天眼构建世界最大中性氢星系样本库</a></li>
+  <li><a href="https://www.cas.cn/spx/202609/t20260910_5120153.shtml" target="_blank" class="fashi-link">【中国科学院】中国天眼构建世界最大中性氢星系样本库</a></li>
+  <li><a href="https://www.chinanews.com.cn/sh/2026/09-08/10692871.shtml" target="_blank" class="fashi-link">【中国新闻网】“中国天眼”构建世界最大中性氢星系样本库 绘就最大宇宙气体图谱</a></li>
+  <li><a href="https://news.sciencenet.cn/htmlnews/2026/9/571120.shtm" target="_blank" class="fashi-link">【科学网】中国天眼绘就最大宇宙气体图谱</a></li>
+  <li><a href="https://www.bao.ac.cn/news/gd/202609/t20260908_8279679.html" target="_blank" class="fashi-link">【国家天文台】从追光者到掌灯人,FAST绘就最大宇宙气体图谱</a></li>
+  <li><a href="https://www.news.cn/politics/20260901/5b121c93afb34fa0a24f5ee1e5d4bb2b/c.html" target="_blank" class="fashi-link">【新华网】十载望星河 中国天眼重绘宇宙演化图景</a></li>
+  <li><a href="https://www.bao.ac.cn/news/ky/202609/t20260910_8280407.html" target="_blank" class="fashi-link">【国家天文台】恒星的迟暮与未尽的氢海：中国天眼重绘宇宙演化图景</a></li>
+  <li><a href="https://cn.chinadaily.com.cn/a/202609/01/WS6a96ea8de4b09a165c787672.html" target="_blank" class="fashi-link">【中国日报网】恒星的迟暮与未尽的氢海：中国天眼重绘宇宙演化图景</a></li>
+  <li><a href="https://www3.xinhuanet.com/politics/20260901/5b121c93afb34fa0a24f5ee1e5d4bb2b/c.html" target="_blank" class="fashi-link">【新华鲜报】十载望星河 中国天眼重绘宇宙演化图景</a></li>
+  <li><a href="https://blog.sciencenet.cn/blog-528739-1413561.html" target="_blank" class="fashi-link">【科学网】中国天眼探测并构建世界最大的中性氢星系样本</a></li>
+  <li><a href="http://news.gzu.edu.cn/2023/1211/c11069a210339/page.htm" target="_blank" class="fashi-link">【贵大新闻网讯】贵州射电天文台参与中国天眼探测 构建世界最大的中性氢星系样本</a></li>
+  <li><a href="https://tv.cctv.com/2023/12/13/VIDEQFOsBrEMP1RpItMx6eG6231213.shtml" target="_blank" class="fashi-link">【CCTV】中国天眼最新巡天成果发布 探测并构建世界最大中性氢星系样本</a></li>
+  <li><a href="https://english.news.cn/20231213/99a9ce6bcf1b461bb1b319157ab250f2/c.html" target="_blank" class="fashi-link">【Xinhua】Chinese Scientists Build Largest-Ever Neutral Hydrogen Catalog in Deep Space</a></li>
+  <li><a href="https://www.zhihu.com/question/634798604" target="_blank" class="fashi-link">【知乎】中国天眼探测并构建世界最大的中性氢星系样本，这一巡天成果有哪些意义？</a></li>
+  <li><a href="https://mp.weixin.qq.com/s/J7i9y-Bz1x353xkEI67zUw" target="_blank" class="fashi-link">【虚拟天文台】中国天眼（FAST）中性氢巡天源表：首次发布</a></li>
+  <li><a href="http://news.china.com.cn/2023-12/26/content_116904209.shtml" target="_blank" class="fashi-link">【新华网】点赞科技“热词”丨2023那些振奋人心的科技成果</a></li>
+  <li><a href="https://www.eurekalert.org/news-releases/1029943" target="_blank" class="fashi-link">【EurekAlert】FASHI Releases the Largest Extragalactic H I Catalog with FAST</a></li>
+  </ul>
   </section>
 
   <!-- ============ 底部 ============ -->
