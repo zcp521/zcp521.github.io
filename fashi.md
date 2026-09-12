@@ -582,8 +582,7 @@ tagline: "&nbsp;"
       <li><a href="https://www.cas.cn/spx/202609/t20260910_5120153.shtml" target="_blank" class="fashi-link">【中国科学院】中国天眼构建世界最大中性氢星系样本库</a></li>
       <li><a href="https://www.chinanews.com.cn/sh/2026/09-08/10692871.shtml" target="_blank" class="fashi-link">【中国新闻网】“中国天眼”构建世界最大中性氢星系样本库 绘就最大宇宙气体图谱</a></li>
       <li><a href="https://news.sciencenet.cn/htmlnews/2026/9/571120.shtm" target="_blank" class="fashi-link">【科学网】中国天眼绘就最大宇宙气体图谱</a></li>
-      <li><a href="https://www.bao.ac.cn/news/gd/202609/t20260908_8279679.html" target="_blank" class="fashi-link">【国家天文台】从追光者到掌灯人，FAST绘就最大宇宙气体图谱
-</a></li>
+      <li><a href="https://www.bao.ac.cn/news/gd/202609/t20260908_8279679.html" target="_blank" class="fashi-link">【国家天文台】从追光者到掌灯人,FAST绘就最大宇宙气体图谱</a></li>
       <li><a href="https://www.news.cn/politics/20260901/5b121c93afb34fa0a24f5ee1e5d4bb2b/c.html" target="_blank" class="fashi-link">【新华网】十载望星河 中国天眼重绘宇宙演化图景</a></li>
       <li><a href="https://www.bao.ac.cn/news/ky/202609/t20260910_8280407.html" target="_blank" class="fashi-link">【国家天文台】恒星的迟暮与未尽的氢海：中国天眼重绘宇宙演化图景</a></li>
       <li><a href="https://cn.chinadaily.com.cn/a/202609/01/WS6a96ea8de4b09a165c787672.html" target="_blank" class="fashi-link">【中国日报网】恒星的迟暮与未尽的氢海：中国天眼重绘宇宙演化图景</a></li>
