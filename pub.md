@@ -264,7 +264,7 @@ tagline: "&nbsp;"
   <span class="pub-item">
     <span class="authors">Cheng, Cheng; <strong>Zhang, Chuan-Peng</strong>; Ibar, Edo; Smith, Rory; Xu, Weiwei; Kim, Hyowon; Huang, Jia-Sheng; Zhang, Wei; Zuo, Pei; Méndez-Hernández, Hugo; Molina, Juan; Zhu, Ming; Yu, Qian</span><br>
     <span class="title">"HI Depletion Begins Well Beyond the Virial Radius: A FAST Stacking Study of 36 Galaxy Clusters to 5R200"</span><br>
-    <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1009....5Z/abstract" target="_blank">2026ApJ..1009....5Z</a></span>
+    <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1009...29C/abstract" target="_blank">2026ApJ..1009...29C</a></span>
   </span>
 </div>
 
