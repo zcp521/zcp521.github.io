@@ -189,7 +189,7 @@ tagline: "&nbsp;"
   <span class="pub-item">
     <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</span><br>
     <span class="title">"The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function"</span><br>
-    <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank">2026arXiv260631539Z</a></span>
+    <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026SCPMA..6929811Z/abstract" target="_blank">2026SCPMA..6929811Z</a></span>
   </span>
 </div>
 
@@ -246,16 +246,16 @@ tagline: "&nbsp;"
     <span class="pub-item">
       <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</span><br>
       <span class="title">"The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function"</span><br>
-      <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank">2026arXiv260631539Z</a></span>
+      <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026SCPMA..6929811Z/abstract" target="_blank">2026SCPMA..6929811Z</a></span>
     </span>
   </div>
 
 
-<!-- 99 --><div class="pub-item-wrapper"> <span class="pub-number">99</span> <span class="pub-item"> <span class="authors">Ouyang, Xu-Jia; Zhang, Yong; <strong>Zhang, Chuan-Peng</strong>; Zhang, Li-Yun</span><br> <span class="title">"HI envelope around the carbon star V420 Vul"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260806245O/abstract" target="_blank">2026arXiv260806245O</a></span> </span> </div>
+<!-- 99 --><div class="pub-item-wrapper"> <span class="pub-number">99</span> <span class="pub-item"> <span class="authors">Ouyang, Xu-Jia; Zhang, Yong; <strong>Zhang, Chuan-Peng</strong>; Zhang, Li-Yun</span><br> <span class="title">"HI envelope around the carbon star V420 Vul"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026A&A...712L..23O/abstract" target="_blank">2026A&A...712L..23O</a></span> </span> </div>
 
 <!-- 98 --><div class="pub-item-wrapper"> <span class="pub-number">98</span> <span class="pub-item"> <span class="authors"><strong>Zhang, Chuan-Peng</strong>; Zhu, Ming; Jiang, Peng; Guo, Hong; Gu, Yizhou; Cheng, Cheng; Xu, Jin-Long; Yu, Nai-Ping; Liu, Xiao-Lan; Zhang, Bo</span><br> <span class="title">"FASHI DR2: A Catalog of 132 Low-Redshift HI 21 cm Absorption Systems"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260823385Z/abstract" target="_blank">2026arXiv260823385Z</a></span> </span> </div>
 
-<!-- 97 --><div class="pub-item-wrapper"> <span class="pub-number">97</span> <span class="pub-item"> <span class="authors">Zhou, Ruilei; Zhu, Ming; <strong>Zhang, Chuan-Peng</strong>; Du, Lin; Cheng, Cheng; Guo, Qi; Cao, Tian-Wen; Xi, Wenzhe</span><br> <span class="title">"An HI study of a large sample of ultra-diffuse galaxies"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260824225Z/abstract" target="_blank">2026arXiv260824225Z</a></span> </span> </div>
+<!-- 97 --><div class="pub-item-wrapper"> <span class="pub-number">97</span> <span class="pub-item"> <span class="authors">Zhou, Ruilei; Zhu, Ming; <strong>Zhang, Chuan-Peng</strong>; Du, Lin; Cheng, Cheng; Guo, Qi; Cao, Tian-Wen; Xi, Wenzhe</span><br> <span class="title">"An HI study of a large sample of ultra-diffuse galaxies"</span><br> <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1009....5Z/abstract" target="_blank">2026ApJ..1009....5Z</a></span> </span> </div>
 
 
 <!-- 96 -->
@@ -264,7 +264,7 @@ tagline: "&nbsp;"
   <span class="pub-item">
     <span class="authors">Cheng, Cheng; <strong>Zhang, Chuan-Peng</strong>; Ibar, Edo; Smith, Rory; Xu, Weiwei; Kim, Hyowon; Huang, Jia-Sheng; Zhang, Wei; Zuo, Pei; Méndez-Hernández, Hugo; Molina, Juan; Zhu, Ming; Yu, Qian</span><br>
     <span class="title">"HI Depletion Begins Well Beyond the Virial Radius: A FAST Stacking Study of 36 Galaxy Clusters to 5R200"</span><br>
-    <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260725800C/abstract" target="_blank">2026arXiv260725800C</a></span>
+    <span class="ref"><a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1009....5Z/abstract" target="_blank">2026ApJ..1009....5Z</a></span>
   </span>
 </div>
 
