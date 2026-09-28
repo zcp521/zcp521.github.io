@@ -548,7 +548,7 @@ tagline: "&nbsp;"
       <div class="pub-item">
         <div class="pub-title">The FAST All Sky H I Survey DR2: the FASHI Catalog and the H I Mass Function</div>
         <div class="pub-authors">Zhang, Chuan-Peng; Zhu, Ming; Jiang, Peng; Guo, Hong; Xu, Jin-Long; Liu, Xiao-Lan; Yu, Nai-Ping; Cheng, Cheng; Wang, Jing; Wang, Jie; FAST Collaboration</div>
-        <div class="pub-ref"><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260631539Z/abstract" target="_blank" class="fashi-link">2026arXiv260631539Z</a></div>
+        <div class="pub-ref"><a href="https://ui.adsabs.harvard.edu/abs/2026SCPMA..6929811Z/abstract" target="_blank" class="fashi-link">2026SCPMA..6929811Z</a></div>
       </div>
 
       <div class="pub-item">
